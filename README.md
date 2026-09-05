@@ -18,7 +18,9 @@ Wikidata serves as the knowledge graph here: entities are nodes, relations are e
 
 The project is structured as a sequential data pipeline. Each step is encapsulated in its own script for modularity and easy reproduction.
 
-![Pipeline Architecture](results/figures/Pipeline.png)
+<p align="center">
+  <img src="results/figures/Pipeline.png" alt="Pipeline Architecture" width="850"/>
+</p>
 
 1. **Entity Collection (`1_collect_entities.py`)**: 
    Fetches ground-truth facts for 60 entities from Wikidata via SPARQL and the EntityData API.
@@ -39,25 +41,39 @@ The project is structured as a sequential data pipeline. Each step is encapsulat
 
 Two of the three models hallucinated most on low-popularity entities, but the effect is **not universal** — Ministral-8B showed the opposite pattern.
 
-<img src="results/figures/fig1_hallucination_by_tier.png" alt="Hallucination Rate by Tier" width="600"/>
+<p align="center">
+  <img src="results/figures/fig1_hallucination_by_tier.png" alt="Hallucination Rate by Tier" width="850"/>
+</p>
 
-| Model | High | Medium | Low |
-|:---:|:---:|:---:|:---:|
-| Llama-3.1-8B | 0.9% | 0.5% | **2.6%** |
-| Qwen-2.5-7B | 1.9% | 1.2% | **3.6%** |
-| Ministral-8B | **1.2%** | 0.3% | 0.0% |
+<div align="center">
+
+<table>
+<tr><th>Model</th><th>High</th><th>Medium</th><th>Low</th></tr>
+<tr><td>Llama-3.1-8B</td><td>0.9%</td><td>0.5%</td><td><b>2.6%</b></td></tr>
+<tr><td>Qwen-2.5-7B</td><td>1.9%</td><td>1.2%</td><td><b>3.6%</b></td></tr>
+<tr><td>Ministral-8B</td><td><b>1.2%</b></td><td>0.3%</td><td>0.0%</td></tr>
+</table>
+
+</div>
 
 Llama and Qwen behave as the popularity hypothesis predicts. Ministral-8B does not: its highest rate is on the *most* famous entities. Since all three models sit in the same 7–9B parameter range, scale alone does not predict factual behaviour — training data and alignment differ enough to reverse the trend.
 
 ### Verification coverage
 
-<img src="results/figures/fig2_label_breakdown.png" alt="Verification Outcomes" width="400"/>
+<p align="center">
+  <img src="results/figures/fig2_label_breakdown.png" alt="Verification Outcomes" width="600"/>
+</p>
 
-| Model | Supported | Contradicted | Unverifiable |
-|:---:|:---:|:---:|:---:|
-| Llama-3.1-8B | 59.6% | 1.3% | 39.1% |
-| Qwen-2.5-7B | 64.5% | 2.2% | 33.3% |
-| Ministral-8B | 49.6% | 0.5% | 49.8% |
+<div align="center">
+
+<table>
+<tr><th>Model</th><th>Supported</th><th>Contradicted</th><th>Unverifiable</th></tr>
+<tr><td>Llama-3.1-8B</td><td>59.6%</td><td>1.3%</td><td>39.1%</td></tr>
+<tr><td>Qwen-2.5-7B</td><td>64.5%</td><td>2.2%</td><td>33.3%</td></tr>
+<tr><td>Ministral-8B</td><td>49.6%</td><td>0.5%</td><td>49.8%</td></tr>
+</table>
+
+</div>
 
 Between a third and half of all claims could not be verified either way. Two causes: Wikidata simply lacks the relevant property (e.g. it records *that* Einstein won a Nobel Prize, not the year), and the NLI model misses paraphrases — it does not recognise "E=mc²" as a restatement of "mass–energy equivalence".
 
