@@ -1,6 +1,6 @@
 # Knowledge-Graph-Based Hallucination Detection in LLMs
 
-<a href="https://colab.research.google.com/github/YOUR_USERNAME/KGHallucinate/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/omrusman/KGHallucinate/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This repository contains the full codebase and dataset for evaluating hallucination rates in Large Language Models (LLMs) across different entities, segmented by their popularity. 
 
@@ -48,7 +48,7 @@ If you want to run the full pipeline from scratch:
 ### 1. Prerequisites
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/KGHallucinate.git
+git clone https://github.com/omrusman/KGHallucinate.git
 cd KGHallucinate
 pip install -r requirements.txt
 ```
