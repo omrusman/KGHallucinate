@@ -1,20 +1,20 @@
-﻿# Knowledge-Graph-Based Hallucination Detection in LLMs
+# Knowledge-Graph-Based Hallucination Detection in LLMs
 
 <a href="https://colab.research.google.com/github/omrusman/KGHallucinate/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This repository contains the full codebase and dataset for evaluating hallucination rates in Large Language Models (LLMs) across different entities, segmented by their popularity.
 
-## ðŸŽ¯ Project Overview
+## 🎯 Project Overview
 
 The core hypothesis of this project is that LLM hallucination rates increase as the popularity of the queried entity decreases, primarily due to sparser representation in their training data.
 
 To test this, I evaluated three instruction-tuned models of similar parameter size (`meta-llama/llama-3.1-8b-instruct`, `qwen/qwen-2.5-7b-instruct`, and `mistralai/ministral-8b-2512`) across 60 scientists. These entities are categorized into **High**, **Medium**, and **Low** popularity tiers based on their Wikidata sitelink counts.
 
-Wikidata serves as the knowledge graph here: entities are nodes, relations are edges, and nine fact properties are extracted per scientist. Unlike retrieval-augmented generation, the graph is never given to the model at generation time â€” it is used only for post-hoc verification, so what is measured is unaided parametric knowledge.
+Wikidata serves as the knowledge graph here: entities are nodes, relations are edges, and nine fact properties are extracted per scientist. Unlike retrieval-augmented generation, the graph is never given to the model at generation time — it is used only for post-hoc verification, so what is measured is unaided parametric knowledge.
 
 ---
 
-## ðŸ—ï¸ Pipeline Architecture
+## 🏗️ Pipeline Architecture
 
 The project is structured as a sequential data pipeline. Each step is encapsulated in its own script for modularity and easy reproduction.
 
@@ -27,17 +27,17 @@ The project is structured as a sequential data pipeline. Each step is encapsulat
 3. **Claim Decomposition (`3_decompose_claims.py`)**: 
    Uses an LLM to decompose the generated paragraphs into atomic, single-fact sentences (following a FActScore-style approach).
 4. **Claim Verification (`4_verify_claims.py`)**: 
-   Verifies each atomic claim against the structured Wikidata facts in two stages â€” a literal substring match against fact values, then a local NLI model (`roberta-large-mnli`) for paraphrased claims. Only single-valued fields (birth date, birthplace) can yield a contradiction; multi-valued fields such as employer or awards cannot, since matching a different true item is not a contradiction.
+   Verifies each atomic claim against the structured Wikidata facts in two stages — a literal substring match against fact values, then a local NLI model (`roberta-large-mnli`) for paraphrased claims. Only single-valued fields (birth date, birthplace) can yield a contradiction; multi-valued fields such as employer or awards cannot, since matching a different true item is not a contradiction.
 5. **Results Analysis (`5_analyze_results.py`)**: 
    Aggregates the verification data, calculates global and tier-based hallucination rates, exports to Excel, and generates the visual charts.
 
 ---
 
-## ðŸ“Š Results & Visualization
+## 📊 Results & Visualization
 
 ### Headline finding
 
-Two of the three models hallucinated most on low-popularity entities, but the effect is **not universal** â€” Ministral-8B showed the opposite pattern.
+Two of the three models hallucinated most on low-popularity entities, but the effect is **not universal** — Ministral-8B showed the opposite pattern.
 
 <img src="results/figures/fig1_hallucination_by_tier.png" alt="Hallucination Rate by Tier" width="600"/>
 
@@ -47,11 +47,11 @@ Two of the three models hallucinated most on low-popularity entities, but the ef
 | Qwen-2.5-7B | 1.9% | 1.2% | **3.6%** |
 | Ministral-8B | **1.2%** | 0.3% | 0.0% |
 
-Llama and Qwen behave as the popularity hypothesis predicts. Ministral-8B does not: its highest rate is on the *most* famous entities. Since all three models sit in the same 7â€“9B parameter range, scale alone does not predict factual behaviour â€” training data and alignment differ enough to reverse the trend.
+Llama and Qwen behave as the popularity hypothesis predicts. Ministral-8B does not: its highest rate is on the *most* famous entities. Since all three models sit in the same 7–9B parameter range, scale alone does not predict factual behaviour — training data and alignment differ enough to reverse the trend.
 
 ### Verification coverage
 
-<img src="results/figures/fig2_label_breakdown.png" alt="Verification Outcomes" width="600"/>
+<img src="results/figures/fig2_label_breakdown.png" alt="Verification Outcomes" width="400"/>
 
 | Model | Supported | Contradicted | Unverifiable |
 |:---:|:---:|:---:|:---:|
@@ -59,16 +59,16 @@ Llama and Qwen behave as the popularity hypothesis predicts. Ministral-8B does n
 | Qwen-2.5-7B | 64.5% | 2.2% | 33.3% |
 | Ministral-8B | 49.6% | 0.5% | 49.8% |
 
-Between a third and half of all claims could not be verified either way. Two causes: Wikidata simply lacks the relevant property (e.g. it records *that* Einstein won a Nobel Prize, not the year), and the NLI model misses paraphrases â€” it does not recognise "E=mcÂ²" as a restatement of "massâ€“energy equivalence".
+Between a third and half of all claims could not be verified either way. Two causes: Wikidata simply lacks the relevant property (e.g. it records *that* Einstein won a Nobel Prize, not the year), and the NLI model misses paraphrases — it does not recognise "E=mc²" as a restatement of "mass–energy equivalence".
 
 ### High-tier errors are mostly artifacts
 
 Manual inspection of all 23 contradictions found a qualitative split. Every high-tier case stems from a representation mismatch rather than a fabricated fact:
 
-- **Calendar systems** â€” all three models gave Newton's birth as 4 January 1643 (Gregorian); Wikidata records 1642 (Julian).
-- **Location granularity** â€” models said Turing was born in "Maida Vale, London"; Wikidata records "Warrington Lodge", a building *within* Maida Vale. Faraday and Mendeleev were flagged the same way.
+- **Calendar systems** — all three models gave Newton's birth as 4 January 1643 (Gregorian); Wikidata records 1642 (Julian).
+- **Location granularity** — models said Turing was born in "Maida Vale, London"; Wikidata records "Warrington Lodge", a building *within* Maida Vale. Faraday and Mendeleev were flagged the same way.
 
-Low-tier contradictions are genuine errors with no alternative reading â€” Willis Lamb placed in Chicago rather than Los Angeles, Owen Chamberlain in Detroit rather than San Francisco, Janus Friis born in 1972 rather than 1976.
+Low-tier contradictions are genuine errors with no alternative reading — Willis Lamb placed in Chicago rather than Los Angeles, Owen Chamberlain in Detroit rather than San Francisco, Janus Friis born in 1972 rather than 1976.
 
 If that reading holds, the true popularity gap is **wider** than the chart shows, since the high-tier bars are inflated by measurement artifacts.
 
@@ -80,7 +80,7 @@ If that reading holds, the true popularity gap is **wider** than the chart shows
 
 ---
 
-## ðŸš€ How to Run Locally
+## 🚀 How to Run Locally
 
 If you want to run the full pipeline from scratch:
 
@@ -112,14 +112,14 @@ python 5_analyze_results.py
 
 ---
 
-## ðŸ“‚ Data Structure
+## 📂 Data Structure
 
 All generated outputs and raw statistics are stored in the `data/` and `results/` folders.
 - `data/verified.json`: The final JSON containing the atomic claims, the truth values, and the NLI confidence scores.
 - `results/hallucination_results.xlsx`: Contains full statistical breakdowns and raw claim-level verdicts in a readable spreadsheet.
 - `results/figures/`: Contains the generated matplotlib charts.
 
-## ðŸ¤ Colab Quickstart
+## 🤝 Colab Quickstart
 
 Don't want to set up the local pipeline? You can instantly run the pipeline using Google Colab. Just open the provided `Pipeline_Colab.ipynb` notebook (click the Colab badge at the top).
 
