@@ -1,6 +1,6 @@
 # Knowledge-Graph-Based Hallucination Detection in LLMs
 
-<a href="https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/YOUR_USERNAME/KGHallucinate/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This repository contains the full codebase and dataset for evaluating hallucination rates in Large Language Models (LLMs) across different entities, segmented by their popularity. 
 
@@ -12,19 +12,11 @@ To test this, I evaluated three instruction-tuned models of similar parameter si
 
 ---
 
-## 📊 Results & Visualization
-
-My findings indicate a clear correlation between entity popularity and hallucination rates.
-
-![Hallucination Rate by Tier](results/figures/fig1_hallucination_by_tier.png)
-
-![Verification Outcomes](results/figures/fig2_label_breakdown.png)
-
----
-
 ## 🏗️ Pipeline Architecture
 
 The project is structured as a sequential data pipeline. Each step is encapsulated in its own script for modularity and easy reproduction.
+
+![Pipeline Architecture](results/figures/Pipeline.png)
 
 1. **Entity Collection (`1_collect_entities.py`)**: 
    Fetches ground-truth facts for 60 entities from Wikidata via SPARQL and the EntityData API.
@@ -39,6 +31,16 @@ The project is structured as a sequential data pipeline. Each step is encapsulat
 
 ---
 
+## 📊 Results & Visualization
+
+My findings indicate a clear correlation between entity popularity and hallucination rates.
+
+![Hallucination Rate by Tier](results/figures/fig1_hallucination_by_tier.png)
+
+![Verification Outcomes](results/figures/fig2_label_breakdown.png)
+
+---
+
 ## 🚀 How to Run Locally
 
 If you want to run the full pipeline from scratch:
@@ -46,8 +48,8 @@ If you want to run the full pipeline from scratch:
 ### 1. Prerequisites
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/YOUR_USERNAME/KGHallucinate.git
+cd KGHallucinate
 pip install -r requirements.txt
 ```
 
