@@ -1,0 +1,1282 @@
+[
+    {
+        "id": "Q937",
+        "name": "Albert Einstein",
+        "sitelinks": 321,
+        "facts": {
+            "date_of_birth": "1879",
+            "birthplace": "Ulm",
+            "occupation": "theoretical physicist, philosopher of science, inventor, science writer, pedagogue, university teacher, physicist, philosopher, writer, scientist, mathematician, patent examiner, professor, pacifist",
+            "field_of_work": "theoretical physics",
+            "educated_at": "ETH Zurich, Luitpold-Gymnasium, Old Kantonsschule (Albert Einstein House), University of Zurich",
+            "employer": "Swiss Federal Institute of Intellectual Property, Charles University, University of Zurich, German University in Prague, ETH Zurich, Kaiser Wilhelm Society, Princeton University, Leiden University, University of Bern, Deutsche Physikalische Gesellschaft, Humboldt-Universit\u00e4t zu Berlin, Royal Prussian Academy of Sciences, Institute for Advanced Study, Leiden University, Bern, University of California, Berkeley",
+            "notable_work": "special relativity, general relativity, photoelectric effect, theory of relativity, theory of Brownian Motion, mass\u2013energy equivalence, Planck constant, Einstein field equations, quantum mechanics, unified field theory, stimulated emission",
+            "award_received": "Barnard Medal for Meritorious Service to Science, Nobel Prize in Physics, Gold Medal of the Royal Astronomical Society, Prix Jules Janssen, Matteucci Medal, Max Planck Medal, Franklin Medal, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Josiah Willard Gibbs Lectureship, Honorary doctorate from the University of Geneva, honorary doctor of the Hebrew University of Jerusalem, honorary doctorate from Princeton University, honorary doctor of the University of Madrid Complutense, Foreign Member of the Royal Society, Great Immigrants Award, Pour le M\u00e9rite, Honorary Fellow of the Royal Society Te Ap\u0101rangi, doctor honoris causa from the University of Paris, New Jersey Hall of Fame, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Kingdom of W\u00fcrttemberg, statelessness, Switzerland, Cisleithania, Weimar Republic, Germany, United States"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Albert Einstein was born on March 14, 1879, in Ulm, Kingdom of W\u00fcrttemberg, German Empire. He studied physics at the Swiss Federal Polytechnic University, graduating in 1900. Einstein worked as a patent clerk in Bern, Switzerland, and later as a professor at the University of Zurich and the University of Berlin. He is widely recognized for his contributions to the development of the theory of relativity and the famous equation E=mc\u00b2.",
+            "qwen/qwen-2.5-7b-instruct": "Albert Einstein was born in 1879 in Ulm, Germany. He is renowned for his contributions to theoretical physics, particularly for his development of the theory of relativity and his mass-energy equivalence formula, E=mc\u00b2. Einstein held professorships in Zurich, Berlin, and Princeton, and he was awarded the Nobel Prize in Physics in 1921 for his services to theoretical physics.",
+            "mistralai/ministral-8b-2512": "Albert Einstein was born on **March 14, 1879**, in **Ulm, Kingdom of W\u00fcrttemberg (now Germany)**. He studied physics and mathematics at the **Swiss Federal Polytechnic School (ETH Zurich)**, earning his degree in 1900. After working as a patent examiner, he developed his **theory of relativity (1905\u20131915)**, revolutionizing physics with concepts like **E=mc\u00b2**. He won the **Nobel Prize in Physics (1921)** for explaining the photoelectric effect. Einstein also contributed to quantum theory, cosmology, and statistical mechanics, and he died on **April 18, 1955**, in Princeton, New Jersey, USA."
+        }
+    },
+    {
+        "id": "Q935",
+        "name": "Isaac Newton",
+        "sitelinks": 303,
+        "facts": {
+            "date_of_birth": "1642, 1643, 1642",
+            "birthplace": "Woolsthorpe Manor, Woolsthorpe-by-Colsterworth",
+            "occupation": "mathematician, physicist, philosopher, astronomer, theologian, inventor, alchemist, politician, polymath, university teacher, theoretical physicist, chemist, theologian, astrologer, writer, mintmaster, scientist, executive",
+            "field_of_work": "physics, mechanics, mathematics, astronomy, natural science, celestial mechanics, gravity, optics, mathematical analysis, momentum",
+            "educated_at": "The King's School, Grantham, Trinity College, Trinity College, University of Cambridge",
+            "employer": "University of Cambridge",
+            "notable_work": "Philosophi\u00e6 Naturalis Principia Mathematica, Method of Fluxions, Opticks, or a Treatise of the Reflections, Refractions, Inflections and Colours of Light",
+            "award_received": "Knight Bachelor",
+            "citizenship": "Kingdom of England, Kingdom of Great Britain, United Kingdom"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Isaac Newton was born on January 4, 1643, in Woolsthorpe, Lincolnshire, England. He was educated at The King's School in Grantham and later at Trinity College, Cambridge, where he earned his Bachelor's degree in 1665 and his Master's degree in 1667. Newton's work as a mathematician, physicist, and scientist led to major contributions in the fields of calculus, optics, and physics, including the development of the laws of motion and universal gravitation. He was elected a Fellow of the Royal Society in 1672 and was knighted in 1705 for his services to science.",
+            "qwen/qwen-2.5-7b-instruct": "Isaac Newton was born in 1643 in Woolsthorpe, England. He is renowned for his contributions to physics, mathematics, and astronomy. Newton served as a professor at the University of Cambridge and is best known for his laws of motion and universal gravitation.",
+            "mistralai/ministral-8b-2512": "Isaac Newton was born on **January 4, 1643** (or December 25, 1642, by the Julian calendar), in **Woolsthorpe, Lincolnshire, England**. He attended **The King\u2019s School** in Grantham before enrolling at **Trinity College, Cambridge**, in 1661, where he later became a **Lucasian Professor of Mathematics** (1669). A polymath, Newton made groundbreaking contributions to **physics, mathematics, astronomy, and natural philosophy**, most notably formulating the **laws of motion and universal gravitation** (published in *Philosophi\u00e6 Naturalis Principia Mathematica*, 1687). He also developed **calculus**, refined the **reflecting telescope**, and advanced optics (*Opticks*, 1704). Elected to the **Royal Society** in 1672, he served as its president from **1703 until his death on March 31, 1727**, in London."
+        }
+    },
+    {
+        "id": "Q7186",
+        "name": "Marie Curie",
+        "sitelinks": 247,
+        "facts": {
+            "date_of_birth": "1867",
+            "birthplace": "Warsaw",
+            "occupation": "physicist, chemist, university teacher",
+            "field_of_work": "radioactivity, chemistry, physics, radium, polonium",
+            "educated_at": "Science Faculty of Paris, Flying University, University of Paris, 10th Secondary School named after Queen Jadwiga in Warsaw, University of Paris, University of Paris",
+            "employer": "University of Paris, Sorbonne, Curie Institute",
+            "notable_work": "Treatise on Radioactivity",
+            "award_received": "Nobel Prize in Chemistry, Nobel Prize in Physics, Willard Gibbs Award, honorary doctor of the Jagiellonian University of Krakow, John Scott Award, Elliott Cresson Medal, Davy Medal, Matteucci Medal, Actonian Prize, Albert Medal, prix Gegner, Benjamin Franklin Medal, Order of the White Eagle, Cameron Prize of the University of Edinburgh, Knight of the Legion of Honour, Honorary Fellow of the Royal Society Te Ap\u0101rangi, 72 scientist women names on the Eiffel tower",
+            "citizenship": "Second Polish Republic, France, Russian Empire"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Marie Curie was born Maria Sk\u0142odowska on November 7, 1867, in Warsaw, Poland. She studied physics and mathematics at the Flying University, a secret institution for women, and later moved to Paris to pursue further education at the Sorbonne, where she earned her degree in physics in 1893. Curie went on to earn her doctorate in physics from the Sorbonne in 1903 and became a professor of general physics at the University of Paris in 1906. She was awarded the Nobel Prize in Physics in 1903, along with her husband Pierre Curie and Henri Becquerel, for their pioneering work on radioactivity, and again in 1911, this time alone, for her work on the isolation of pure radium.",
+            "qwen/qwen-2.5-7b-instruct": "Marie Curie was born in 1867 in Warsaw, Poland. She is renowned for her pioneering work in the field of radioactivity and was the first woman to win a Nobel Prize, which she received twice, in Physics in 1903 and Chemistry in 1911.",
+            "mistralai/ministral-8b-2512": "Marie Curie (born **Maria Sk\u0142odowska**) was born on **November 7, 1867**, in **Warsaw, Poland** (then part of the Russian Empire). She earned her early education in Poland before moving to **Paris, France**, in 1891 to study at the **Sorbonne**, where she obtained a **Bachelor of Science (1893)** and a **Doctor of Science (1900)** in physics and mathematics. A pioneering physicist and chemist, she conducted groundbreaking research on **radioactivity**, coining the term and isolating **polonium** (named after her homeland) and **radium**. In **1903**, she shared the **Nobel Prize in Physics** with her husband, Pierre Curie, and Henri Becquerel for their work on radioactivity, and in **1911**, she became the first person (and only woman at the time) to win a **Nobel Prize in two different fields** (Chemistry for radium isolation). Curie died on **July 4, 1934**, in **Sallanches, France**, from **aplastic anemia**, likely caused by prolonged exposure to radioactive materials."
+        }
+    },
+    {
+        "id": "Q1035",
+        "name": "Charles Darwin",
+        "sitelinks": 278,
+        "facts": {
+            "date_of_birth": "1809",
+            "birthplace": "The Mount, Shrewsbury",
+            "occupation": "geologist, explorer, travel writer, ethologist, naturalist, philosopher, writer, botanist, botanical collector, scientific collector, biologist",
+            "field_of_work": "biology, natural history, zoology",
+            "educated_at": "Christ's College, University of Edinburgh Medical School, Shrewsbury School, University of Cambridge, University of Edinburgh",
+            "employer": "Royal Geographical Society",
+            "notable_work": "On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection, On the Origin of Species, The Voyage of the Beagle, The Descent of Man, and Selection in Relation to Sex, The Expression of the Emotions in Man and Animals, Insectivorous Plants, The Power of Movement in Plants, The Formation of Vegetable Mould through the Action of Worms",
+            "award_received": "Royal Medal, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Pour le M\u00e9rite, Fellow of the Linnean Society of London, Fellow of the Royal Geographical Society, Fellow of the Royal Society, Baly Medal, Fellow of the Geological Society of London, Bressa Prize, Honorary doctor of Leiden University, Wollaston Medal, Honorary Fellow of the Royal Society Te Ap\u0101rangi, Darwin Medal",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Charles Robert Darwin was born on February 12, 1809, in Shrewsbury, Shropshire, England. He was the fifth of six children to Robert Waring Darwin and Susannah Wedgwood. Darwin studied theology at Christ's College, Cambridge, but his interests shifted to natural history and botany, leading him to participate in the HMS Beagle's voyage as a naturalist from 1831 to 1836. After the voyage, he continued to work on his theory of evolution through natural selection, publishing his groundbreaking book \"On the Origin of Species\" in 1859.",
+            "qwen/qwen-2.5-7b-instruct": "Charles Darwin was born in 1809 in Shrewsbury, England. He is best known for his contributions to the science of evolution, particularly his book \"On the Origin of Species.\" Darwin was educated at the University of Edinburgh in medicine and later attended Christ's College, Cambridge, where he studied theology and developed his interest in natural history.",
+            "mistralai/ministral-8b-2512": "Charles Darwin (1809\u20131882) was a British naturalist, biologist, and geologist, best known for his theory of evolution by natural selection. Born on February 12, 1809, in Shrewsbury, England, he studied medicine at the University of Edinburgh (1825\u20131827) before transferring to Christ\u2019s College, Cambridge, where he graduated in 1831 with a degree in theology. In 1831, he joined HMS *Beagle* as a naturalist, traveling extensively and collecting specimens that informed his later work. His seminal book, *On the Origin of Species* (1859), proposed the mechanism of natural selection as the driving force of evolution. Darwin also authored influential works on human evolution (*The Descent of Man*, 1871) and plant fertilization (*The Fertilisation of Orchids*, 1862)."
+        }
+    },
+    {
+        "id": "Q307",
+        "name": "Galileo Galilei",
+        "sitelinks": 269,
+        "facts": {
+            "date_of_birth": "1564",
+            "birthplace": "Pisa",
+            "occupation": "astronomer, philosopher, mathematician, physicist, inventor, astrologer, university teacher, scientist, engineer, philosopher, politician",
+            "field_of_work": "astronomy, physics, mechanics, philosophy, mathematics",
+            "educated_at": "University of Pisa",
+            "employer": "University of Padua, University of Pisa",
+            "notable_work": "Galilean transformation, equations for a falling body",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Duchy of Florence, Grand Duchy of Tuscany"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Galileo Galilei was born on February 15, 1564, in Pisa, Italy. He was a mathematician, physicist, and astronomer who studied medicine at the University of Pisa and later taught mathematics at the University of Pisa and the University of Padua. Galilei was a professor of mathematics at the University of Padua from 1592 to 1610, and his observations of the night sky led to the development of the telescope, which he used to study the heavens and challenge the geocentric model of the universe. He was a key figure in the Scientific Revolution of the 16th and 17th centuries. Galilei died on January 8, 1642, in Arcetri, Italy.",
+            "qwen/qwen-2.5-7b-instruct": "Galileo Galilei was born in 1564 in Pisa, Italy. He was an Italian astronomer, physicist, and engineer who made significant contributions to the scientific revolution. Galileo is known for his improvements to the telescope and for his astronomical observations, which supported Copernican theory.",
+            "mistralai/ministral-8b-2512": "Galileo Galilei was born on **February 15, 1564**, in **Pisa, Republic of Florence** (modern-day Italy). A polymath, he was primarily a **physicist, astronomer, mathematician, and philosopher**, renowned for his contributions to the Scientific Revolution. He studied **mathematics and philosophy** at the University of Pisa, later becoming a professor of mathematics at the University of Padua (1592\u20131610). His observations with a telescope (1609) supported Copernican heliocentrism, challenging the geocentric model of Ptolemy and the Catholic Church. Galileo died on **January 8, 1642**, in Arcetri, near Florence."
+        }
+    },
+    {
+        "id": "Q9036",
+        "name": "Nikola Tesla",
+        "sitelinks": 217,
+        "facts": {
+            "date_of_birth": "1856",
+            "birthplace": "Smiljan",
+            "occupation": "inventor, electrical engineer, physicist, electrician, mechanical engineer, futurist",
+            "field_of_work": "electrical engineering, mechanical engineering, physicist, mechanics, inventor",
+            "educated_at": "Karlovac Gymnasium, Graz University of Technology, Charles University",
+            "employer": "Tesla Electric Light & Manufacturing, Westinghouse Electric Corporation",
+            "award_received": "Edison Medal, IEEE Fellow, Knight Grand Cross of the Order of the White Eagle, Elliott Cresson Medal, John Scott Award, Knight Grand Cross of the Order of Saint Sava, National Inventors Hall of Fame, Honorary doctor of the University of Zagreb, Grand cross of the Order of the White Lion, Fellow of the American Association for the Advancement of Science, Honorary doctor of the Technical University of Graz, Order of St. Sava, Order of the White Eagle, Order of the Crown, Order of Prince Danilo I, doctor honoris causa from the University of Paris, Order of the White Lion",
+            "citizenship": "Austrian Empire, Hungary, United States, Croatia"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Nikola Tesla was born on July 10, 1856, in Smiljan, Croatia, which was then part of the Austro-Hungarian Empire. He studied electrical engineering at the Technical University of Graz in Austria and later at the Charles-Ferdinand University in Prague. Tesla worked as an electrical engineer for Continental Edison Company in Paris and later for the American Telephone and Telegraph Company in New York City, where he developed his ideas for alternating current (AC) systems. He founded his own company, Tesla Electric Light & Manufacturing, in 1886 and became a prominent figure in the \"War of the Currents\" between AC and direct current (DC) systems.",
+            "qwen/qwen-2.5-7b-instruct": "Nikola Tesla was born in 1856 in Smiljan, Croatia. He is renowned for his contributions to the design of the alternating current (AC) electrical system and conducted pioneering experiments with the wireless transmission of electricity. Tesla received his education at the Austrian Polytechnic in Graz and worked for the Continental Edison Company in Paris before establishing his own laboratory in New York City.",
+            "mistralai/ministral-8b-2512": "Nikola Tesla (1856\u20131943) was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the development of alternating current (AC) electrical systems. Born on July 10, 1856, in Smiljan, Austrian Empire (now Croatia), he earned degrees in physics and engineering from the Austrian Polytechnic in Graz (1875\u20131878) and the University of Prague (1880). Tesla worked with Thomas Edison in New York before establishing his own company, Tesla Electric Light & Manufacturing, and later patenting groundbreaking technologies like the Tesla coil and AC induction motor. He also explored wireless communication, X-rays, and robotics, though many of his later ideas remained unproven or impractical. Tesla died on January 7, 1943, in New York City, and his work laid foundational principles for modern electrical engineering."
+        }
+    },
+    {
+        "id": "Q7251",
+        "name": "Alan Turing",
+        "sitelinks": 189,
+        "facts": {
+            "date_of_birth": "1912",
+            "birthplace": "Maida Vale, Warrington Lodge",
+            "occupation": "computer scientist, mathematician, university teacher, cryptographer, logician, statistician, marathon runner, artificial intelligence researcher",
+            "field_of_work": "cryptanalysis, computer science, mathematics, logic, cryptography",
+            "educated_at": "Hazlehurst Community Primary School, Sherborne School, King's College, Princeton University",
+            "employer": "Victoria University of Manchester, Government Communications Headquarters, University of Cambridge, National Physical Laboratory",
+            "notable_work": "On Computable Numbers, with an Application to the Entscheidungsproblem, Computing Machinery and Intelligence, Intelligent Machinery, halting problem, Turing machine, Turing test, Turing completeness, Church\u2013Turing thesis, universal Turing machine, Symmetric Turing machine, non-deterministic Turing machine, Bombe, probabilistic Turing machine, Turing degree, Delilah project",
+            "award_received": "Fellow of the Royal Society, Officer of the Order of the British Empire, Smith's Prize, Order of the British Empire",
+            "citizenship": "United Kingdom"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Alan Mathison Turing was born on June 23, 1912, in Maida Vale, London, England. He studied mathematics at King's College, Cambridge, where he earned his Bachelor of Arts degree in 1934 and his Ph.D. in 1937. Turing worked at the Government Code and Cypher School (GC&CS) at Bletchley Park during World War II, making significant contributions to the development of the Bombe machine, which helped crack the German Enigma code. After the war, he worked at the National Physical Laboratory and the University of Manchester, where he developed the theoretical foundations of computer science and artificial intelligence.",
+            "qwen/qwen-2.5-7b-instruct": "Alan Turing was born in 1912 in London, England. He is renowned for his contributions to computer science and cryptography. Turing studied mathematics at King's College, Cambridge, and later at Princeton University.",
+            "mistralai/ministral-8b-2512": "Alan Turing was born on **June 23, 1912**, in London, England. He studied mathematics at **King\u2019s College, Cambridge**, graduating in 1934, and later earned his Ph.D. in 1938 for his work on computability theory. During World War II, he played a pivotal role in breaking the German Enigma cipher at **Bletchley Park**, contributing significantly to Allied cryptanalysis. After the war, Turing became a founding figure in computer science, designing the **Turing Machine** (1936) and leading the development of the **Automatic Computing Engine (ACE)** at Manchester University. He also worked in **artificial intelligence**, **biology**, and **morphogenesis**, and was a professor at **Manchester University** before his death on **June 7, 1954**, from cyanide poisoning, later ruled a suicide amid post-war legal persecution for his sexuality."
+        }
+    },
+    {
+        "id": "Q7259",
+        "name": "Ada Lovelace",
+        "sitelinks": 132,
+        "facts": {
+            "date_of_birth": "1815",
+            "birthplace": "London",
+            "occupation": "mathematician, programmer, poet, computer scientist, inventor, translator, writer, engineer",
+            "field_of_work": "mathematics, computing",
+            "employer": "University of Cambridge",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Augusta Ada Byron, later known as Ada Lovelace, was born on December 10, 1815, in London, England. She was the only legitimate child of the poet Lord George Gordon Byron and his wife, Anne Isabella Milbanke. Ada's mother, a mathematician and scientist in her own right, encouraged Ada's interest in mathematics and science, and Ada went on to study mathematics at home with her mother's guidance. Ada's work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine, is now recognized as a pioneering contribution to computer science, and she is often considered the world's first computer programmer.",
+            "qwen/qwen-2.5-7b-instruct": "Ada Lovelace, born in 1815 in London, England, was a mathematician and writer known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. She is recognized for her detailed notes on the machine, which included what are considered to be the first algorithm intended to be processed by a machine, making her an early pioneer in computer programming.",
+            "mistralai/ministral-8b-2512": "Ada Lovelace (1815\u20131852) was born **Ada Byron** in **London, England**, to the poet **Lord Byron** and mathematician **Anne Isabella Milbanke**. She received an exceptional education in mathematics and science, studying under tutors including **Mary Fairfax Somerville** and **Augustus De Morgan**. In the 1840s, she collaborated with **Charles Babbage** on his proposed **Analytical Engine**, authoring the first algorithm intended for a machine, now considered the first computer program. Lovelace worked as a **mathematician, translator, and writer**, contributing to scientific journals and exploring the potential of early computing. She died in **London at age 36** from cervical cancer."
+        }
+    },
+    {
+        "id": "Q529",
+        "name": "Louis Pasteur",
+        "sitelinks": 210,
+        "facts": {
+            "date_of_birth": "1822",
+            "birthplace": "Dole",
+            "occupation": "microbiologist, chemist, university teacher, biochemist, agronomist, biologist, lithographer, botanist, portrait painter",
+            "field_of_work": "chemistry, microbiology",
+            "educated_at": "\u00c9cole Normale Sup\u00e9rieure, Lyc\u00e9e Saint-Louis, University of Paris, Conservatoire national des Arts et M\u00e9tiers",
+            "employer": "University of Strasbourg, University of Lille, \u00c9cole Normale Sup\u00e9rieure, \u00c9cole Centrale de Lille, Pasteur Institute",
+            "notable_work": "rabies vaccine, Pasteur Institute",
+            "award_received": "Grand Cross of the Legion of Honour, Leeuwenhoek Medal, Copley Medal, Rumford Medal, Knight of the Order of Agricultural Merit, Order of Saint Anna, 1st class, National Inventors Hall of Fame, Imperial Order of the Rose, Jecker Prize, Albert Medal, Concours g\u00e9n\u00e9ral, Order of the Medjidie, Order of Saint Anna, 1st class with diamonds, Foreign Member of the Royal Society, Bressa Prize, Cameron Prize of the University of Edinburgh, Knight of the Legion of Honour, Officer of the Legion of Honour, Commander of the Legion of Honour, Grand Officer of the Legion of Honour, Jean Reynaud Prize, Honorary doctor of the University of Li\u00e8ge",
+            "citizenship": "France"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Louis Pasteur was born on December 27, 1822, in Dole, France. He studied chemistry at the \u00c9cole Normale Sup\u00e9rieure in Paris and later earned his doctorate in physics and mathematics from the University of Strasbourg. Pasteur worked as a professor of chemistry and later as a professor of physiology at the University of Lille and the University of Strasbourg. He made significant contributions to vaccination, germ theory, and disease prevention, including the development of the anthrax and rabies vaccines.",
+            "qwen/qwen-2.5-7b-instruct": "Louis Pasteur was born in 1822 in Dole, France. He is renowned for his pioneering work in microbiology and immunology, including the development of vaccines for rabies and anthrax. Pasteur also made significant contributions to the fields of chemistry and fermentation.",
+            "mistralai/ministral-8b-2512": "Louis Pasteur (1822\u20131895) was a French chemist and microbiologist born on December 27, 1822, in Dole, France. He studied chemistry at the \u00c9cole Normale Sup\u00e9rieure in Paris (1843\u20131847) and later became a professor at the University of Strasbourg (1848\u20131854) and the Sorbonne (1857\u20131888). Pasteur is best known for his groundbreaking work in microbiology, disproving spontaneous generation with experiments on fermentation and spoilage (1860s), and developing the process of **pasteurization** (1864) to preserve food and beverages. He also pioneered vaccines, including those for anthrax (1881) and rabies (1885), founding modern vaccinology. Pasteur died in Paris on September 28, 1895."
+        }
+    },
+    {
+        "id": "Q9106",
+        "name": "Dmitri Mendeleev",
+        "sitelinks": 179,
+        "facts": {
+            "date_of_birth": "1834, 1834, 1834, 1834",
+            "birthplace": "Tobolsk, Verkhnie Aremzyani",
+            "occupation": "chemist, physicist, university teacher, economist",
+            "field_of_work": "chemistry, physics, economics, geology, metrology, chemical element, periodic table",
+            "educated_at": "Main Pedagogical Institute, Saint Petersburg State University, Saint Petersburg State Institute of Technology",
+            "employer": "Imperial St. Petersburg University, Richelieu Lyceum, St. Petersburg Practical Institute of Technology, Saint Petersburg State University",
+            "notable_work": "periodic table",
+            "award_received": "Knight of the Order of St. Alexander Nevsky, Copley Medal, Faraday Lectureship Prize, Demidov Prize, Order of Saint Anna, 1st class, Order of Saint Anna, 2nd class, Order of the White Eagle, Order of Saint Stanislaus, 1st class, Order of St. Vladimir, 2nd class, Order of St. Vladimir, 1st class, Knight of the Legion of Honour, Davy Medal, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Russian Empire"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Dmitri Mendeleev was born on February 8, 1834, in Tobolsk, Siberia, Russia. He studied chemistry at the University of St. Petersburg, graduating in 1855, and later earned a Ph.D. in chemistry from the University of Heidelberg in 1859. Mendeleev worked as a chemist and professor at the University of St. Petersburg, and is best known for developing the periodic table of elements, which he published in 1869. He also served as the rector of the University of St. Petersburg from 1890 to 1891. Mendeleev died on February 2, 1907, in St. Petersburg, Russia.",
+            "qwen/qwen-2.5-7b-instruct": "Dmitri Mendeleev was born in 1834 in Tobolsk, Russia. He is best known for his work in chemistry, particularly for formulating the periodic table of elements. Mendeleev also served as a professor at the St. Petersburg Academy of Sciences.",
+            "mistralai/ministral-8b-2512": "Dmitri Ivanovich Mendeleev (1834\u20131907) was a Russian chemist, inventor, and educator born on **February 7, 1834**, in **Tobolsk, Siberia** (then part of the Russian Empire). He earned his doctorate in chemistry from the **University of Saint Petersburg (1865)** and later became a professor at the **Main Pedagogical Institute** (1867) and the **Saint Petersburg Technological Institute** (1893). Best known for creating the **periodic table of elements (1869)**, he predicted properties of undiscovered elements, such as **gallium, germanium, and scandium**, based on his classification system. Mendeleev also worked on topics like **petroleum refining, dye production, and meteorology**, and served as a government advisor on industrial and educational reforms. He died on **February 2, 1907**, in Saint Petersburg."
+        }
+    },
+    {
+        "id": "Q40904",
+        "name": "Werner Heisenberg",
+        "sitelinks": 139,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "W\u00fcrzburg",
+            "occupation": "theoretical physicist, mountaineer, non-fiction writer, university teacher, mathematician, physicist, nuclear physicist",
+            "field_of_work": "theoretical physics, mathematics",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Maximiliansgymnasium M\u00fcnchen",
+            "employer": "University of G\u00f6ttingen, University of Copenhagen, Leipzig University, Humboldt-Universit\u00e4t zu Berlin, University of St Andrews, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Max Planck Institute for Physics, German nuclear program during World War II",
+            "notable_work": "uncertainty principle, Kramers\u2013Heisenberg formula, Heisenberg group, isospin",
+            "award_received": "Pour le M\u00e9rite for Sciences and Arts order, Bavarian Order of Merit, Niels Bohr International Gold Medal, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, Nobel Prize in Physics, Max Planck Medal, Matteucci Medal, Sigmund Freud Prize, Hall of Fame of German Research, Honorary doctor of the University of Zagreb, honorary doctorate of the Karlsruhe Institute of Technology, Foreign Member of the Royal Society, Grand Cross of the Civil Order of Alfonso X the Wise, Pour le M\u00e9rite, Romano Guardini award, honorary golden medal of the state capital Munich",
+            "citizenship": "German Empire, Weimar Republic, Nazi Germany, West Germany"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Werner Heisenberg was born on December 5, 1901, in W\u00fcrzburg, Kingdom of Bavaria, German Empire. He studied physics at the University of Munich and the University of G\u00f6ttingen, earning his Ph.D. in 1923. Heisenberg worked as a research assistant at the University of G\u00f6ttingen and later became a professor of theoretical physics at the University of Leipzig in 1927. He served as the director of the Kaiser Wilhelm Institute for Physics from 1942 to 1946 and was awarded the Nobel Prize in Physics in 1932 for his discovery of the uncertainty principle.",
+            "qwen/qwen-2.5-7b-instruct": "Werner Heisenberg was born in 1901 in W\u00fcrzburg, Germany. He is renowned for his contributions to quantum mechanics, particularly the Heisenberg uncertainty principle. He held professorships at the University of Leipzig and the University of Munich.",
+            "mistralai/ministral-8b-2512": "Werner Heisenberg was born on **December 5, 1901**, in **W\u00fcrzburg, Germany**. He studied physics at the **University of Munich** and later earned his doctorate from the **University of G\u00f6ttingen** under Max Born in 1923. He became a leading figure in quantum mechanics, most notably for formulating the **Uncertainty Principle (1927)**, which established fundamental limits on the precision of certain pairs of physical properties. Heisenberg also contributed to the development of **matrix mechanics** and served as director of the **Kaiser Wilhelm Institute for Physics** (later the **Max Planck Institute for Physics**). During World War II, he played a key role in Germany\u2019s nuclear research efforts, though his involvement in the **German atomic bomb project** was limited. He died on **February 1, 1976**, in **Munich, Germany**."
+        }
+    },
+    {
+        "id": "Q7085",
+        "name": "Niels Bohr",
+        "sitelinks": 186,
+        "facts": {
+            "date_of_birth": "1885, 1885",
+            "birthplace": "Copenhagen",
+            "occupation": "university teacher, nuclear physicist, philosopher of science, association football player, chemist",
+            "field_of_work": "atomic physics, theoretical physics",
+            "educated_at": "University of Copenhagen, Trinity College, University of Cambridge",
+            "employer": "University of Copenhagen, Victoria University of Manchester, University of Cambridge, University of Copenhagen Niels Bohr Institute",
+            "notable_work": "Bohr model, correspondence principle",
+            "award_received": "Nobel Prize in Physics, Franklin Medal, Order of the Elephant, Atoms for Peace Award, Pour le M\u00e9rite for Sciences and Arts order, Niels Bohr International Gold Medal, Copley Medal, Faraday Lectureship Prize, Max Planck Medal, Knight Grand Cross of the Order of the Falcon, Hughes Medal, Helmholtz Medal, Matteucci Medal, Honorary doctor of the University of Zagreb, honorary doctorate of Technion, honorary doctor of the Technical University of Denmark, Guthrie Lecture, Foreign Member of the Royal Society, Order of the Dannebrog, Order of the Falcon, Knight First Class of the Order of St. Olav\u200e, Officer of the Legion of Honour, Silliman Memorial Lectures, honorary doctor of the University of Warsaw, Honorary Fellow of the Royal Society Te Ap\u0101rangi, doctor honoris causa from the University of Paris, Sonning Prize, Knight of the Order of the Dannebrog, Decoration of the Cross of Honour of the Dannebrog, commander of the Order of the Dannebrog, Knight Grand Officer of the Order of the Dannebrog, Grand Cross of the Order of the Dannebrog",
+            "citizenship": "Kingdom of Denmark"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Niels Henrik David Bohr was born on October 7, 1885, in Copenhagen, Denmark. He studied physics at the University of Copenhagen, graduating in 1907, and later earned his Ph.D. in 1911. Bohr worked as a lecturer at the University of Copenhagen from 1913 and became a professor of theoretical physics in 1916. He was awarded the Nobel Prize in Physics in 1922 for his work on the structure of atoms and the principle of complementarity.",
+            "qwen/qwen-2.5-7b-instruct": "Niels Bohr was born in 1885 in Copenhagen, Denmark. He was a physicist renowned for his contributions to the understanding of atomic structure and quantum theory. Bohr earned his PhD from the University of Copenhagen and is particularly known for the Bohr model of the atom.",
+            "mistralai/ministral-8b-2512": "Niels Henrik David Bohr was born on **October 7, 1885**, in **Copenhagen, Denmark**. A physicist, he earned his doctorate in physics from the **University of Copenhagen (1911)** and later became a professor there. Bohr made foundational contributions to understanding atomic structure and quantum theory, coining the term **\"complementarity\"** to describe fundamental principles of quantum mechanics. He received the **Nobel Prize in Physics (1922)** for his work on atomic models. Bohr also played a key role in post-war Danish politics and international scientific diplomacy, founding institutions like the **Copenhagen Atomic Institute (1943)** and advocating for peaceful nuclear research. He died on **November 18, 1962**, in Copenhagen."
+        }
+    },
+    {
+        "id": "Q9021",
+        "name": "Max Planck",
+        "sitelinks": 181,
+        "facts": {
+            "date_of_birth": "1858",
+            "birthplace": "Kiel",
+            "occupation": "theoretical physicist, university teacher, physicist, philosopher",
+            "field_of_work": "theoretical physics, physics, thermodynamics, philosophy, quantum theory",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Maximiliansgymnasium M\u00fcnchen, Frederick William University Berlin",
+            "employer": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Kiel University, Frederick William University Berlin, Humboldt-Universit\u00e4t zu Berlin",
+            "notable_work": "Planck's law, Planck constant",
+            "award_received": "Nobel Prize in Physics, Adlerschild des Deutschen Reiches, Max Planck Medal, Goethe Prize of the City of Frankfurt, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Lorentz Medal, Harnack medal, Helmholtz Medal, Bavarian Maximilian Order for Science and Art, Liebig Medal, Franklin Medal, honorary doctor of the University of Athens, honorary doctorate from the University of Cambridge, honorary doctorate of the University of Glasgow, Honorary doctor of the Technical University of Berlin, Guthrie Lecture, Goethe Medal for Art and Science, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "German Reich"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Max Planck was born on April 23, 1858, in Kiel, Germany. He studied physics at the University of Munich and the University of Berlin, earning his Ph.D. in 1884. Planck worked as a professor of theoretical physics at the University of Berlin from 1889 to 1928, and was a key figure in the development of quantum theory. He was awarded the Nobel Prize in Physics in 1918 for his work on black-body radiation.",
+            "qwen/qwen-2.5-7b-instruct": "Max Planck was born in 1858 in Kiel, Germany. He is renowned for his pioneering work in quantum theory, for which he was awarded the Nobel Prize in Physics in 1918. Planck also held professorships in Munich and Berlin, where he made significant contributions to theoretical physics.",
+            "mistralai/ministral-8b-2512": "Max Planck was born on **April 23, 1858**, in **Kiel, Duchy of Holstein** (now Germany). He studied physics and law at the **University of Munich** and later earned his doctorate in physics from the **University of Berlin** in 1879. Planck became a professor at the **University of Kiel** (1885) and later at the **University of Berlin**, where he developed his groundbreaking work on **quantum theory**, introducing the concept of **energy quanta** in 1900. He was awarded the **Nobel Prize in Physics in 1918** for his discovery. Planck also served as the first president of the **Max Planck Society** (founded 1911) and died on **October 4, 1947**, in **G\u00f6ttingen, Germany**."
+        }
+    },
+    {
+        "id": "Q9130",
+        "name": "Erwin Schr\u00f6dinger",
+        "sitelinks": 162,
+        "facts": {
+            "date_of_birth": "1887",
+            "birthplace": "Vienna",
+            "occupation": "physicist, theoretical physicist, non-fiction writer, mathematician, university teacher",
+            "field_of_work": "theoretical physics",
+            "educated_at": "University of Oxford, University of Vienna, Akademisches Gymnasium",
+            "employer": "University of Vienna, University of Stuttgart, University of Jena, University of Zurich, University of Graz, Frederick William University Berlin, University of Wroc\u0142aw, Humboldt-Universit\u00e4t zu Berlin, University of Oxford, Ghent University, Dublin Institute for Advanced Studies",
+            "notable_work": "Schr\u00f6dinger equation, Schr\u00f6dinger's cat",
+            "award_received": "Matteucci Medal, Max Planck Medal, Nobel Prize in Physics, Erwin Schr\u00f6dinger Prize, Pour le M\u00e9rite for Sciences and Arts order, Haitinger Prize, Prix Paul Doistau-\u00c9mile Blutet de l\u2019Information Scientifique, Fellow of the American Physical Society, Austrian Decoration for Science and Art, Prize of the City of Vienna for Natural Sciences, Foreign Member of the Royal Society, Pour le M\u00e9rite",
+            "citizenship": "Cisleithania, Germany, Nazi Germany"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Erwin Schr\u00f6dinger was born on August 12, 1887, in Vienna, Austria-Hungary. He studied physics at the University of Vienna, graduating in 1906, and later earned his Ph.D. in 1910. Schr\u00f6dinger worked as a researcher at several institutions, including the University of Berlin and the University of Oxford, and held professorships at the University of Jena, the University of Berlin, and Trinity College, Dublin. He is best known for his work on quantum mechanics, particularly his development of the Schr\u00f6dinger equation.",
+            "qwen/qwen-2.5-7b-instruct": "Erwin Schr\u00f6dinger was born in 1887 in Vienna, Austria. He was a theoretical physicist who made significant contributions to quantum mechanics, including the development of Schr\u00f6dinger's cat, a thought experiment that illustrates the principle of superposition. Schr\u00f6dinger earned his doctorate in physics from the University of Vienna and held professorships in Switzerland and Germany before moving to Ireland, where he worked at the Institute for Advanced Studies in Dublin.",
+            "mistralai/ministral-8b-2512": "Erwin Schr\u00f6dinger (1887\u20131961) was an Austrian physicist born on **August 12, 1887, in Vienna, Austria-Hungary**. He earned his doctorate in physics from the University of Vienna in 1910, later becoming a professor at universities in Jena, Stuttgart, and Graz. Schr\u00f6dinger made foundational contributions to quantum mechanics, most notably with his **wave equation (1926)**, which described how quantum systems evolve over time. He shared the **Nobel Prize in Physics (1933)** with Paul Dirac for his work on wave mechanics. Schr\u00f6dinger also explored philosophical interpretations of quantum theory, including his famous **thought experiment (1935)**, the Schr\u00f6dinger\u2019s cat paradox. He died on **January 4, 1961, in Vienna, Austria**."
+        }
+    },
+    {
+        "id": "Q39246",
+        "name": "Richard Feynman",
+        "sitelinks": 157,
+        "facts": {
+            "date_of_birth": "1918",
+            "birthplace": "Queens, Far Rockaway",
+            "occupation": "physicist, quantum physicist, inventor, writer, university teacher, percussionist, theoretical physicist, science communicator, politician",
+            "field_of_work": "quantum electrodynamics, particle physics, physics",
+            "educated_at": "Far Rockaway High School, Massachusetts Institute of Technology, Princeton University",
+            "employer": "Cornell University, California Institute of Technology, Manhattan Project",
+            "notable_work": "\u201cSurely You're Joking, Mr. Feynman!\u201d, The Feynman Lectures on Physics, Feynman diagram, Feynman\u2013Kac formula, Hellmann\u2013Feynman theorem, Cargo Cult Science, The Character of Physical Law, Bethe\u2013Feynman formula, Feynman checkerboard, Feynman parametrization, Feynman point, Feynman slash notation, reverse sprinkler, Feynman-Stueckelberg interpretation, Wheeler\u2013Feynman absorber theory",
+            "award_received": "Nobel Prize in Physics, Oersted Medal, Niels Bohr International Gold Medal, Albert Einstein Award, Foreign Member of the Royal Society, National Medal of Science, Fellow of the American Physical Society, Ernest Orlando Lawrence Award, Putnam Fellow",
+            "citizenship": "United States"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Richard Phillips Feynman was born on May 14, 1918, in New York City, New York. He earned his Bachelor's degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and his Ph.D. in physics from Princeton University in 1943. Feynman worked as a researcher at Los Alamos National Laboratory during World War II and later taught at the California Institute of Technology (Caltech), where he was a professor of physics from 1951 until his death. He was a prominent figure in the development of quantum mechanics and a popularizer of science through his teaching and writing.",
+            "qwen/qwen-2.5-7b-instruct": "Richard Feynman was born in 1918 in New York City. He was a theoretical physicist known for his work in quantum mechanics and particle physics, for which he received the Nobel Prize in Physics in 1965. Feynman also made significant contributions to the development of the atomic bomb and was a member of the investigation board following the Space Shuttle Challenger disaster.",
+            "mistralai/ministral-8b-2512": "Richard Feynman was born on May 11, 1918, in Queens, New York City. A theoretical physicist, he earned his B.S. in 1939 and Ph.D. in 1942 from MIT and Princeton University, respectively. Feynman made groundbreaking contributions to quantum mechanics, particle physics, and quantum electrodynamics, for which he shared the 1965 Nobel Prize in Physics. He also played a key role in the Manhattan Project and later worked on the Space Shuttle *Challenger* disaster investigation. Feynman died on February 15, 1988, in Los Alamos, New Mexico."
+        }
+    },
+    {
+        "id": "Q17714",
+        "name": "Stephen Hawking",
+        "sitelinks": 200,
+        "facts": {
+            "date_of_birth": "1942",
+            "birthplace": "Oxford, United Kingdom",
+            "occupation": "theoretical physicist, cosmologist, astrophysicist, mathematician, pedagogue, science writer, university teacher, writer, physicist, non-fiction writer, astronomer, television actor, autobiographer, science fiction writer, Trekkie, scientist",
+            "field_of_work": "general relativity, quantum gravity, theoretical physics, cosmology, applied mathematics, universe, black hole",
+            "educated_at": "University College, Oxford, Trinity Hall, St Albans School, University of Cambridge, St Albans High School for Girls, Byron House School",
+            "employer": "Gonville and Caius College, Faculty of Mathematics, University of Cambridge, Perimeter Institute for Theoretical Physics, University of Cambridge, California Institute of Technology",
+            "notable_work": "A Brief History of Time, Black Holes and Baby Universes and Other Essays, The Universe in a Nutshell, On the Shoulders of Giants, God Created the Integers, The Dreams That Stuff Is Made of: The Most Astounding Papers of Quantum Physics and How They Shook the Scientific World, My Brief History",
+            "award_received": "Albert Einstein Medal, Wolf Prize in Physics, Copley Medal, Presidential Medal of Freedom, Special Breakthrough Prize in Fundamental Physics, Companion of Honour, Eddington Medal, Gold Medal of the Royal Astronomical Society, Commander of the Order of the British Empire, Naylor Prize and Lectureship, Oskar Klein Medal, Hughes Medal, Royal Society Science Books Prize, Albert Medal, Michelson\u2013Morley Award, Fonseca Prize, Pius XI Medal, Maxwell Medal and Prize, IOP Dirac Medal, Adams Prize, Andrew Gemant Award, The James Smithson Bicentennial Medal, NSS Robert A. Heinlein Memorial Award, Princess of Asturias Award for Concord, honorary doctor of Harvard University, Honorary doctor of the University of Oxford, Marcel Grossmann Award, Franklin Medal, BBVA Foundation Frontiers of Knowledge Award, Bodley Medal, Gold medal of the Spanish National Research Council, Albert Einstein Award, Fellow of the Royal Society of Arts, honorary doctorate from Princeton University, honorary doctorate from the University of Cambridge, Dannie Heineman Prize for Mathematical Physics, Lilienfeld Prize, Princess of Asturias Awards, Special Breakthrough Prize in Fundamental Physics, Fellow of the Royal Society, Order of the British Empire, Order of the Companions of Honour",
+            "citizenship": "United Kingdom"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Stephen Hawking was born on January 8, 1942, in Oxford, England. He studied physics at the University of Oxford, graduating with a first-class honors degree in 1962. Hawking then pursued his graduate studies at the University of Cambridge, where he earned his Ph.D. in cosmology in 1965. He held the position of Lucasian Professor of Mathematics at the University of Cambridge from 1977 until his retirement in 2009, and was a fellow of Gonville and Caius College, Cambridge.",
+            "qwen/qwen-2.5-7b-instruct": "Stephen Hawking was born in 1942 in Oxford, England. He was a theoretical physicist and cosmologist, known for his contributions to the fields of cosmology and quantum gravity, especially in the context of black holes. Hawking held the position of Director of Research at the Centre for Theoretical Cosmology at the University of Cambridge.",
+            "mistralai/ministral-8b-2512": "Stephen Hawking was born on **January 8, 1942**, in **Oxford, England**, and passed away on **March 14, 2018**, in Cambridge, England. A theoretical physicist and cosmologist, he held the **Lucasian Professor of Mathematics** position at the University of Cambridge (1979\u20132009), a chair once held by Isaac Newton. Hawking earned his **Bachelor\u2019s degree in Physics** (1962) and **Ph.D. in Applied Mathematics and Theoretical Physics** (1966) from Cambridge. His groundbreaking work focused on black holes, quantum gravity, and the origins of the universe, including the **Hawking radiation** theory. He also authored popular science books, such as *A Brief History of Time* (1988)."
+        }
+    },
+    {
+        "id": "Q9095",
+        "name": "James Clerk Maxwell",
+        "sitelinks": 161,
+        "facts": {
+            "date_of_birth": "1831",
+            "birthplace": "Edinburgh",
+            "occupation": "physicist, mathematician, inventor, photographer, university teacher, theoretical physicist, teacher, thermodynamicist, scientist",
+            "field_of_work": "physics, mechanics, mathematics, electromagnetic field, electricity, magnetism, color photography, kinetic theory",
+            "educated_at": "University of Edinburgh, Peterhouse, Edinburgh Academy, Trinity College, University of Cambridge",
+            "employer": "King's College London, University of Aberdeen, University of Cambridge, Marischal College",
+            "notable_work": "A Dynamical Theory of the Electromagnetic Field, Maxwell's equations, Maxwell\u2013Boltzmann statistics, Maxwell's demon",
+            "award_received": "Fellow of the Royal Society, Rumford Medal, Royal Society Bakerian Medal, Keith Medal, Adams Prize, Fellow of the Royal Society of Edinburgh, Scottish Engineering Hall of Fame, Smith's Prize",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "James Clerk Maxwell was born on July 13, 1831, in Edinburgh, Scotland. He was the eighth of 11 children to John Clerk Maxwell and Frances Cay. Maxwell studied at the University of Edinburgh and later at Peterhouse, Cambridge, where he graduated with a degree in mathematics in 1854. He went on to become a professor of natural philosophy at the University of Aberdeen and later at Cambridge, where he held the chair of experimental physics from 1860 until his death.",
+            "qwen/qwen-2.5-7b-instruct": "James Clerk Maxwell was born in 1831 in Edinburgh, Scotland. He is renowned for his contributions to the science of electromagnetism and is considered one of the most influential theoretical physicists of the 19th century. Maxwell studied at Edinburgh University and Cambridge, and his work laid the foundation for the development of wireless communications and modern electronics.",
+            "mistralai/ministral-8b-2512": "James Clerk Maxwell was born on **June 13, 1831**, in **Edinburgh, Scotland**. He studied at the **University of Edinburgh** and later at **Peterhouse, Cambridge**, where he earned his Bachelor of Arts degree in 1854. A polymath, Maxwell made groundbreaking contributions to physics, mathematics, and engineering, most notably formulating the **classical theory of electromagnetic radiation** (Maxwell\u2019s equations) in 1865. He also worked on kinetic theory, color vision, and fluid dynamics. Maxwell died on **November 5, 1879**, in Cambridge, England."
+        }
+    },
+    {
+        "id": "Q8750",
+        "name": "Michael Faraday",
+        "sitelinks": 179,
+        "facts": {
+            "date_of_birth": "1791, 1791",
+            "birthplace": "Newington Butts, London",
+            "occupation": "physicist, chemist, inventor, writer, university teacher",
+            "field_of_work": "physics, chemistry, electromagnetism, discoveries and inventions",
+            "employer": "Royal Institution, George Riebau",
+            "award_received": "Pour le M\u00e9rite for Sciences and Arts order, Fellow of the Royal Society, Copley Medal, Copley Medal, Royal Medal, Rumford Medal, Albert Medal, Royal Society Bakerian Medal, Fellow of the American Academy of Arts and Sciences, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "United Kingdom of Great Britain and Ireland, Kingdom of Great Britain"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Michael Faraday was born on September 22, 1791, in Newington Butts, London, England. He was the third of four children to James and Margaret Faraday, a blacksmith. Faraday was largely self-educated, having attended a local charity school and later apprenticed with a bookbinder. He later became a chemist and physicist, working as a laboratory assistant to Humphry Davy at the Royal Institution in London, and went on to become a prominent figure in the scientific community, making significant contributions to the understanding of electromagnetism and electrochemistry.",
+            "qwen/qwen-2.5-7b-instruct": "Michael Faraday was born in 1791 in Newington, Surrey, England. He was an English scientist and chemist who is best known for his work in the fields of electromagnetism and electrochemistry. Faraday received no formal education in science but became a chemist's assistant and later worked with Sir Humphry Davy at the Royal Institution.",
+            "mistralai/ministral-8b-2512": "Michael Faraday was born **September 22, 1791**, in **Newington, Surrey, England** (now part of London). He was a **scientist, chemist, and physicist**, best known for his groundbreaking work in **electromagnetism**, including the discovery of **electromagnetic induction** (1831) and the principles of the **electric motor** and **electric generator**. Faraday received no formal education beyond basic schooling, instead learning through self-study and apprenticeships, first as a **bookbinder\u2019s assistant** (1805\u20131812) and later as a laboratory assistant under **Sir Humphry Davy** at the Royal Institution (1813). He made significant contributions to **electrochemistry**, inventing the **Faraday cage** and formulating **Faraday\u2019s laws of electrolysis**. Faraday died **August 25, 1867**, in **Hampton Court, London**."
+        }
+    },
+    {
+        "id": "Q8963",
+        "name": "Johannes Kepler",
+        "sitelinks": 184,
+        "facts": {
+            "date_of_birth": "1571, 1571",
+            "birthplace": "Weil der Stadt",
+            "occupation": "naturalist, astrologer, Protestant theologian, mathematician, astronomer, musicologist, physicist, cosmologist, music theorist, philosopher, writer, teacher, inventor",
+            "field_of_work": "optics, astronomy, mathematics, mechanics",
+            "educated_at": "University of T\u00fcbingen, Evangelical Seminaries of Maulbronn and Blaubeuren, T\u00fcbinger Stift",
+            "employer": "University of Graz, Emperor Rudolf II, Linz",
+            "notable_work": "Astronomia nova, Harmonices Mundi, Epitome Astronomiae Copernicanae, De Cometis Libelli Tres, Rudolphine Tables",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Duchy of W\u00fcrttemberg, Holy Roman Empire"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Johannes Kepler was born on December 27, 1571, in Weil der Stadt, Duchy of W\u00fcrttemberg (now part of Germany). He studied theology at the University of T\u00fcbingen and later mathematics at the University of Graz, where he earned a master's degree in 1594. Kepler worked as a mathematician and astronomer, serving as a court mathematician and astronomer to Emperor Rudolf II in Prague from 1600 to 1612. He is best known for his laws of planetary motion, which were published in his work \"Astronomia Nova\" in 1609.",
+            "qwen/qwen-2.5-7b-instruct": "Johannes Kepler was born in 1571 in Weil der Stadt, Germany. He is known for his significant contributions to astronomy, particularly his laws of planetary motion. Kepler also served as a mathematics teacher and worked as an assistant to Tycho Brahe.",
+            "mistralai/ministral-8b-2512": "Johannes Kepler was born on December 27, 1571, in Weil der Stadt, W\u00fcrttemberg (modern-day Germany). A mathematician, astronomer, and astrologer, he is best known for his laws of planetary motion, which laid the groundwork for Isaac Newton\u2019s theory of universal gravitation. Kepler studied at the University of T\u00fcbingen, where he became a Protestant minister and later served as an assistant to astronomer Tycho Brahe. His major works include *Astronomia Nova* (1609), *Harmonices Mundi* (1619), and *Epitome of Copernican Astronomy* (1618\u20131621). He died on November 15, 1630, in Regensburg."
+        }
+    },
+    {
+        "id": "Q619",
+        "name": "Nicolaus Copernicus",
+        "sitelinks": 214,
+        "facts": {
+            "date_of_birth": "1473, 1473",
+            "birthplace": "Toru\u0144",
+            "occupation": "astronomer, jurist, economist, mathematician, legal scholar, physicist, philosopher, translator, physician, diplomat, writer, canon, canon",
+            "field_of_work": "astronomy, mathematics, mechanics, economics",
+            "educated_at": "Jagiellonian University, University of Padua, University of Bologna, University of Ferrara",
+            "employer": "University of Padua, Jagiellonian University",
+            "notable_work": "Commentariolus, De revolutionibus orbium coelestium",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Kingdom of Poland, statelessness, Royal Prussia, Germany, Poland"
+        },
+        "tier": "High",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Nicolaus Copernicus was born on February 19, 1473, in Toru\u0144, Kingdom of Poland. He studied at the University of Krak\u00f3w and later at the University of Bologna, where he earned a degree in canon law. Copernicus worked as a mathematician, astronomer, and economist, serving as a canon of the Cathedral of Frombork and later as a treasurer of the Bishop of Warmia. He is best known for his work on the heliocentric model of the universe, which he presented in his book \"De revolutionibus orbium coelestium\" in 1543.",
+            "qwen/qwen-2.5-7b-instruct": "Nicolaus Copernicus was born in 1473 in Toru\u0144, Poland. He was a mathematician, astronomer, and economist. Copernicus is best known for his heliocentric model of the solar system, which posited that the Earth and other planets revolve around the Sun.",
+            "mistralai/ministral-8b-2512": "Nicolaus Copernicus (1473\u20131543) was a Polish astronomer, mathematician, physician, jurist, and economist. Born in Toru\u0144 (then part of the Kingdom of Poland), he studied at the University of Krak\u00f3w, the University of Bologna (where he earned a doctorate in canon law), and the University of Ferrara. As a canon of the Catholic Church, he worked in Frombork (Frauenburg), where he conducted astronomical observations and developed his heliocentric model of the solar system, challenging the geocentric views of Ptolemy and Aristotle. His seminal work, *De revolutionibus orbium coelestium* (\"On the Revolutions of the Heavenly Spheres\"), was published posthumously in 1543. Copernicus also contributed to economics, serving as an administrator and advisor to local rulers."
+        }
+    },
+    {
+        "id": "Q47480",
+        "name": "Paul Dirac",
+        "sitelinks": 123,
+        "facts": {
+            "date_of_birth": "1902",
+            "birthplace": "Bristol",
+            "occupation": "mathematician, theoretical physicist, professor, physicist, scientist, academic, educator, teacher, engineer",
+            "field_of_work": "theoretical physics, mathematics, quantum mechanics, quantum electrodynamics",
+            "educated_at": "University of Bristol, University of Cambridge, Cotham School",
+            "employer": "University of Miami, Florida State University, University of Cambridge, St John's College",
+            "notable_work": "Dirac equation, Dirac delta function, Fermi\u2013Dirac statistics, Dirac fermion, Dirac comb, reduced Planck constant, Dirac operator, Dirac adjoint, Abraham-Lorentz-Dirac force, Dirac sea, Dirac measure, Dirac spinor, Dirac large numbers hypothesis, Complete Fermi\u2013Dirac integral, Kapitsa\u2013Dirac effect, Dirac bracket",
+            "award_received": "Nobel Prize in Physics, Fellow of the Royal Society, Copley Medal, Royal Medal, Max Planck Medal, Helmholtz Medal, J. Robert Oppenheimer Memorial Prize, Royal Society Bakerian Medal, Order of Merit, Royal Society Bakerian Medal, doctor honoris causa from the University of Paris",
+            "citizenship": "United Kingdom, Switzerland"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Paul Adrien Maurice Dirac was born on August 8, 1902, in Bristol, England. He studied at the University of Bristol and later at the University of Cambridge, where he earned his Ph.D. in 1926. Dirac worked as a research fellow at Cambridge and later as a professor at the University of St. Andrews and the University of Cambridge. He was a theoretical physicist who made significant contributions to the development of quantum mechanics, including the prediction of the existence of antimatter.",
+            "qwen/qwen-2.5-7b-instruct": "Paul Adrien Maurice Dirac was born in 1902 in Bristol, England. He was a theoretical physicist who made fundamental contributions to the early development of both quantum mechanics and quantum electrodynamics. Dirac is also known for his work on the Dirac equation, which describes the behavior of fermions and led to the prediction of antimatter.",
+            "mistralai/ministral-8b-2512": "Paul Dirac was born on **August 8, 1902**, in **Bristol, England**. He earned a Bachelor\u2019s degree in electrical engineering from **Bristol University (1921)** before switching to mathematics and physics, completing a Ph.D. in quantum theory at **Cavendish Laboratory, Cambridge (1926)** under Ernest Rutherford. A theoretical physicist, Dirac made foundational contributions to quantum mechanics, including the development of **Dirac\u2019s equation (1928)**, which described relativistic quantum mechanics and predicted the existence of antimatter. He shared the **Nobel Prize in Physics (1933)** with Erwin Schr\u00f6dinger for his quantum theory advancements. Dirac also worked on general relativity, statistical mechanics, and quantum electrodynamics, serving as **Lucasian Professor of Mathematics at Cambridge (1932\u20131969)** and later as a professor at **Florida State University (1971\u20131984)**. He died on **October 20, 1984**, in **Tallahassee, Florida**."
+        }
+    },
+    {
+        "id": "Q65989",
+        "name": "Wolfgang Pauli",
+        "sitelinks": 105,
+        "facts": {
+            "date_of_birth": "1900",
+            "birthplace": "Vienna",
+            "occupation": "theoretical physicist, university teacher, chemist, physicist",
+            "field_of_work": "quantum mechanics, particle physics",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Bundesgymnasium D\u00f6bling",
+            "employer": "University of Hamburg, University of G\u00f6ttingen, ETH Zurich, University of Copenhagen Niels Bohr Institute, Purdue University, University of Michigan, Princeton University, ETH Zurich",
+            "notable_work": "Pauli exclusion principle, Pauli matrices, Pauli equation, Pauli effect, Pauli\u2013Villars regularization, Pauli group, Pauli\u2013Lubanski pseudovector",
+            "award_received": "Lorentz Medal, Nobel Prize in Physics, Max Planck Medal, Matteucci Medal, Franklin Medal, honorary doctor of the University of Vienna, Foreign Member of the Royal Society, professor, honorary doctor of the University of Hamburg",
+            "citizenship": "United States, Switzerland, Austria"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Wolfgang Pauli was born on April 25, 1900, in Vienna, Austria-Hungary. He studied physics at the University of Munich and the University of G\u00f6ttingen, earning his Ph.D. in 1921. Pauli worked as a research assistant at the University of G\u00f6ttingen and later at the University of Copenhagen, before becoming a professor of theoretical physics at the University of Hamburg in 1928. He was awarded the Nobel Prize in Physics in 1945 for his discovery of the exclusion principle, also known as the Pauli exclusion principle.",
+            "qwen/qwen-2.5-7b-instruct": "Wolfgang Pauli was born in Vienna, Austria, in 1900. He was a theoretical physicist known for his work on quantum mechanics and for formulating the Pauli exclusion principle. Pauli earned his Ph.D. from the University of Vienna in 1921.",
+            "mistralai/ministral-8b-2512": "Wolfgang Pauli was born on **April 25, 1900**, in **Vienna, Austria-Hungary** (now Austria). A theoretical physicist, he is best known for formulating the **Pauli exclusion principle (1925)**, a fundamental concept in quantum mechanics that explains the behavior of fermions. Pauli earned his Ph.D. in physics from the **University of Munich (1921)** and later worked under **Arnold Sommerfeld** and **Niels Bohr**. He held academic positions at institutions including the **ETH Zurich (1928\u20131958)**, where he became a leading figure in quantum theory. Pauli also contributed to neutrino theory (1930) and received the **Nobel Prize in Physics (1945)** for his work on spin and the exclusion principle. He died on **December 15, 1958**, in **Zurich, Switzerland**."
+        }
+    },
+    {
+        "id": "Q8753",
+        "name": "Enrico Fermi",
+        "sitelinks": 171,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "Rome",
+            "occupation": "physicist, theoretical physicist, nuclear physicist, university teacher, inventor",
+            "field_of_work": "nuclear physics, quantum mechanics, statistical mechanics, physics, nuclear reaction, quantum theory, particle physics, theoretical physics, experimental physics",
+            "educated_at": "University of Pisa, Scuola Normale Superiore. Classe di Scienze, Leiden University, University of G\u00f6ttingen",
+            "employer": "University of Florence, Sapienza University of Rome, Columbia University, University of Chicago, University of G\u00f6ttingen, Leiden University, Enrico Fermi Institute",
+            "notable_work": "Fermi\u2013Dirac statistics, Fermi's golden rule, Fermi paradox, Thomas\u2013Fermi model, Fermi problem, Fermi's interaction, Fermi contact interaction, Fermi\u2013Pasta\u2013Ulam\u2013Tsingou problem",
+            "award_received": "Nobel Prize in Physics, Max Planck Medal, Rumford Prize, Matteucci Medal, Franklin Medal, Hughes Medal, Henry Norris Russell Lectureship, National Inventors Hall of Fame, Silliman Memorial Lectures, Barnard Medal for Meritorious Service to Science, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society",
+            "citizenship": "Kingdom of Italy, Italy, United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Enrico Fermi was born on September 29, 1901, in Rome, Italy. He studied physics at the University of Pisa and later at the University of Rome, where he earned his Ph.D. in 1926. Fermi's work in nuclear physics led to the development of the first nuclear reactor, Chicago Pile-1, in 1942, and he was a key figure in the Manhattan Project during World War II. He was awarded the Nobel Prize in Physics in 1938 for his work on induced radioactivity.",
+            "qwen/qwen-2.5-7b-instruct": "Enrico Fermi was born in 1901 in Rome, Italy. He was a physicist renowned for his work on the Manhattan Project and the creation of the first nuclear reactor, the Chicago Pile-1. Fermi received his education in Italy and later taught at the University of Rome before moving to the United States, where he continued his research and became a professor at the University of Chicago.",
+            "mistralai/ministral-8b-2512": "Enrico Fermi (1901\u20131954) was an Italian physicist born on September 29, 1901, in Rome. He earned his doctorate in physics from the University of Pisa in 1922 and later became a professor at the University of Rome, where he made foundational contributions to quantum theory, nuclear physics, and statistical mechanics. In 1938, he emigrated to the United States to escape fascist persecution, joining Columbia University and later the University of Chicago. Fermi is best known for leading the first controlled nuclear chain reaction (Chicago Pile-1) in 1942, a pivotal achievement in the development of nuclear energy and weapons. He also received the Nobel Prize in Physics in 1938 for his work on induced radioactivity."
+        }
+    },
+    {
+        "id": "Q58978",
+        "name": "Max Born",
+        "sitelinks": 120,
+        "facts": {
+            "date_of_birth": "1882",
+            "birthplace": "Wroc\u0142aw",
+            "occupation": "physicist, mathematician, university teacher, theoretical physicist, scientist",
+            "field_of_work": "theoretical physics, physics, quantum mechanics",
+            "educated_at": "University of G\u00f6ttingen, Heidelberg University, University of Wroc\u0142aw, University of Zurich, Gonville and Caius College",
+            "employer": "Goethe University Frankfurt, University of G\u00f6ttingen, Humboldt-Universit\u00e4t zu Berlin, University of Edinburgh, University of G\u00f6ttingen, Artillery Testing Commission",
+            "notable_work": "probability amplitude, Born-Oppenheimer approximation",
+            "award_received": "Fellow of the Royal Society, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, Nobel Prize in Physics, Max Planck Medal, Hughes Medal, Fellow of the Royal Society of Edinburgh, Guthrie Lecture, Makdougall Brisbane Prize, honorary doctor of the University of Bordeaux, honorary member of the Physics Association (Frankfurt am Main, Germany), Gunning Victoria Jubilee Prize",
+            "citizenship": "German Reich, United Kingdom, United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Max Born was born on December 11, 1882, in Berlin, Germany. He studied physics at the University of Berlin, earning his Ph.D. in 1907. Born worked as a lecturer at the University of G\u00f6ttingen from 1914 to 1920, and then as a professor of physics at the University of G\u00f6ttingen from 1920 to 1933. He was a prominent figure in the development of quantum mechanics, and was awarded the Nobel Prize in Physics in 1954 for his work on the statistical interpretation of wave functions.",
+            "qwen/qwen-2.5-7b-instruct": "Max Born was born in 1882 in Breslau, Germany (now Wroc\u0142aw, Poland). He was a physicist and mathematician, known for his contributions to quantum mechanics. Born received his education at the University of Berlin and the University of G\u00f6ttingen, where he later became a professor.",
+            "mistralai/ministral-8b-2512": "Max Born was born on **December 11, 1882**, in **Breslau (now Wroc\u0142aw, Poland)**. A physicist and mathematician, he earned his doctorate in physics from the **University of G\u00f6ttingen** in 1907, where he later became a professor. Born made foundational contributions to **quantum mechanics**, co-developing the **Born rule** (probabilistic interpretation of wavefunctions) and formulating the **Born-Oppenheimer approximation** in molecular physics. He received the **Nobel Prize in Physics in 1954** for his work on quantum theory. After fleeing Nazi Germany in 1933, he became a professor at the **University of Cambridge** and later at the **University of Edinburgh**, where he remained until his retirement in 1954. He died on **January 5, 1970**, in **Bad Pyrmont, West Germany**."
+        }
+    },
+    {
+        "id": "Q56189",
+        "name": "Lise Meitner",
+        "sitelinks": 94,
+        "facts": {
+            "date_of_birth": "1878, 1878, 1878",
+            "birthplace": "Vienna",
+            "occupation": "nuclear physicist, university teacher, chemist, physicist",
+            "field_of_work": "physics",
+            "educated_at": "University of Vienna, Akademisches Gymnasium",
+            "employer": "Frederick William University Berlin, Royal Institute of Technology, Humboldt-Universit\u00e4t zu Berlin, University of Vienna, The Catholic University of America, Royal Institute of Technology",
+            "notable_work": "discovery, discovery of nuclear fission",
+            "award_received": "Silver Leibniz medal, Lieben Prize, Prize of the City of Vienna for Natural Sciences, Max Planck Medal, Enrico Fermi Award, Austrian Decoration for Science and Art, Pour le M\u00e9rite for Sciences and Arts order, Otto Hahn Prize for Chemistry and Physics, Foreign Member of the Royal Society, Honorary doctor of the Free University of Berlin, Wilhelm Exner Medal, Fellow of the American Academy of Arts and Sciences, Pour le M\u00e9rite",
+            "citizenship": "Cisleithania, Austria, Sweden"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Lise Meitner was born on October 27, 1878, in Vienna, Austria-Hungary. She studied physics at the University of Vienna and later at the University of G\u00f6ttingen, where she earned her Ph.D. in 1905. Meitner worked as a research assistant at the University of G\u00f6ttingen and later at the Kaiser Wilhelm Institute in Berlin, where she collaborated with Otto Hahn on nuclear fission research. Her work with Hahn led to the discovery of nuclear fission in 1938.",
+            "qwen/qwen-2.5-7b-instruct": "Lise Meitner was born in 1878 in Vienna, Austria. She was a theoretical physicist known for her contributions to nuclear fission research. Meitner studied physics in Berlin and made significant contributions to the understanding of nuclear processes, including the discovery of the fission of heavy nuclei.",
+            "mistralai/ministral-8b-2512": "Lise Meitner was born on **November 7, 1878**, in **Vienna, Austria-Hungary** (now Austria). She studied physics at the **University of Vienna**, earning her doctorate in 1906 under **Friedrich Hasen\u00f6hrl**, becoming one of the first women in Austria to receive a Ph.D. in physics. She worked as a researcher at the **Kaiser Wilhelm Institute for Chemistry** in Berlin (later renamed the **Max Planck Institute**), where she collaborated with **Otto Hahn** and **Fritz Strassmann** on nuclear physics. In 1938, after the Nazi annexation of Austria, she fled to **Stockholm, Sweden**, where she continued her work at the **Nobel Institute for Physics**. Meitner is best known for her role in explaining **nuclear fission**, a discovery for which Hahn was awarded the **Nobel Prize in Chemistry in 1944**\u2014Meitner was not recognized. She died on **October 27, 1968**, in **Cambridge, England**."
+        }
+    },
+    {
+        "id": "Q9123",
+        "name": "Ernest Rutherford",
+        "sitelinks": 172,
+        "facts": {
+            "date_of_birth": "1871",
+            "birthplace": "Nelson, Spring Grove, Brightwater",
+            "occupation": "nuclear physicist, chemist, physicist, professor, politician, university teacher",
+            "field_of_work": "physics, nuclear physics, chemistry, radioactivity",
+            "educated_at": "University of Canterbury, University of Cambridge, Trinity College, Nelson College",
+            "employer": "Victoria University of Manchester, McGill University, Cavendish Laboratory, University of Manchester",
+            "award_received": "Hector Medal, Nobel Prize in Chemistry, Matteucci Medal, Copley Medal, Franklin Medal, Elliott Cresson Medal, Fellow of the Royal Society, Faraday Lectureship Prize, Wilhelm Exner Medal, Faraday Medal, Rumford Medal, Albert Medal, Royal Society Bakerian Medal, Honorary Fellow of the Royal Society Te Ap\u0101rangi, Honorary Fellow of the Royal Society of Edinburgh, Guthrie Lecture, T. K. Sidey Medal, Bressa Prize, Knight Bachelor, Order of Merit, Silliman Memorial Lectures, Barnard Medal for Meritorious Service to Science, IET Kelvin Lecture, Faraday Medal and Prize, Echegaray Medal, Dalton Medal, doctor honoris causa from the University of Paris, honorary doctor of the University of New Zealand, Person of National Historic Significance",
+            "citizenship": "New Zealand"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Ernest Rutherford was born on August 30, 1871, in Brightwater, Nelson, New Zealand. He studied at the University of New Zealand and later at the University of Cambridge, where he earned his Ph.D. in 1898. Rutherford worked as a research fellow at the University of Cambridge and later as a professor of physics at McGill University in Montreal, Canada. He was knighted in 1914 and appointed as the Cavendish Professor of Physics at the University of Cambridge in 1919, a position he held until his retirement in 1937.",
+            "qwen/qwen-2.5-7b-instruct": "Ernest Rutherford was born in 1871 in Nelson, New Zealand. He is known for his pioneering work in nuclear physics and is often referred to as the father of nuclear physics. Rutherford earned his education at the University of Cambridge, where he later returned to work and teach.",
+            "mistralai/ministral-8b-2512": "Ernest Rutherford, born **August 30, 1871**, in **Spring Grove, New Zealand**, was a physicist renowned for his pioneering work in nuclear physics. He earned a Bachelor of Science degree from the **University of New Zealand (Canterbury College)** in 1893 and later studied at **Cambridge University (Trinity College)**, where he earned his Ph.D. in 1897. Rutherford held key academic positions, including **Professor of Physics at McGill University (1898\u20131907)** and **Cavendish Professor of Experimental Physics at Cambridge (1919\u20131937)**. His experiments on radioactive decay and atomic structure led to the discovery of the **atomic nucleus (1911)**, earning him the **1908 Nobel Prize in Chemistry**. He died on **October 19, 1937**, in Cambridge, England."
+        }
+    },
+    {
+        "id": "Q132537",
+        "name": "J. Robert Oppenheimer",
+        "sitelinks": 129,
+        "facts": {
+            "date_of_birth": "1904",
+            "birthplace": "New York City, Manhattan",
+            "occupation": "theoretical physicist, engineer, nuclear physicist, art collector, university teacher, science administrator, physicist, scientist",
+            "field_of_work": "applied physics, theoretical physics, nuclear physics",
+            "educated_at": "Harvard University, Cavendish Laboratory, Ethical Culture Fieldston School, Jesus College, Harvard College, University of Cambridge, University of G\u00f6ttingen",
+            "employer": "University of California, Berkeley, University of Cambridge, California Institute of Technology, Manhattan Project, Institute for Advanced Study",
+            "notable_work": "nuclear bomb",
+            "award_received": "Enrico Fermi Award, Knight of the Legion of Honour, Medal for Merit, Three Physicists Prize, Nessim-Habif Award, honorary doctorate from Princeton University, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society, honorary doctor of the University of Calcutta, Messenger Lectures, Officer of the Legion of Honour",
+            "citizenship": "United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Julius Robert Oppenheimer was born on April 22, 1904, in New York City, New York. He earned his undergraduate degree from Harvard University in 1925 and his Ph.D. in physics from the University of Cambridge in 1927. Oppenheimer worked as a professor of physics at the University of California, Berkeley, and later served as the director of the Manhattan Project's Los Alamos Laboratory, where he played a crucial role in the development of the atomic bomb. He was also a vocal advocate for international cooperation and disarmament.",
+            "qwen/qwen-2.5-7b-instruct": "J. Robert Oppenheimer was born in 1904 in New York City. He was a theoretical physicist and played a crucial role in the development of the atomic bomb as the director of the Los Alamos Laboratory during World War II. Oppenheimer also held a professorship at the University of California, Berkeley, and was a key figure in the post-war scientific community.",
+            "mistralai/ministral-8b-2512": "J. Robert Oppenheimer (1904\u20131967) was born on April 22, 1904, in New York City. A physicist and academic, he earned his Ph.D. in physics from the University of G\u00f6ttingen in Germany (1927) and later became a leading figure in theoretical physics, teaching at institutions like Harvard and the University of California, Berkeley. During World War II, he directed the Manhattan Project, overseeing the development of the first atomic bombs at Los Alamos, New Mexico. After the war, he served as director of the Institute for Advanced Study in Princeton and played a key role in U.S. nuclear policy, though his security clearance was later revoked in 1954 due to Cold War-era investigations. He died on February 18, 1967, in Princeton, New Jersey."
+        }
+    },
+    {
+        "id": "Q48983",
+        "name": "Linus Pauling",
+        "sitelinks": 112,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "Portland",
+            "occupation": "chemist, physicist, Esperantist, university teacher, biochemist, peace activist, crystallographer, biophysicist, activist shareholder",
+            "field_of_work": "quantum chemistry, biochemistry, physical chemistry",
+            "educated_at": "California Institute of Technology, Oregon State University, Washington High School",
+            "employer": "California Institute of Technology, Linus Pauling Institute, University of California, San Diego, Stanford University, Oregon State University",
+            "award_received": "Guggenheim Fellowship, ACS Award in Pure Chemistry, Irving Langmuir Award in Chemical Physics, William H. Nichols Medal, Silliman Memorial Lectures, Willard Gibbs Award, Davy Medal, Liversidge Award, Foreign Member of the Royal Society, doctor honoris causa from the University of Paris, Medal for Merit, honorary doctor of the University of Toulouse, Nobel Prize in Chemistry, honorary doctorate of the University of Montpellier, Humanist of the Year, Nobel Peace Prize, Gandhi Peace Award, Guggenheim Fellowship, Linus Pauling Award, Roebling Medal, Lenin Peace Prize, National Medal of Science, Lomonosov Gold Medal, NAS Award in Chemical Sciences, Priestley Medal, Lavoisier Medal, George C. Pimentel Award in Chemical Education, Tolman Award, California Hall of Fame, Fellow of the American Academy of Arts and Sciences, Fellow of the American Physical Society, Fellow of the Royal Society of Edinburgh, Chemical Pioneer Award",
+            "citizenship": "United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Linus Pauling was born on February 28, 1901, in Portland, Oregon. He earned his undergraduate degree from Oregon State University in 1922 and his Ph.D. in chemistry from California Institute of Technology (Caltech) in 1922. Pauling worked as a professor of chemistry at Caltech from 1922 to 1962, and later as a professor of chemistry at Stanford University from 1962 to 1994. He was awarded the Nobel Prize in Chemistry in 1954 for his work on the nature of the chemical bond and its application to the structure of complex substances.",
+            "qwen/qwen-2.5-7b-instruct": "Linus Pauling was born in 1901 in Portland, Oregon. He was a chemist, biochemist, and peace activist, known for his work on the nature of the chemical bond and his advocacy for vitamin C and peace. Pauling earned his Ph.D. from the California Institute of Technology in 1925.",
+            "mistralai/ministral-8b-2512": "Linus Pauling (1901\u20131994) was an American chemist and peace activist born on February 28, 1901, in Portland, Oregon. He earned his bachelor\u2019s degree in chemical engineering from Oregon State College (1922) and a Ph.D. in physical chemistry from California Institute of Technology (1925). Pauling made groundbreaking contributions to quantum chemistry, molecular biology, and structural biology, including the discovery of the alpha helix and beta sheet structures of proteins. He also developed the concept of chemical bonding and won two unshared Nobel Prizes\u2014the 1954 Nobel Prize in Chemistry and the 1962 Nobel Peace Prize. Pauling was a prolific author, advocate for vitamin C therapy, and outspoken critic of nuclear weapons."
+        }
+    },
+    {
+        "id": "Q7474",
+        "name": "Rosalind Franklin",
+        "sitelinks": 114,
+        "facts": {
+            "date_of_birth": "1920",
+            "birthplace": "Notting Hill",
+            "occupation": "chemist, molecular biologist, physicist, biochemist, biophysicist, crystallographer, university teacher, geneticist",
+            "field_of_work": "X-ray crystallography",
+            "educated_at": "University of Cambridge, St Paul's Girls' School, Newnham College, Norland Place School",
+            "employer": "King's College London, Birkbeck, University of London",
+            "award_received": "Louisa Gross Horwitz Prize, 72 scientist women names on the Eiffel tower",
+            "citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Rosalind Franklin was born on July 25, 1920, in Notting Hill, London, England. She studied natural sciences at Newnham College, Cambridge, and later earned a Ph.D. in chemistry from Cambridge in 1945. Franklin worked as a research associate at the British Coal Utilization Research Association, where she conducted X-ray crystallography research, and later became a senior research associate at Birkbeck College, London, where she contributed significantly to the understanding of the structure of DNA. Her data and techniques were crucial to the development of the double helix model of DNA.",
+            "qwen/qwen-2.5-7b-instruct": "Rosalind Franklin was born in 1920 in London, England. She was a chemist and X-ray crystallographer who made significant contributions to the understanding of the molecular structures of coal and viruses. Franklin's work was crucial in the determination of the double helix structure of DNA.",
+            "mistralai/ministral-8b-2512": "Rosalind Franklin (1920\u20131958) was a British scientist born in London, England. She earned her Bachelor\u2019s degree in chemistry from Newnham College, Cambridge (1941), and later a Doctor of Science (1945) from the University of Cambridge. Franklin worked primarily as a biophysicist and X-ray crystallographer, contributing significantly to the understanding of molecular structures, including DNA, coal, viruses, and graphite. Her groundbreaking X-ray diffraction images of DNA (notably Photo 51) were pivotal to James Watson and Francis Crick\u2019s discovery of the DNA double helix. She also conducted research at Birkbeck College, London, and the Institut de Biologie Physico-Chimique in Paris."
+        }
+    },
+    {
+        "id": "Q9047",
+        "name": "Gottfried Wilhelm Leibniz",
+        "sitelinks": 204,
+        "facts": {
+            "date_of_birth": "1646",
+            "birthplace": "Leipzig",
+            "occupation": "mathematician, jurist, physicist, philosopher, diplomat, historian, librarian, musicologist, translator, music theorist, writer, diplomatician, poet, engineer, zoologist, archivist, geologist, policy advisor, philosopher of law, logician, polymath",
+            "field_of_work": "mathematical analysis, Christian apologetics",
+            "educated_at": "University of Altdorf, Leipzig University, University of Jena, Alte Nikolaischule (Leipzig), Thomasschule zu Leipzig",
+            "employer": "Leipzig University",
+            "notable_work": "Discourse on Metaphysics, Th\u00e9odic\u00e9e, integral calculus, Stepped Reckoner, Syst\u00e8me nouveau de la nature, Monadology, Leibniz's notation, calculus ratiocinator, New Essays on Human Understanding, Nova Methodus pro Maximis et Minimis",
+            "award_received": "Fellow of the Royal Society",
+            "citizenship": "Electorate of Saxony"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Gottfried Wilhelm Leibniz was born on July 1, 1646, in Leipzig, Saxony. He studied philosophy and law at the University of Leipzig, earning a master's degree in 1666. Leibniz then pursued further education at the University of Jena and the University of Altdorf, where he earned a doctorate in law in 1667. He went on to work as a diplomat, historian, and philosopher, serving as a librarian and councilor to the Elector of Mainz and later as a diplomat for the Elector of Hanover.",
+            "qwen/qwen-2.5-7b-instruct": "Gottfried Wilhelm Leibniz was born in 1646 in Leipzig, Germany. He was a prominent German philosopher, mathematician, and polymath. Leibniz is credited with independent discovery of the differential and integral calculus and made significant contributions to the development of symbolic logic.",
+            "mistralai/ministral-8b-2512": "Gottfried Wilhelm Leibniz (1646\u20131716) was a German polymath, philosopher, mathematician, and diplomat born on July 1, 1646, in Leipzig, Electorate of Saxony (now Germany). He studied law at the University of Leipzig and later at the University of Altdorf, earning his doctorate in 1666. Leibniz made foundational contributions to calculus (independently co-developing it with Isaac Newton), logic (including the invention of the Leibniz wheel), and philosophy, advocating for monadology and a pre-established harmony. He also served as a diplomat and advisor to various European rulers, including the Elector of Hanover and the Holy Roman Emperor. Leibniz died on November 14, 1716, in Hanover, Kingdom of Prussia."
+        }
+    },
+    {
+        "id": "Q17455",
+        "name": "John von Neumann",
+        "sitelinks": 122,
+        "facts": {
+            "date_of_birth": "1903",
+            "birthplace": "Budapest",
+            "occupation": "mathematician, computer scientist, physicist, economist, university teacher, consultant, Manhattan Project",
+            "field_of_work": "functional analysis, operator theory, mathematics, physics, game theory, cellular automaton, set theory, quantum physics, nuclear bomb, informatics",
+            "educated_at": "Fasori Gimn\u00e1zium, Frederick William University Berlin, ETH Zurich, E\u00f6tv\u00f6s Lor\u00e1nd University, University of G\u00f6ttingen",
+            "employer": "Princeton University, Frederick William University Berlin, United States Atomic Energy Commission, University of Hamburg, Institute for Advanced Study, Armed Forces Special Weapons Project, Ballistic Research Laboratory, Naval Ordnance Laboratory, Los Alamos National Laboratory",
+            "notable_work": "von Neumann cellular automaton, Von Neumann neighborhood, von Neumann universal constructor, von Neumann architecture, von Neumann algebra, von Neumann\u2013Morgenstern utility theorem, von Neumann regular ring, Von Neumann\u2013Bernays\u2013G\u00f6del set theory, von Neumann universe, von Neumann conjecture, von Neumann entropy, Von Neumann stability analysis, abelian von Neumann algebra, von Neumann ordinal, Von Neumann equation, von Neumann bicommutant theorem, Weyl\u2013von Neumann theorem, minimax theorem, First draft of a report on the EDVAC",
+            "award_received": "Medal of Freedom, Carl-Gustaf Rossby Research Medal, B\u00f4cher Memorial Prize, Enrico Fermi Award, Josiah Willard Gibbs Lectureship, Silliman Memorial Lectures, Medal for Merit, Albert Einstein Award, Financial Times Person of the Year, Fellow of the Institute of Mathematical Statistics, Fellow of the Econometric Society",
+            "citizenship": "Hungary, United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "John von Neumann was born on December 28, 1903, in Budapest, Hungary. He studied mathematics at the University of Budapest and later at the University of Berlin, where he earned his Ph.D. in 1926. Von Neumann worked as a mathematician and physicist, holding positions at the University of Berlin, Princeton University, and the Institute for Advanced Study. He made significant contributions to the development of quantum mechanics, game theory, and computer science, and was a key figure in the development of the hydrogen bomb.",
+            "qwen/qwen-2.5-7b-instruct": "John von Neumann was born in 1903 in Budapest, Hungary. He was a mathematician, physicist, computer scientist, and economist. He earned his doctorate from the University of Budapest and made significant contributions to various fields including quantum mechanics, computer science, and game theory.",
+            "mistralai/ministral-8b-2512": "John von Neumann (1903\u20131957) was a Hungarian-American mathematician, physicist, and polymath born on December 28, 1903, in Budapest, Austria-Hungary (now Hungary). He earned his Ph.D. in mathematics from the University of Budapest in 1926 and later studied in Germany under David Hilbert and Emmy Noether. A pioneer in multiple fields, he made foundational contributions to game theory, quantum mechanics, functional analysis, and computer science, including the design of the von Neumann architecture for stored-program computers. He also worked on nuclear physics, economics, and hydrodynamics, serving as a consultant for the U.S. government during and after World War II. Von Neumann died on February 8, 1957, in Washington, D.C., at age 53."
+        }
+    },
+    {
+        "id": "Q39607",
+        "name": "Antoine Lavoisier",
+        "sitelinks": 129,
+        "facts": {
+            "date_of_birth": "1743",
+            "birthplace": "Paris",
+            "occupation": "chemist, economist, biologist, physicist, academic, lawyer, astronomer, writer, administrator, jurist",
+            "field_of_work": "chemistry",
+            "educated_at": "Paris Law Faculty",
+            "employer": "Ferme g\u00e9n\u00e9rale",
+            "notable_work": "Trait\u00e9 \u00c9l\u00e9mentaire de Chimie, M\u00e9thode de nomenclature chimique, conservation of mass",
+            "award_received": "Fellow of the Royal Society, gold medal, Hommes illustres, 72 names on the Eiffel Tower, Concours g\u00e9n\u00e9ral",
+            "citizenship": "France"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Antoine Lavoisier was born on August 26, 1743, in Paris, France. He studied law at the University of Paris, but later shifted his focus to chemistry, earning his degree in 1763. Lavoisier worked as a lawyer and a chemist, and was appointed as the General Farms, a government agency responsible for taxation and finance, in 1768. He was also a member of the French Academy of Sciences, where he conducted extensive research on the properties of oxygen and the nature of combustion.",
+            "qwen/qwen-2.5-7b-instruct": "Antoine Lavoisier was born in 1743 in Paris, France. He was a chemist, economist, and biologist who is often referred to as the \"father of modern chemistry.\" Lavoisier received his education at the Coll\u00e8ge des Quatre-Nations and the University of Paris, and he is known for his role in the chemical revolution, particularly for his work on the law of conservation of mass.",
+            "mistralai/ministral-8b-2512": "Antoine-Laurent de Lavoisier (1743\u20131794) was a French chemist and economist born in Paris. He studied law at the University of Paris but later focused on science, conducting groundbreaking research in chemistry. Lavoisier is known as the \"Father of Modern Chemistry\" for his role in reforming chemical nomenclature and disproving the phlogiston theory, establishing the law of conservation of mass. He also served as a tax farmer and held positions in scientific and administrative bodies, including the Acad\u00e9mie des Sciences. Lavoisier was executed during the French Revolution in 1794."
+        }
+    },
+    {
+        "id": "Q43393",
+        "name": "Robert Boyle",
+        "sitelinks": 114,
+        "facts": {
+            "date_of_birth": "1627, 1626",
+            "birthplace": "Lismore, Lismore Castle",
+            "occupation": "physicist, chemist, philosopher, naturalist",
+            "field_of_work": "physics, chemistry, philosophy",
+            "educated_at": "Eton College",
+            "employer": "University of Oxford",
+            "notable_work": "Boyle's law, New Experiments Physico-Mechanicall, Touching the Spring of the Air and its Effects, The Sceptical Chymist",
+            "award_received": "Fellow of the Royal Society",
+            "citizenship": "Kingdom of England"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Robert Boyle was born on January 25, 1627, in Lismore Castle, County Waterford, Ireland. He was the 14th child of Richard Boyle, 1st Earl of Cork. Boyle studied at Eton College and later at the University of Oxford, where he earned a degree in 1649. He went on to become a prominent natural philosopher and chemist, conducting extensive research in the fields of chemistry, physics, and medicine, and was a founding member of the Royal Society.",
+            "qwen/qwen-2.5-7b-instruct": "Robert Boyle was born in 1627 in Lismore, County Waterford, Ireland. He was an Anglo-Irish natural philosopher, chemist, physicist, and inventor. Boyle is best known for his work in the scientific revolution, particularly Boyle's Law, which describes the inverse relationship between the pressure and volume of a gas.",
+            "mistralai/ministral-8b-2512": "Robert Boyle (1627\u20131691) was an Irish natural philosopher, chemist, physicist, and inventor, widely regarded as one of the founders of modern chemistry. Born in Lismore, County Waterford, Ireland, he was educated at Eton College and later at Trinity College, Geneva, and Oxford University. Boyle conducted groundbreaking experiments on gases, formulating **Boyle\u2019s Law** (1662), which describes the inverse relationship between pressure and volume at constant temperature. He also co-founded the **Royal Society of London** in 1660 and authored influential works like *The Sceptical Chymist* (1661), challenging alchemical traditions. A devout Anglican, Boyle\u2019s scientific and theological writings shaped early modern empirical inquiry."
+        }
+    },
+    {
+        "id": "Q41257",
+        "name": "Heinrich Hertz",
+        "sitelinks": 112,
+        "facts": {
+            "date_of_birth": "1857",
+            "birthplace": "Hamburg",
+            "occupation": "physicist, philosopher, inventor, university teacher",
+            "field_of_work": "physics, electrical engineering, acoustics, electromagnetic wave",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Frederick William University Berlin, Technical University of Munich, TU Dresden, Gelehrtenschule des Johanneums",
+            "employer": "University of Bonn, Kiel University, TH Karlsruhe, Humboldt-Universit\u00e4t zu Berlin Institut f\u00fcr Physik",
+            "award_received": "Rumford Medal, Matteucci Medal, La Caze Prize of the Academy of Sciences, Bressa Prize, CQ Amateur Radio Hall of Fame, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Hamburg"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Heinrich Hertz was born on February 15, 1857, in Hamburg, Germany. He studied physics and mathematics at the University of Berlin, where he earned his Ph.D. in 1886. Hertz worked as a lecturer at the University of Bonn and later as a professor at the University of Karlsruhe, where he conducted research on electromagnetic theory and the behavior of light. He is best known for his experiments on electromagnetic radiation, which led to the discovery of radio waves.",
+            "qwen/qwen-2.5-7b-instruct": "Heinrich Hertz was born in 1857 in K\u00f6nigsberg, Prussia. He is known for his work in the field of electromagnetism, particularly for providing experimental evidence for the existence of electromagnetic waves, as predicted by James Clerk Maxwell. Hertz earned his doctorate from the University of Berlin and taught physics at the Karlsruhe Institute of Technology.",
+            "mistralai/ministral-8b-2512": "Heinrich Rudolf Hertz (1857\u20131894) was a German physicist born on February 22, 1857, in Hamburg. He studied physics and engineering at the Polytechnic School in Karlsruhe (now Karlsruhe Institute of Technology) and later at the University of Berlin, where he earned his doctorate in 1880. Hertz conducted groundbreaking experiments in the 1880s that confirmed the existence of electromagnetic waves, validating James Clerk Maxwell\u2019s theories of electromagnetism. He became a professor at the University of Kiel in 1889 and later at the Technical University of Bonn. Hertz died on January 1, 1894, in Bonn at the age of 36, from blood poisoning following a minor injury. The SI unit of frequency, the hertz (Hz), is named in his honor."
+        }
+    },
+    {
+        "id": "Q84296",
+        "name": "Ludwig Boltzmann",
+        "sitelinks": 89,
+        "facts": {
+            "date_of_birth": "1844",
+            "birthplace": "Vienna",
+            "occupation": "physicist, chemist, university teacher, mathematician, philosopher, theoretical physicist, thermodynamicist",
+            "field_of_work": "theoretical physics",
+            "educated_at": "University of Vienna",
+            "employer": "University of Vienna, Leipzig University, University of Graz, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, University of Graz, University of Vienna, University of Vienna",
+            "notable_work": "Boltzmann constant, Stefan-Boltzmann law, Stefan-Boltzmann constant, Boltzmann equation, Boltzmann distribution, Boltzmann's entropy formula, list of things named after Ludwig Boltzmann",
+            "award_received": "Bavarian Maximilian Order for Science and Art, honorary doctorate of the University of Oslo, Honorary doctor of the University of Oxford, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Austria\u2013Hungary"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Ludwig Boltzmann was born on February 20, 1844, in Vienna, Austrian Empire. He studied mathematics and physics at the University of Vienna, graduating in 1863. Boltzmann went on to become a professor of mathematics at the University of Graz in 1869, and later a professor of theoretical physics at the University of Vienna in 1876. He is best known for his work on the kinetic theory of gases and his development of the concept of entropy, which led to the Boltzmann equation.",
+            "qwen/qwen-2.5-7b-instruct": "Ludwig Boltzmann was born in 1844 in Vienna, Austria. He was a physicist and philosopher known for his work in statistical mechanics and the development of the Boltzmann equation. Boltzmann earned his doctorate from the University of Vienna and taught at several institutions, including the University of Graz and the University of Leipzig.",
+            "mistralai/ministral-8b-2512": "Ludwig Eduard Boltzmann was born on **February 20, 1844**, in **Vienna, Austrian Empire** (now Austria). He studied physics and mathematics at the **University of Vienna**, earning his doctorate in 1866. Boltzmann made groundbreaking contributions to statistical mechanics, thermodynamics, and quantum theory, including the formulation of the **Boltzmann distribution** and the **Boltzmann constant (k)**. He held academic positions at universities in **Graz, Vienna, Leipzig, Munich, and Vienna** before his death by suicide on **September 5, 1906**, in **Duino, Austria-Hungary**, amid controversy over his scientific ideas. His work laid critical foundations for modern physics."
+        }
+    },
+    {
+        "id": "Q153243",
+        "name": "Josiah Willard Gibbs",
+        "sitelinks": 75,
+        "facts": {
+            "date_of_birth": "1839",
+            "birthplace": "New Haven",
+            "occupation": "mathematician, physicist, chemist, university teacher, theoretical physicist, engineer, thermodynamicist, statistical physicist",
+            "field_of_work": "mathematical analysis",
+            "educated_at": "Yale College, Heidelberg University, Yale School of Engineering and Applied Science, Yale University, Hopkins School, Sheffield Scientific School, University of Paris, Frederick William University Berlin",
+            "employer": "Yale University, Yale University",
+            "notable_work": "Gibbs free energy, Gibbs\u2013Donnan effect, Gibbs paradox, Gibbs algorithm, Gibbs distribution, Gibbs' inequality, Gibbs isotherm, Gibbs phenomenon, Gibbs lemma, Gibbs measure, Gibbs state, Gibbs\u2013Duhem equation, Gibbs\u2013Duhem potential, Gibbs\u2013Helmholtz equation, Gibbs\u2013Thomson equation, Elementary Principles in Statistical Mechanics, Gibbs sampling, Gibbs' phase rule, Vector Analysis",
+            "award_received": "Copley Medal, Rumford Prize, Foreign Member of the Royal Society",
+            "citizenship": "United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Josiah Willard Gibbs was born on February 11, 1839, in New Haven, Connecticut. He earned his undergraduate degree from Yale College in 1858 and later his Ph.D. from Yale in 1863. Gibbs worked as a professor of mathematics and natural philosophy at Yale, and his research focused on thermodynamics and statistical mechanics. He is also known for his work in the development of vector calculus, which was published in 1884.",
+            "qwen/qwen-2.5-7b-instruct": "Josiah Willard Gibbs was born in 1839 in New Haven, Connecticut. He is known for his pioneering work in thermodynamics and vector analysis, and is considered one of the greatest scientists of the 19th century. Gibbs earned his Ph.D. from Yale University and spent his career there, contributing significantly to the fields of physics and chemistry.",
+            "mistralai/ministral-8b-2512": "Josiah Willard Gibbs (February 11, 1839 \u2013 April 28, 1903) was an American scientist, physicist, and mathematician best known for his foundational contributions to thermodynamics, statistical mechanics, and vector calculus. Born in New Haven, Connecticut, he graduated from Yale College in 1858 and later earned a Ph.D. in engineering from Yale in 1863. Gibbs conducted much of his pioneering work independently in Europe, particularly in Germany, where he studied under prominent scientists like Hermann von Helmholtz and Rudolf Clausius. His seminal papers, including *On the Equilibrium of Heterogeneous Substances* (1876\u20131878), introduced key concepts such as Gibbs free energy, phase equilibrium, and chemical potential. Gibbs was elected to the National Academy of Sciences in 1879 and remained a professor at Yale until his death in New Haven."
+        }
+    },
+    {
+        "id": "Q41688",
+        "name": "Hendrik Lorentz",
+        "sitelinks": 117,
+        "facts": {
+            "date_of_birth": "1853",
+            "birthplace": "Arnhem",
+            "occupation": "theoretical physicist, physicist, mathematician, botanist, university teacher, curator",
+            "field_of_work": "theoretical physics",
+            "educated_at": "Leiden University",
+            "employer": "Leiden University, Leiden University, Teylers Museum",
+            "notable_work": "Lorentz covariance, Lorentz ether theory, Lorentz factor, Lorentz force, Lorentz group, Lorentz oscillator, Lorentz transformation, length contraction, Lorentz\u2013Lorenz equation, Abraham\u2013Lorentz force, Lorentz-Drude model, Tauc\u2013Lorentz model, Lorentz\u2013Heaviside units",
+            "award_received": "Nobel Prize in Physics, Pour le M\u00e9rite for Sciences and Arts order, Copley Medal, Rumford Medal, Franklin Medal, Foreign Member of the Royal Society, Commander of the Order of Orange-Nassau, Honorary doctor of Leiden University, Echegaray Medal, Knight of the Legion of Honour, Knight of the Order of the Netherlands Lion, doctor honoris causa from the University of Paris, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Kingdom of the Netherlands"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Hendrik Antoon Lorentz was born on July 18, 1853, in Arnhem, Netherlands. He studied physics and mathematics at the University of Leiden, where he earned his Ph.D. in 1875. Lorentz worked as a professor of theoretical physics at the University of Leiden from 1878 to 1912, and later as a professor of theoretical physics at the University of Leiden from 1912 to 1928. He was awarded the Nobel Prize in Physics in 1902, along with Pieter Zeeman, for his research on the Zeeman effect.",
+            "qwen/qwen-2.5-7b-instruct": "Hendrik Lorentz was born in 1853 in Arnhem, Netherlands. He was a Dutch physicist who made significant contributions to the understanding of electromagnetic phenomena and the theory of electrons. Lorentz held professorships at the University of Leiden and was awarded the Nobel Prize in Physics in 1902.",
+            "mistralai/ministral-8b-2512": "Hendrik Antoon Lorentz (1853\u20131928) was a Dutch theoretical physicist and mathematician, born in Arnhem, Netherlands. He earned his Ph.D. in physics from Leiden University in 1875 and later became a professor there, contributing significantly to electromagnetism and atomic theory. Lorentz developed the Lorentz transformations (1895), foundational to Einstein\u2019s theory of special relativity, and shared the 1902 Nobel Prize in Physics for his work on the electron theory. His research also included optics, thermodynamics, and the Lorentz force, which describes the motion of charged particles in electromagnetic fields. He served as president of the International Association of Academies (1919\u20131925) and was a key figure in Dutch scientific circles."
+        }
+    },
+    {
+        "id": "Q37463",
+        "name": "Pierre Curie",
+        "sitelinks": 130,
+        "facts": {
+            "date_of_birth": "1859",
+            "birthplace": "Paris",
+            "occupation": "physicist, chemist, university teacher, nuclear physicist",
+            "field_of_work": "physics, chemistry, crystallography, magnetism, piezoelectricity, radioactivity",
+            "educated_at": "Science Faculty of Paris, Sorbonne, homeschooling",
+            "employer": "University of Paris",
+            "notable_work": "radioactivity, piezoelectricity",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Benjamin Franklin Medal, Davy Medal, Matteucci Medal, La Caze Prize of the Academy of Sciences, Jean Reynaud Prize",
+            "citizenship": "France"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Pierre Curie was born on November 5, 1859, in Paris, France. He studied mathematics and physics at the \u00c9cole Normale Sup\u00e9rieure, graduating in 1882. Curie's occupations included teaching physics at the University of Paris and conducting research in radioactivity, for which he was awarded the Nobel Prize in Physics in 1903, along with Marie and Henri Becquerel. He was also a professor at the University of Paris and a member of the French Academy of Sciences.",
+            "qwen/qwen-2.5-7b-instruct": "Pierre Curie was born in Paris, France, in 1859. He was a physicist known for his work on crystallography, magnetism, and radioactivity. Curie received his education at the \u00c9cole Polytechnique and the \u00c9cole des Mines, and he shared the Nobel Prize in Physics in 1903 with his wife Marie Curie and Henri Becquerel.",
+            "mistralai/ministral-8b-2512": "Pierre Curie was born on **May 15, 1859**, in **Paris, France**. A physicist and chemist, he is best known for his pioneering work on **radioactivity**, co-discovering the phenomenon with his wife, Marie Curie, and identifying two new radioactive elements: **polonium** and **radium**. He earned his doctorate in physics from the **Sorbonne in 1894** and later became a professor at the **Mus\u00e9e National d'Histoire Naturelle**. Curie also contributed to crystallography, piezoelectricity, and magnetism, earning the **1903 Nobel Prize in Physics** (shared with Marie Curie and Henri Becquerel). He died in a **street accident in Paris on April 19, 1906**."
+        }
+    },
+    {
+        "id": "Q177681",
+        "name": "Thomas Hunt Morgan",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1866",
+            "birthplace": "Lexington",
+            "occupation": "evolutionary biologist, geneticist, zoologist, physician, university teacher, physiologist, biologist",
+            "field_of_work": "genetics",
+            "educated_at": "Johns Hopkins University, University of Kentucky, Columbia University",
+            "employer": "Bryn Mawr College, California Institute of Technology, Columbia University",
+            "award_received": "Nobel Prize in Physiology or Medicine, Copley Medal, Darwin Medal, Croonian Medal and Lecture, Foreign Member of the Royal Society, Silliman Memorial Lectures, doctor honoris causa from the University of Paris",
+            "citizenship": "United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Thomas Hunt Morgan was born on September 25, 1866, in Lexington, Kentucky. He earned his Bachelor's degree from the University of Kentucky in 1886 and his Ph.D. from Johns Hopkins University in 1890. Morgan worked as a professor at Bryn Mawr College, the University of Chicago, and Columbia University, and he served as the president of the Carnegie Institution of Washington from 1922 to 1938. He was awarded the Nobel Prize in Physiology or Medicine in 1933 for his discovery of the role of chromosomes in heredity.",
+            "qwen/qwen-2.5-7b-instruct": "Thomas Hunt Morgan was born in 1866 in Lexington, Kentucky. He was an American geneticist and professor at Columbia University, known for his work on the chromosome theory of heredity. Morgan received the Nobel Prize in Physiology or Medicine in 1933.",
+            "mistralai/ministral-8b-2512": "Thomas Hunt Morgan (1866\u20131945) was an American geneticist and embryologist born on September 25, 1866, in Lexington, Kentucky. He earned his Ph.D. in zoology from Johns Hopkins University in 1890 and later became a professor at Bryn Mawr College (1891\u20131892) and Columbia University (1904\u20131945). Morgan is best known for his pioneering work with the fruit fly *Drosophila melanogaster*, which led to the chromosomal theory of inheritance and earned him the 1933 Nobel Prize in Physiology or Medicine. He founded the field of experimental genetics and directed the California Institute of Technology\u2019s (Caltech) Biology Department from 1928 until his death in Pasadena, California."
+        }
+    },
+    {
+        "id": "Q949",
+        "name": "John Bardeen",
+        "sitelinks": 95,
+        "facts": {
+            "date_of_birth": "1908",
+            "birthplace": "Madison",
+            "occupation": "physicist, inventor, university teacher, electrical engineer",
+            "field_of_work": "physics",
+            "educated_at": "Princeton University, University of Wisconsin\u2013Madison, Madison Central High School, University of Wisconsin High School",
+            "employer": "University of Illinois Urbana-Champaign, University of Minnesota",
+            "award_received": "Nobel Prize in Physics, Nobel Prize in Physics, Stuart Ballantine Medal, Harold Pender Award, Lomonosov Gold Medal, Oliver E. Buckley Condensed Matter Prize, IEEE Medal of Honor, Fritz London Award, National Medal of Science, National Inventors Hall of Fame, Presidential Medal of Freedom, Franklin Medal, Fellow of the American Physical Society, Foreign Member of the Royal Society, James Madison Medal, John Scott Award",
+            "citizenship": "United States"
+        },
+        "tier": "Medium",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "John Bardeen was born on May 23, 1908, in Ann Arbor, Michigan. He earned a Bachelor of Science degree in electrical engineering from the University of Michigan in 1928 and a Ph.D. in theoretical physics from Princeton University in 1936. Bardeen worked as a research physicist at the University of Minnesota from 1936 to 1951, and then joined the Bell Telephone Laboratories in 1951. He is best known for his work on the development of the transistor and the theory of superconductivity, for which he was awarded two Nobel Prizes in Physics, in 1956 and 1972.",
+            "qwen/qwen-2.5-7b-instruct": "John Bardeen was born in 1908 in Madison, Wisconsin. He was an American physicist known for his work in solid-state physics and for inventing the transistor. Bardeen received his Ph.D. from Princeton University and was a professor at the University of Illinois at Urbana-Champaign.",
+            "mistralai/ministral-8b-2512": "John Bardeen was born on **May 23, 1908**, in **Madison, Wisconsin**. He earned a **B.S. in electrical engineering** from the **University of Wisconsin\u2013Madison (1928)** and a **Ph.D. in physics** from the **University of Wisconsin (1936)**. A physicist and electrical engineer, Bardeen is best known for co-inventing the **transistor (1947\u20131948)** with William Shockley and Walter Brattain at **Bell Labs**, revolutionizing electronics. He later developed the **Bardeen\u2013Brattain\u2013Shockley diode** and made foundational contributions to **superconductivity theory**, earning him the **Nobel Prize in Physics twice** (1956 and 1972). Bardeen died on **January 30, 1991**, in **Boston, Massachusetts**."
+        }
+    },
+    {
+        "id": "Q163415",
+        "name": "William Shockley",
+        "sitelinks": 93,
+        "facts": {
+            "date_of_birth": "1910",
+            "birthplace": "London",
+            "occupation": "physicist, inventor, university teacher",
+            "field_of_work": "semiconductor physics",
+            "educated_at": "California Institute of Technology, Massachusetts Institute of Technology",
+            "employer": "Bell Labs, Stanford University, Shockley Semiconductor Laboratory",
+            "award_received": "Nobel Prize in Physics, Oliver E. Buckley Condensed Matter Prize, IEEE Medal of Honor, Wilhelm Exner Medal, National Inventors Hall of Fame, IEEE Morris N. Liebmann Memorial Award, Holley Medal, Fellow of the American Physical Society, Comstock Prize in Physics, Time Person of the Year",
+            "citizenship": "United Kingdom, United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "William Shockley was born on February 12, 1910, in Calvert County, Maryland. He was an American physicist and inventor, best known for his work on the development of the transistor. Shockley earned his Ph.D. in physics from Stanford University in 1936. He was a professor at Stanford University from 1949 to 1975 and was awarded the Nobel Prize in Physics in 1956 for his work on the transistor.",
+            "qwen/qwen-2.5-7b-instruct": "William Shockley was born in 1910 in London, England. He is known for his work in solid-state physics and was a co-inventor of the transistor, for which he shared the Nobel Prize in Physics in 1956. Shockley held positions at Bell Labs and later founded Shockley Semiconductor Laboratory.",
+            "mistralai/ministral-8b-2512": "William Shockley was born on **February 13, 1910**, in **London, England**, but moved to the United States with his family as an infant. He earned a **Bachelor of Science (1932)** and **Doctor of Philosophy (1936)** in physics from **California Institute of Technology (Caltech)**. Shockley was a pioneering physicist and co-inventor of the **transistor (1947)**, for which he shared the **Nobel Prize in Physics (1956)** with John Bardeen and Walter Brattain. He later founded **Shockley Semiconductor Laboratory (1955)**, which contributed to the development of silicon semiconductor technology, though it also became a controversial employer due to his management style. Shockley died on **August 12, 1989**, in **Stanford, California**."
+        }
+    },
+    {
+        "id": "Q182031",
+        "name": "Jack Kilby",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1923",
+            "birthplace": "Jefferson City",
+            "occupation": "inventor, university teacher, computer scientist, photographer, engineer, physicist, electronic engineer",
+            "field_of_work": "physics, electrical engineering",
+            "educated_at": "University of Illinois Urbana-Champaign, University of Wisconsin\u2013Milwaukee, University of Wisconsin\u2013Madison, Great Bend High School",
+            "employer": "Texas Instruments",
+            "notable_work": "integrated circuit",
+            "award_received": "IEEE Cledo Brunetti Award, National Medal of Technology and Innovation, Nobel Prize in Physics, Stuart Ballantine Medal, Charles Stark Draper Prize, Harold Pender Award, IEEE David Sarnoff Award, IEEE Medal of Honor, National Medal of Science, National Inventors Hall of Fame, Kyoto Prize in Advanced Technology, Holley Medal, IEEE Fellow, honorary doctor of the University of Miami, Holley Medal, Washington Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Jack Kilby was born on November 8, 1923, in Jefferson, Texas. He earned a Bachelor of Science degree in Electrical Engineering from the University of Illinois in 1940. Kilby worked as an engineer at the Centralab (a division of the Texas Instruments company) and later at Texas Instruments, where he made significant contributions to the development of the first commercial integrated circuit. He was awarded the Nobel Prize in Physics in 2000 for his invention of the integrated circuit.",
+            "qwen/qwen-2.5-7b-instruct": "Jack Kilby was born in 1923 in Abilene, Texas. He is known for his work in semiconductor technology and is credited with inventing the integrated circuit in 1958. Kilby earned a Bachelor of Science degree in electrical engineering from Texas Tech University in 1947 and later worked for Texas Instruments, where he made his groundbreaking contribution.",
+            "mistralai/ministral-8b-2512": "Jack Kilby was born on November 8, 1923, in Jefferson City, Missouri. He earned a Bachelor of Science in electrical engineering from the University of Illinois Urbana-Champaign in 1947 and later a Master of Science in engineering science from the same institution in 1950. Kilby worked at Texas Instruments (TI) from 1958 to 1984, where he co-invented the integrated circuit (IC) in 1958, a foundational technology for modern electronics. In 1970, he received the Nobel Prize in Physics for his role in the invention of the integrated circuit. Kilby also held patents for numerous other electronic innovations and served as a professor at Texas Tech University from 1984 until his death on June 20, 2005."
+        }
+    },
+    {
+        "id": "Q186497",
+        "name": "Willis Lamb",
+        "sitelinks": 74,
+        "facts": {
+            "date_of_birth": "1913",
+            "birthplace": "Los Angeles",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics, laser, optics, hydrogen",
+            "educated_at": "University of California, Berkeley, Los Angeles High School",
+            "employer": "Harvard University, University of Arizona, Columbia University, Yale University",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, National Medal of Science, Rumford Prize, Einstein Prize for Laser Science, Fellow of the American Physical Society, Fellow of the Optical Society, Guthrie Lecture, Fellow of the American Academy of Arts and Sciences, honorary doctor of Yeshiva University, honorary doctorate from Columbia University, honorary doctor of Ulm University, honorary doctor of the University of Pennsylvania",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Willis Lamb was born on December 12, 1913, in Chicago, Illinois. He earned his undergraduate degree from the University of Chicago in 1935 and his Ph.D. in physics from the University of Chicago in 1937. Lamb worked as a physicist at the University of Chicago, the University of California, and the University of Arizona, and was a member of the National Academy of Sciences. He was awarded the Nobel Prize in Physics in 1955 for his work on the Lamb shift, a quantum mechanical effect that describes the energy shift of an electron in a hydrogen atom.",
+            "qwen/qwen-2.5-7b-instruct": "Willis Lamb was born in 1913 in Montgomery, Alabama. He is known for his work in quantum electrodynamics and the Lamb shift, for which he shared the Nobel Prize in Physics in 1955. Lamb taught at various institutions, including Columbia University and the University of California, Berkeley.",
+            "mistralai/ministral-8b-2512": "Willis Eugene Lamb Jr. was born on July 12, 1913, in Los Angeles, California. He earned his B.S. in physics from the University of California, Los Angeles (UCLA) in 1934 and his Ph.D. in physics from the University of California, Berkeley in 1938. Lamb conducted pioneering research at Columbia University and later at the University of Arizona, where he made significant contributions to quantum electrodynamics, most notably the discovery of the **Lamb shift** (1947), for which he shared the 1955 Nobel Prize in Physics with Polykarp Kusch. He also served as a professor at Columbia, Stanford, and the University of Arizona, and later worked at the University of Arizona\u2019s Steward Observatory. Lamb died on May 15, 2008, in Tucson, Arizona."
+        }
+    },
+    {
+        "id": "Q184571",
+        "name": "Polykarp Kusch",
+        "sitelinks": 70,
+        "facts": {
+            "date_of_birth": "1911",
+            "birthplace": "Blankenburg",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics",
+            "educated_at": "University of Illinois Chicago, University of Illinois Urbana-Champaign, Case Western Reserve University",
+            "employer": "Columbia University, University of Texas at Dallas",
+            "award_received": "Nobel Prize in Physics, honorary doctor of the Ohio State University, Fellow of the American Physical Society",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Polykarp Kusch was born on July 26, 1911, in Hamburg, Germany. He earned his Ph.D. in physics from the University of Wisconsin in 1936. Kusch worked as a research physicist at Columbia University, where he was a professor of physics from 1946 until his retirement in 1975. He was awarded the Nobel Prize in Physics in 1955 for his discovery of the magnetic moment of the proton.",
+            "qwen/qwen-2.5-7b-instruct": "Polykarp Kusch was born in 1911 in New York City. He is known for his work in quantum physics and received the Nobel Prize in Physics in 1955 for his work on the magnetic moment of the electron. Kusch earned his Ph.D. from Columbia University in 1936.",
+            "mistralai/ministral-8b-2512": "Polykarp Kusch (1911\u20131993) was a German-American physicist born on **January 26, 1911, in Blankenburg, Germany**. He earned his Ph.D. in physics from the **University of Bonn (1933)** and later conducted research at the **University of Michigan (1937\u20131946)** before joining the faculty at **Columbia University (1946\u20131980)**. Kusch is best known for his precision measurements of the **electron magnetic moment**, which, along with Willard Libby, earned him the **1955 Nobel Prize in Physics**. His work significantly advanced understanding of quantum electrodynamics (QED). He died on **September 21, 1993, in Ann Arbor, Michigan**."
+        }
+    },
+    {
+        "id": "Q80905",
+        "name": "Donald Arthur Glaser",
+        "sitelinks": 80,
+        "facts": {
+            "date_of_birth": "1926",
+            "birthplace": "Cleveland",
+            "occupation": "physicist, neuroscientist, university teacher, inventor, neurobiologist, molecular biologist",
+            "field_of_work": "physics",
+            "educated_at": "California Institute of Technology, Case Western Reserve University, Cleveland Heights High School",
+            "employer": "University of California, Berkeley, University of Michigan",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Fellow of the American Physical Society, Guggenheim Fellowship",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Donald Arthur Glaser was born on September 24, 1926, in San Francisco, California. He was an American physicist and inventor, best known for inventing the first practical storage oscilloscope, a device that revolutionized the field of electronics. Glaser earned his Bachelor's degree in Physics from the University of California, Berkeley, in 1947 and his Ph.D. in Physics from the University of California, Berkeley, in 1950. He worked at the University of California, Berkeley, and the Lawrence Berkeley National Laboratory, among other institutions.",
+            "qwen/qwen-2.5-7b-instruct": "Donald Arthur Glaser was born in 1926 in Detroit, Michigan. He was a physicist known for his invention of the bubble chamber, for which he was awarded the Nobel Prize in Physics in 1960. Glaser earned his Ph.D. from the University of California, Berkeley in 1950.",
+            "mistralai/ministral-8b-2512": "Donald Arthur Glaser was born on **September 21, 1926**, in **Cleveland, Ohio**. He earned his **Bachelor of Science in Physics** from the **University of California, Berkeley (UC Berkeley)** in 1946 and his **Ph.D. in Physics** from the same institution in 1949. Glaser is best known for inventing the **bubble chamber** in 1952, a device that revolutionized particle physics by making subatomic particle interactions visible. He received the **Nobel Prize in Physics in 1960** for this invention. Glaser also held academic positions, including as a professor at **UC Berkeley** and later at **University of Michigan**, where he served as chancellor from 1970 to 1980."
+        }
+    },
+    {
+        "id": "Q178344",
+        "name": "Luis Walter Alvarez",
+        "sitelinks": 83,
+        "facts": {
+            "date_of_birth": "1911",
+            "birthplace": "San Francisco",
+            "occupation": "physicist, nuclear physicist, university teacher, inventor, astronomer",
+            "field_of_work": "physics",
+            "educated_at": "University of Chicago, San Francisco Polytechnic High School",
+            "employer": "University of California, Berkeley",
+            "award_received": "Nobel Prize in Physics, National Medal of Science, Collier Trophy, Medal for Merit, California Scientist of the Year, Albert Einstein Award, Michelson\u2013Morley Award, honorary doctor of the University of Chicago, honorary doctor of Carnegie-Mellon University, National Inventors Hall of Fame, Fellow of the American Physical Society, John Scott Award, Enrico Fermi Award, Fellow of the American Academy of Arts and Sciences, honorary doctorate of the Autonomous University of Madrid, Golden Plate Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Luis Walter Alvarez was born on June 13, 1911, in San Francisco, California. He earned his Bachelor's degree in Physics from the University of Chicago in 1932 and his Ph.D. in Physics from the University of Chicago in 1936. Alvarez worked as a physicist at the University of California, Berkeley, and was a key figure in the development of the particle accelerator. He was awarded the Nobel Prize in Physics in 1968 for his work on the strong interaction and the discovery of the antiproton.",
+            "qwen/qwen-2.5-7b-instruct": "Luis Walter Alvarez was born in 1911 in San Francisco, California. He was a physicist and engineer known for his contributions to particle physics and geophysics. Alvarez received his Ph.D. from the University of California, Berkeley, and was a professor there for many years.",
+            "mistralai/ministral-8b-2512": "Luis Walter Alvarez was born on **June 13, 1911**, in **San Francisco, California**. He earned his **B.A. in physics (1932)** and **Ph.D. in physics (1936)** from the **University of California, Berkeley**, where he later became a professor. A pioneering physicist, Alvarez worked extensively in **nuclear physics, particle physics, and geophysics**, contributing to the development of the **linear accelerator (linac)** and the **bubble chamber**. He also played a key role in the **Manhattan Project** and later co-discovered the **Alvarez mechanism**, proposing that an asteroid impact caused the **Cretaceous-Paleogene extinction event**, which wiped out the dinosaurs. Alvarez died on **September 1, 1988**, in **Berkeley, California**."
+        }
+    },
+    {
+        "id": "Q172840",
+        "name": "Murray Gell-Mann",
+        "sitelinks": 92,
+        "facts": {
+            "date_of_birth": "1929",
+            "birthplace": "Lower Manhattan",
+            "occupation": "non-fiction writer, theoretical physicist, physicist",
+            "field_of_work": "particle physics, physics",
+            "educated_at": "Yale College, Massachusetts Institute of Technology, Yale University, Columbia Grammar & Preparatory School, Jonathan Edwards College",
+            "employer": "University of Chicago, California Institute of Technology",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, Humanist of the Year, William Procter Prize for Scientific Achievement, Helmholtz Medal, John J. Carty Award for the Advancement of Science, Franklin Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Dannie Heineman Prize for Mathematical Physics, Albert Einstein Medal, Fellow of the Pakistan Academy of Sciences, Fellow of the Committee for Skeptical Inquiry, Fellow of the American Academy of Arts and Sciences, Foreign Member of the Royal Society, Ernest Orlando Lawrence Award, Honorary doctorate of the University of Florida, honorary doctorate from the University of Cambridge, honorary doctorate from Columbia University, Honorary doctor of the University of Oxford, honorary doctor of the University of Chicago, honorary doctor of Yale University, Golden Plate Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Murray Gell-Mann was born on September 15, 1929, in New York City. He earned his Bachelor's degree from the Massachusetts Institute of Technology (MIT) in 1950 and his Ph.D. from the California Institute of Technology (Caltech) in 1951. Gell-Mann worked as a physicist at various institutions, including the University of California, Berkeley, and the European Organization for Nuclear Research (CERN). He was awarded the Nobel Prize in Physics in 1969 for his contributions to the theory of elementary particles, specifically the theory of quarks.",
+            "qwen/qwen-2.5-7b-instruct": "Murray Gell-Mann was born in 1929 in New York City. He is known for his contributions to particle physics, particularly for his work on the classification of subatomic particles, for which he was awarded the Nobel Prize in Physics in 1969. Gell-Mann received his Ph.D. in physics from the Massachusetts Institute of Technology in 1951.",
+            "mistralai/ministral-8b-2512": "Murray Gell-Mann was born on **September 15, 1929**, in **New York City**. A theoretical physicist, he earned his **B.A. in physics (1948)** and **Ph.D. in physics (1951)** from **Yale University**. Gell-Mann is best known for proposing the concept of **quarks** (1964) as fundamental constituents of protons and neutrons, coining the term in a line from James Joyce\u2019s *Finnegans Wake*. He received the **1969 Nobel Prize in Physics** for his work on the classification of elementary particles. Gell-Mann also contributed to quantum mechanics, information theory, and systems theory, and served as a professor at institutions including **MIT** and **Caltech**."
+        }
+    },
+    {
+        "id": "Q173028",
+        "name": "Emilio G. Segr\u00e8",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1905, 1905",
+            "birthplace": "Tivoli",
+            "occupation": "physicist, university teacher, nuclear physicist, writer",
+            "field_of_work": "physics",
+            "educated_at": "Sapienza University of Rome",
+            "employer": "University of California, Berkeley, University of Palermo, Sapienza University of Rome, Federal University of Rio de Janeiro",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, August Wilhelm von Hofmann Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society",
+            "citizenship": "United States, Kingdom of Italy"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Emilio G. Segr\u00e8 was born on February 1, 1905, in Pola, Austria-Hungary (now Pula, Croatia). He was an Italian-American physicist who earned his Ph.D. in physics from the University of Rome in 1928. Segr\u00e8 worked at the University of Rome, the University of California, Berkeley, and the University of California, Los Angeles (UCLA), and was a member of the Manhattan Project. He was awarded the Nobel Prize in Physics in 1959 for his discovery of the antiproton, along with Owen Chamberlain.",
+            "qwen/qwen-2.5-7b-instruct": "Emilio G. Segr\u00e8 was born in Palermo, Italy, in 1905. He is known for his work in nuclear physics, particularly for his discovery of the antiproton and his contributions to the understanding of beta decay. Segr\u00e8 earned his Ph.D. from the University of Rome in 1928 and later taught and conducted research at institutions including the University of California, Berkeley.",
+            "mistralai/ministral-8b-2512": "Emilio Gino Segr\u00e8 (February 1, 1905 \u2013 April 26, 1989) was an Italian-American physicist and Nobel laureate, born in Tivoli, Italy. He earned his doctorate in physics from the University of Rome in 1927 and later worked at the University of Palermo and the University of Rome before emigrating to the United States in 1936. Segr\u00e8 co-discovered the element technetium (1937) and later identified antimatter (the antiproton, 1955), for which he was awarded the Nobel Prize in Physics in 1959. He held academic positions at Berkeley Radiation Laboratory, the University of California, Berkeley, and later served as chancellor of the University of California, Los Angeles (1965\u20131971). Segr\u00e8 also authored several books on physics and science history."
+        }
+    },
+    {
+        "id": "Q183655",
+        "name": "Owen Chamberlain",
+        "sitelinks": 71,
+        "facts": {
+            "date_of_birth": "1920",
+            "birthplace": "San Francisco",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics",
+            "educated_at": "Dartmouth College, University of Chicago, Germantown Friends School",
+            "employer": "Harvard University, University of California, Berkeley",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, Fellow of the American Physical Society",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Owen Chamberlain was born on July 3, 1920, in San Diego, California. He was an American physicist who earned his Bachelor's degree from the University of California, Berkeley, in 1942 and his Ph.D. from the University of California, Berkeley, in 1949. Chamberlain worked at the University of Chicago, the University of California, and the University of Colorado, and was a member of the Manhattan Project. He was awarded the Nobel Prize in Physics in 1959, along with Emilio Segr\u00e8, for their discovery of the antiproton.",
+            "qwen/qwen-2.5-7b-instruct": "Owen Chamberlain was born in 1920 in Detroit, Michigan. He is known for his work in particle physics, particularly for his discovery of the antiproton, which earned him the Nobel Prize in Physics in 1959. Chamberlain held a professorship at the University of California, Berkeley.",
+            "mistralai/ministral-8b-2512": "Owen Chamberlain was born on **July 10, 1920**, in **San Francisco, California**. He earned a **Bachelor of Arts (1941)** and **Master of Arts (1942)** in physics from **California Institute of Technology (Caltech)**, followed by a **Ph.D. in physics (1943)** from the same institution. Chamberlain served as a **physicist in the Manhattan Project (1943\u20131946)** before returning to Caltech as a faculty member. In **1955**, he co-discovered the **antiproton** with Emilio Segr\u00e8, earning them the **Nobel Prize in Physics (1959)**. Chamberlain later held leadership roles, including **Chancellor of the University of California, Berkeley (1968\u20131971)** and **Director of the Lawrence Berkeley National Laboratory (1973\u20131980)**. He died on **February 28, 2006**, in **Berkeley, California**."
+        }
+    },
+    {
+        "id": "Q130113",
+        "name": "Robert Hofstadter",
+        "sitelinks": 71,
+        "facts": {
+            "date_of_birth": "1915",
+            "birthplace": "New York City",
+            "occupation": "physicist, nuclear physicist, university teacher, astrophysicist",
+            "field_of_work": "physics",
+            "educated_at": "Princeton University, City College of New York, DeWitt Clinton High School",
+            "employer": "Stanford University",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, National Medal of Science, Dirac Medal for the Advancement of Physics, Humboldt Research Fellowship, Humboldt Prize, honorary doctorate of the Universit\u00e9 de Clermont-Ferrand",
+            "citizenship": "United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Robert Hofstadter was born on February 5, 1915, in New York City, New York. He was an American physicist who earned his Ph.D. in physics from the University of G\u00f6ttingen in 1939. Hofstadter worked at the University of Pennsylvania and later at Princeton University, where he was a professor of physics. He was awarded the Nobel Prize in Physics in 1961 for his work on the scattering of electrons by atomic nuclei, which led to the development of the Hofstadter effect.",
+            "qwen/qwen-2.5-7b-instruct": "Robert Hofstadter was born in 1915 in New York City. He was a physicist known for his work on the structure of atomic nuclei and electron scattering. Hofstadter earned his Ph.D. from Stanford University and taught at Stanford for much of his career.",
+            "mistralai/ministral-8b-2512": "Robert Hofstadter was born on **February 5, 1915**, in New York City, New York. He was a physicist best known for his pioneering work in electron scattering experiments, which contributed significantly to the understanding of nuclear structure. Hofstadter earned his **B.A. in 1935** and **Ph.D. in 1938** from Princeton University, where he later became a professor. In 1961, he shared the **Nobel Prize in Physics** for his work on the structure of atomic nuclei. He died on **November 17, 1990**, in Stanford, California."
+        }
+    },
+    {
+        "id": "Q44286",
+        "name": "Rudolf Ludwig M\u00f6ssbauer",
+        "sitelinks": 75,
+        "facts": {
+            "date_of_birth": "1929",
+            "birthplace": "Munich",
+            "occupation": "physicist, university teacher, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "Technische Universit\u00e4t Berlin, Technical University of Munich",
+            "employer": "Technical University of Munich, Technische Universit\u00e4t Berlin, California Institute of Technology, Institut Laue\u2013Langevin",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Rontgen-Preis, Bavarian Order of Merit, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, honorary doctorate from University of Lille-I, honorary doctorate from Joseph Fourier University, Guthrie Medal and Prize, Lomonosov Gold Medal, Bavarian Maximilian Order for Science and Art, Albert Einstein Medal, Urania Medal, Pour le M\u00e9rite, Pour le M\u00e9rite for Sciences and Arts order, Legion of Honour, Fellow of the American Physical Society",
+            "citizenship": "Germany"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Rudolf Ludwig M\u00f6ssbauer was born on January 31, 1929, in Munich, Germany. He studied physics at the Technical University of Munich and later at the University of Munich, where he earned his Ph.D. in 1958. M\u00f6ssbauer worked as a research assistant at the Technical University of Munich and later at the Max Planck Institute for Physics and Astrophysics in Munich. He was awarded the Nobel Prize in Physics in 1961 for his discovery of the M\u00f6ssbauer effect.",
+            "qwen/qwen-2.5-7b-instruct": "Rudolf Ludwig M\u00f6ssbauer was born in 1929 in Munich, Germany. He is known for his work in nuclear physics, particularly for the M\u00f6ssbauer effect, which he discovered in 1957. M\u00f6ssbauer received his education at the Technical University of Munich and later became a professor at the same institution.",
+            "mistralai/ministral-8b-2512": "Rudolf Ludwig M\u00f6ssbauer was born on **31 January 1929** in **Munich, Germany**. He earned his **Ph.D. in physics** from the **Technical University of Munich (TUM)** in 1958, where he later became a professor. M\u00f6ssbauer is best known for his discovery of the **M\u00f6ssbauer effect** (1957\u20131958), a phenomenon in which gamma rays are emitted or absorbed without energy loss due to nuclear recoil, enabling precise measurements in nuclear physics. He received the **Nobel Prize in Physics in 1961** for this work. M\u00f6ssbauer also held academic positions at **TUM** and the **Max Planck Institute for Medical Research** in Heidelberg before retiring in 1997."
+        }
+    },
+    {
+        "id": "Q133267",
+        "name": "Lev Landau",
+        "sitelinks": 99,
+        "facts": {
+            "date_of_birth": "1908, 1908",
+            "birthplace": "Baku",
+            "occupation": "physicist, inventor, non-fiction writer, university teacher, theoretical physicist, mathematician",
+            "field_of_work": "theoretical physics",
+            "educated_at": "Faculty of Physics and Mathematics of the Saint Petersburg University, Baku State University, Baku Polytechnicum",
+            "employer": "National University of Kharkiv, Kharkiv Institute of Physics and Technology, P.L. Kapitza Institute for Physical Problems RAS, Ioffe Institute, Lomonosov Moscow State University, Moscow Institute of Physics and Technology",
+            "notable_work": "Course of Theoretical Physics, Landau theory, Landau damping, Landau distribution, Landau pole, Landau quantization, Landau\u2013Squire jet, Landau\u2013Levich problem, Landau\u2013Hopf theory of turbulence, Ginzburg\u2013Landau\u2013Abrikosov\u2013Gor'kov theory, Darrieus\u2013Landau instability, Landau\u2013Lifshitz model, Landau\u2013Lifshitz\u2013Gilbert equation, Landau\u2013Zener formula, Landau\u2013Pomeranchuk\u2013Migdal effect, Landau\u2013Yang theorem",
+            "award_received": "Nobel Prize in Physics, Stalin Prize, Order of Lenin, Hero of Socialist Labour, Order of the Badge of Honour, Max Planck Medal, Order of the Red Banner of Labour, Fritz London Award, Order of Lenin, Lenin Prize, Foreign Member of the Royal Society, Stalin Prize, 2nd degree, State Stalin Prize, 1st degree",
+            "citizenship": "Russian Empire, Azerbaijan Democratic Republic, Soviet Union"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Lev Landau was born on January 19, 1908, in Yekaterinoslav, Russian Empire (now Dnipro, Ukraine). He studied at the University of Leningrad, where he received his Ph.D. in 1937. Landau worked as a professor at the University of Leningrad and later at the Institute for Physical Problems in Moscow, where he conducted research in theoretical physics, particularly in the fields of quantum mechanics and statistical mechanics. He was awarded the Nobel Prize in Physics in 1962 for his contributions to the theory of superfluidity.",
+            "qwen/qwen-2.5-7b-instruct": "Lev Landau was born in 1908 in Baku, Azerbaijan. He was a Soviet physicist known for his work in condensed matter physics and quantum mechanics. Landau received his education at Leningrad University and is renowned for his contributions to the theory of superfluidity and his development of Fermi\u2013Landau theory.",
+            "mistralai/ministral-8b-2512": "Lev Davidovich Landau (1908\u20131968) was a Soviet physicist born on January 22, 1908, in Baku, Russian Empire (now Azerbaijan). He earned his Ph.D. in physics from the University of Kharkiv in 1927 and later became a leading figure in theoretical physics, known for his work in quantum mechanics, statistical physics, and fluid dynamics. Landau was awarded the Nobel Prize in Physics in 1962 for his pioneering contributions to theoretical physics, particularly the theory of condensed matter. He also co-founded the Landau Institute for Theoretical Physics in Moscow. Landau died in a car accident in November 1968 near Novosibirsk, Russia."
+        }
+    },
+    {
+        "id": "Q155790",
+        "name": "Eugene Paul Wigner",
+        "sitelinks": 98,
+        "facts": {
+            "date_of_birth": "1902",
+            "birthplace": "Budapest",
+            "occupation": "mathematician, physicist, university teacher, theoretical physicist, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "Fasori Gimn\u00e1zium, Technische Universit\u00e4t Berlin",
+            "employer": "Princeton University, Technische Universit\u00e4t Berlin, University of Wisconsin\u2013Madison, University of G\u00f6ttingen, Leiden University, Princeton University, Manhattan Project, Princeton University, Oak Ridge National Laboratory",
+            "notable_work": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences, Wigner's theorem",
+            "award_received": "Nobel Prize in Physics, Max Planck Medal, Enrico Fermi Award, Albert Einstein Award, National Medal of Science, Wigner Medal, Josiah Willard Gibbs Lectureship, Franklin Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society, John von Neumann Prize, Medal for Merit, Atoms for Peace Award",
+            "citizenship": "Hungary, United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Eugene Paul Wigner was born on November 17, 1902, in Budapest, Hungary. He studied at the University of Berlin and later at the University of G\u00f6ttingen, where he earned his Ph.D. in 1927. Wigner worked as a physicist at the University of Manchester and later at Princeton University, where he became a professor of physics in 1937. He was awarded the Nobel Prize in Physics in 1963 for his contributions to the theory of nuclear reactions and the discovery of the Wigner-Seitz cell.",
+            "qwen/qwen-2.5-7b-instruct": "Eugene Paul Wigner was born in 1902 in Budapest, Hungary. He was a theoretical physicist who made significant contributions to the fields of nuclear physics and quantum theory. Wigner also played a crucial role in the development of the nuclear reactor at Princeton University.",
+            "mistralai/ministral-8b-2512": "Eugene Paul Wigner (1902\u20131995) was a Hungarian-American theoretical physicist and mathematician, born on **November 17, 1902**, in **Budapest, Hungary**. He earned his Ph.D. in physics from the **Technical University of Budapest (1925)** and later worked at the **Institute for Advanced Study in Princeton (1930\u20131971)**. Wigner made significant contributions to quantum mechanics, nuclear physics, and group theory, coining the term **\"Wigner\u2019s friend\"** in quantum information theory. He was awarded the **Nobel Prize in Physics in 1963** for his work on the symmetry principles in nuclear physics. Wigner also served as a consultant for the **Manhattan Project** during World War II."
+        }
+    },
+    {
+        "id": "Q57100",
+        "name": "Maria G\u00f6ppert Mayer",
+        "sitelinks": 102,
+        "facts": {
+            "date_of_birth": "1906, 1906",
+            "birthplace": "Katowice",
+            "occupation": "physicist, nuclear physicist, university teacher, scientist",
+            "field_of_work": "physics, nuclear physics, radioactivity, quantum mechanics, theoretical physics, physical chemistry, photochemistry, statistical mechanics",
+            "educated_at": "University of G\u00f6ttingen",
+            "employer": "Johns Hopkins University, University of California, San Diego, Columbia University, Sarah Lawrence College, Los Alamos National Laboratory, Argonne National Laboratory",
+            "notable_work": "nuclear shell model",
+            "award_received": "Nobel Prize in Physics, National Women's Hall of Fame, Fellow of the American Physical Society, Fellow of the American Academy of Arts and Sciences, Golden Plate Award",
+            "citizenship": "Germany, United States"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Maria G\u00f6ppert Mayer was born on June 28, 1906, in Kattowitz, German Empire (now Katowice, Poland). She was a German-American physicist and chemist who earned her Ph.D. in chemistry from the University of G\u00f6ttingen in 1930. Mayer worked as a research assistant at the Kaiser Wilhelm Institute for Chemistry in Berlin and later at the University of California, Berkeley, where she became a naturalized U.S. citizen in 1933. She was awarded the Nobel Prize in Physics in 1963 for her work on the nuclear shell model of the atomic nucleus.",
+            "qwen/qwen-2.5-7b-instruct": "Maria G\u00f6ppert Mayer was born in 1906 in Katowice, then part of Germany. She was a theoretical physicist known for her work on the nuclear shell model, for which she was awarded the Nobel Prize in Physics in 1963. She earned her Ph.D. from the University of G\u00f6ttingen in 1930.",
+            "mistralai/ministral-8b-2512": "Maria G\u00f6ppert Mayer was born on **June 28, 1906**, in **Katzweiler, Germany** (now part of Katowice, Poland). She earned her doctorate in physics from the **University of G\u00f6ttingen in 1930**, where she studied under Max Born and James Franck. A theoretical physicist, she made significant contributions to nuclear physics, particularly developing the **shell model of the atomic nucleus** (1949), which explained nuclear structure and earned her the **1963 Nobel Prize in Physics** (shared with J. Hans D. Jensen and Eugene Wigner). She also worked on radiation biology and was a professor at **Johns Hopkins University** (1960\u20131975). Mayer died on **February 20, 1972**, in **San Diego, California**."
+        }
+    },
+    {
+        "id": "Q76797",
+        "name": "Johannes Hans Daniel Jensen",
+        "sitelinks": 77,
+        "facts": {
+            "date_of_birth": "1907, 1907",
+            "birthplace": "Hamburg",
+            "occupation": "physicist, university teacher, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "University of Hamburg, Kiel University",
+            "employer": "Heidelberg University, Leibniz University Hannover",
+            "award_received": "Nobel Prize in Physics, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany",
+            "citizenship": "West Germany, German Reich"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Johannes Hans Daniel Jensen was born on May 5, 1907, in Hamburg, Germany. He was a German physicist who earned his Ph.D. from the University of Hamburg in 1933. Jensen's research focused on nuclear physics, and he was a professor at the University of Hamburg from 1936 to 1944.",
+            "qwen/qwen-2.5-7b-instruct": "Johannes Hans Daniel Jensen was born in 1901 in Denmark. He worked as a physicist and made contributions to the field of nuclear physics. Jensen received his education from the University of Copenhagen.",
+            "mistralai/ministral-8b-2512": "Johannes Hans Daniel Jensen was born on June 25, 1907, in Hamburg, Germany. He earned his doctorate in physics from the University of Hamburg in 1932, where he later became a professor. Jensen is best known for co-developing the nuclear shell model (with Maria Goeppert Mayer) in 1949, which revolutionized the understanding of atomic nuclei. He received the Nobel Prize in Physics in 1963 for this work. Jensen also contributed to quantum mechanics and nuclear physics, serving as director of the Max Planck Institute for Physics in Munich from 1958 until his death on February 11, 1973."
+        }
+    },
+    {
+        "id": "Q83552",
+        "name": "Alexander Prokhorov",
+        "sitelinks": 78,
+        "facts": {
+            "date_of_birth": "1916",
+            "birthplace": "Atherton",
+            "occupation": "physicist, university teacher, editor",
+            "field_of_work": "physics, quantum electronics, laser, maser",
+            "educated_at": "Faculty of Physics, State University of Saint Petersbourg, Lebedev Physical Institute, Saint Petersburg State University",
+            "employer": "Moscow Institute of Physics and Technology, Lomonosov Moscow State University, Lebedev Physical Institute, Prokhorov General Physics Institute, SINP MSU, Laser Physics",
+            "award_received": "USSR State Prize, Order of Lenin, Medal \"For the Victory over Germany in the Great Patriotic War 1941\u20131945\", Hero of Socialist Labour, Order of the Patriotic War, 1st class, Nobel Prize in Physics, Order \"For Merit to the Fatherland\", 2nd class, Lenin Prize, Medal \"For Courage\", Medal \"Veteran of Labour\", Lomonosov Gold Medal, Medal \"In Commemoration of the 850th Anniversary of Moscow\", Helmholtz Medal, Frederic Ives Medal, Medal \"For Valiant Labour in the Great Patriotic War 1941\u20131945\", Council of Ministers of the Soviet Union Prize, Demidov Prize, Russian government prize for science and technology, Order of Lenin, \"Hammer and Sickle\" gold medal, Order of Lenin, Order of Lenin, Order of Lenin, Hero of Socialist Labour, \"Hammer and Sickle\" gold medal, Order of Cyril and Methodius, State Prize of the Russian Federation, Council of Ministers of the Soviet Union Prize, Jubilee Medal \"In Commemoration of the 100th Anniversary of the Birth of Vladimir Ilyich Lenin\", Jubilee Medal \"Twenty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"Thirty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"Forty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"50 Years of the Armed Forces of the USSR\", Medal \"In Commemoration of the 800th Anniversary of Moscow\", Russian Federation Presidential Certificate of Gratitude, Lomonosov Gold Medal",
+            "citizenship": "Soviet Union, Russia"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Alexander Prokhorov was born on January 15, 1916, in Omsk, Russia. He was a Soviet physicist who made significant contributions to the field of quantum mechanics and was awarded the Nobel Prize in Physics in 1964 for his work on the theory of superfluidity. Prokhorov earned his Ph.D. in physics from Moscow State University in 1941 and later became a professor at the same institution. He served as the director of the Lebedev Physical Institute from 1960 to 1967.",
+            "qwen/qwen-2.5-7b-instruct": "Alexander Prokhorov was born in 1916 in Saratov, Russia. He is known for his work in quantum electronics and made significant contributions to the development of masers and lasers. Prokhorov earned his Ph.D. from the Lebedev Physical Institute of the Russian Academy of Sciences.",
+            "mistralai/ministral-8b-2512": "Alexander Prokhorov (born **Alexander Mikhailovich Prokhorov**, 11 July 1916 \u2013 12 January 2002) was a Soviet and Russian physicist best known for his pioneering work in laser physics. Born in **Krasnoyarsk, Russia**, he earned his Ph.D. in physics from **Lomonosov Moscow State University (1948)** and later became a professor at the **Institute of General Physics** in Moscow. Prokhorov co-developed the first **ruby laser (1960)** alongside Nikolay Basov and Charles Townes, earning the **Nobel Prize in Physics (1964)** for their contributions to quantum electronics. He also served as a member of the **Soviet Academy of Sciences** and was honored with the **Lenin Prize (1964)**. Prokhorov died in **Moscow, Russia**, at the age of 85."
+        }
+    },
+    {
+        "id": "Q1043",
+        "name": "Carl Linnaeus",
+        "sitelinks": 213,
+        "facts": {
+            "date_of_birth": "1707",
+            "birthplace": "R\u00e5shult",
+            "occupation": "botanist, physician, autobiographer, biologist, mycologist, pteridologist, bryologist, zoologist, entomologist, ornithologist, naturalist, arachnologist, mineralogist, taxonomist, scientific collector, university teacher",
+            "field_of_work": "medicine, natural history, botany, natural science",
+            "educated_at": "University of Harderwijk, Lund University, Uppsala University",
+            "employer": "Uppsala University",
+            "notable_work": "Systema Naturae, Species Plantarum, Genera Plantarum, Fundamenta Botanica, Critica Botanica, Bibliotheca Botanica, Amoenitates Academicae, Hortus Cliffortianus, Musa Cliffortiana, Methodus, Praeludia Sponsaliorum Plantarum",
+            "award_received": "Knight of the Order of the Polar Star",
+            "citizenship": "Sweden"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Carl Linnaeus was born on May 23, 1707, in R\u00e5shult, Sweden. He studied at the University of Uppsala, graduating in 1732 with a degree in medicine. Linnaeus went on to become a botanist, taxonomist, and physician, and was appointed as the professor of botany at Uppsala University in 1738. He is best known for developing the modern system of binomial nomenclature, which is still used in biology today.",
+            "qwen/qwen-2.5-7b-instruct": "Carl Linnaeus, born in 1707 in R\u00e5shult, Sweden, was a botanist, physician, and zoologist. He is best known for his system of binomial nomenclature in taxonomy, which is still used in modern biology. Linnaeus studied medicine and botany at Uppsala University.",
+            "mistralai/ministral-8b-2512": "Carl Linnaeus (1707\u20131778), born **Carl von Linn\u00e9** in **R\u00e5shult, Sweden**, was a Swedish botanist, physician, and zoologist. He studied medicine at the University of Lund (1727\u20131728) and later at Uppsala University, where he earned his doctorate in 1735. Linnaeus developed the **binomial nomenclature** system for classifying organisms, establishing the foundation of modern taxonomy. He also served as a physician in Sweden and was elected a fellow of the Royal Society. His works, including *Systema Naturae* (1735), revolutionized biological classification."
+        }
+    },
+    {
+        "id": "Q37610",
+        "name": "David Ben-Gurion",
+        "sitelinks": 134,
+        "facts": {
+            "date_of_birth": "1886",
+            "birthplace": "P\u0142o\u0144sk",
+            "occupation": "politician, trade unionist, Zionist",
+            "field_of_work": "politics, Zionism",
+            "educated_at": "Istanbul University Faculty of Law, University of Warsaw, Istanbul University",
+            "notable_work": "Declaration of the Establishment of the State of Israel",
+            "award_received": "Bialik Prize, honorary doctor of Tel Aviv University, honorary citizen of Jerusalem",
+            "citizenship": "Russian Empire, Ottoman Empire, Mandatory Palestine, Israel"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "David Ben-Gurion was born on October 16, 1886, in P\u0142o\u0144sk, Poland. He studied at the Herzliya High School in Thessaloniki, Greece, and later at the University of Istanbul. Ben-Gurion worked as a teacher, journalist, and farmer before becoming a key figure in the Zionist movement. He served as the first Prime Minister of Israel from 1948 to 1953 and again from 1955 to 1959, and was also a member of the Jewish Agency for Palestine.",
+            "qwen/qwen-2.5-7b-instruct": "David Ben-Gurion was born in 1886 in P\u0142o\u0144sk, Russian Empire (now Poland). He was a key figure in the establishment of the State of Israel and served as its first Prime Minister and President. Ben-Gurion was also a prominent Zionist leader and played a crucial role in the development of Jewish settlements in Palestine.",
+            "mistralai/ministral-8b-2512": "David Ben-Gurion (born **David Gr\u00fcn**, later **Ben-Gurion**) was born on **October 16, 1886**, in **Plonsk, Russian Empire** (now Poland). A labor leader, Zionist activist, and statesman, he co-founded the **World Zionist Organization\u2019s Jewish Agency** and led the **Haganah**, the Jewish paramilitary group during the 1948 Arab-Israeli War. As Israel\u2019s first **Prime Minister (1948\u20131954, 1955\u20131963)**, he played a central role in establishing the state and shaping its early policies. A self-educated labor organizer, he later studied law at the **University of Moscow** and was influenced by socialist and Zionist ideologies. He died on **December 1, 1973**, in **Tel Aviv, Israel**."
+        }
+    },
+    {
+        "id": "Q9344",
+        "name": "Google Docs",
+        "sitelinks": 52,
+        "facts": {},
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "I'm unable to verify the birth year, birth place, or other biographical details of Google Docs. However, I can provide the following factual information:\n\nGoogle Docs is a web-based word processing and document management service developed by Google. It was first released in 2006 as part of the Google Docs suite, which also includes Google Sheets and Google Slides. The service allows users to create, edit, and store documents online, with features such as real-time collaboration, version history, and integration with other Google services.",
+            "qwen/qwen-2.5-7b-instruct": "Google Docs, a component of the Google Workspace suite, was first released in 2006. It was developed by Google, a multinational technology company founded in 1998 by Larry Page and Sergey Brin while they were students at Stanford University. Google Docs is used for collaborative document creation, editing, and sharing.",
+            "mistralai/ministral-8b-2512": "**Albert Einstein (1879\u20131955)**\n\nAlbert Einstein was born on **March 14, 1879**, in **Ulm, Kingdom of W\u00fcrttemberg (now Germany)**. He earned a **Bachelor of Science (1896)** and later a **Doctor of Philosophy (1905)** from the **Swiss Federal Polytechnic School (ETH Zurich)**. A theoretical physicist, he developed groundbreaking theories, including **special relativity (1905)** and **general relativity (1915)**, revolutionizing modern physics. In 1921, he received the **Nobel Prize in Physics** for explaining the **photoelectric effect**. Einstein emigrated to the U.S. in 1933, becoming a professor at **Princeton University**, where he remained until his death on **April 18, 1955**, in **Princeton, New Jersey**."
+        }
+    },
+    {
+        "id": "Q92771",
+        "name": "Janus Friis",
+        "sitelinks": 19,
+        "facts": {
+            "date_of_birth": "1976",
+            "birthplace": "Copenhagen",
+            "occupation": "entrepreneur, computer scientist",
+            "citizenship": "Kingdom of Denmark"
+        },
+        "tier": "Low",
+        "bios": {
+            "meta-llama/llama-3.1-8b-instruct": "Janus Friis was born in 1972 in Denmark. He is a Danish entrepreneur and programmer, best known for co-founding the file-sharing service The Pirate Bay and the peer-to-peer file-sharing service eDonkey. Friis also co-founded the online storage service RapidShare and the social networking site Joost.",
+            "qwen/qwen-2.5-7b-instruct": "Janus Friis was born in 1976 in Copenhagen, Denmark. He is known for co-founding the peer-to-peer file sharing company Skype. Friis holds a degree in computer science from the Technical University of Denmark.",
+            "mistralai/ministral-8b-2512": "Janus Friis was born in 1976 in Denmark. He is a Danish entrepreneur and venture capitalist, best known for co-founding Skype Technologies S.A. in 2003, which he later sold to eBay for $2.6 billion in 2005. Friis also co-founded the venture capital firm True Ventures in 2000 and has been involved in various tech startups, including Joost and Kayak. He holds a degree in economics from the Copenhagen Business School."
+        }
+    }
+]

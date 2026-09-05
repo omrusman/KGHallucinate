@@ -1,0 +1,982 @@
+[
+    {
+        "id": "Q937",
+        "name": "Albert Einstein",
+        "sitelinks": 321,
+        "facts": {
+            "date_of_birth": "1879",
+            "birthplace": "Ulm",
+            "occupation": "theoretical physicist, philosopher of science, inventor, science writer, pedagogue, university teacher, physicist, philosopher, writer, scientist, mathematician, patent examiner, professor, pacifist",
+            "field_of_work": "theoretical physics",
+            "educated_at": "ETH Zurich, Luitpold-Gymnasium, Old Kantonsschule (Albert Einstein House), University of Zurich",
+            "employer": "Swiss Federal Institute of Intellectual Property, Charles University, University of Zurich, German University in Prague, ETH Zurich, Kaiser Wilhelm Society, Princeton University, Leiden University, University of Bern, Deutsche Physikalische Gesellschaft, Humboldt-Universit\u00e4t zu Berlin, Royal Prussian Academy of Sciences, Institute for Advanced Study, Leiden University, Bern, University of California, Berkeley",
+            "notable_work": "special relativity, general relativity, photoelectric effect, theory of relativity, theory of Brownian Motion, mass\u2013energy equivalence, Planck constant, Einstein field equations, quantum mechanics, unified field theory, stimulated emission",
+            "award_received": "Barnard Medal for Meritorious Service to Science, Nobel Prize in Physics, Gold Medal of the Royal Astronomical Society, Prix Jules Janssen, Matteucci Medal, Max Planck Medal, Franklin Medal, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Josiah Willard Gibbs Lectureship, Honorary doctorate from the University of Geneva, honorary doctor of the Hebrew University of Jerusalem, honorary doctorate from Princeton University, honorary doctor of the University of Madrid Complutense, Foreign Member of the Royal Society, Great Immigrants Award, Pour le M\u00e9rite, Honorary Fellow of the Royal Society Te Ap\u0101rangi, doctor honoris causa from the University of Paris, New Jersey Hall of Fame, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Kingdom of W\u00fcrttemberg, statelessness, Switzerland, Cisleithania, Weimar Republic, Germany, United States"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q935",
+        "name": "Isaac Newton",
+        "sitelinks": 303,
+        "facts": {
+            "date_of_birth": "1642, 1643, 1642",
+            "birthplace": "Woolsthorpe Manor, Woolsthorpe-by-Colsterworth",
+            "occupation": "mathematician, physicist, philosopher, astronomer, theologian, inventor, alchemist, politician, polymath, university teacher, theoretical physicist, chemist, theologian, astrologer, writer, mintmaster, scientist, executive",
+            "field_of_work": "physics, mechanics, mathematics, astronomy, natural science, celestial mechanics, gravity, optics, mathematical analysis, momentum",
+            "educated_at": "The King's School, Grantham, Trinity College, Trinity College, University of Cambridge",
+            "employer": "University of Cambridge",
+            "notable_work": "Philosophi\u00e6 Naturalis Principia Mathematica, Method of Fluxions, Opticks, or a Treatise of the Reflections, Refractions, Inflections and Colours of Light",
+            "award_received": "Knight Bachelor",
+            "citizenship": "Kingdom of England, Kingdom of Great Britain, United Kingdom"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q7186",
+        "name": "Marie Curie",
+        "sitelinks": 247,
+        "facts": {
+            "date_of_birth": "1867",
+            "birthplace": "Warsaw",
+            "occupation": "physicist, chemist, university teacher",
+            "field_of_work": "radioactivity, chemistry, physics, radium, polonium",
+            "educated_at": "Science Faculty of Paris, Flying University, University of Paris, 10th Secondary School named after Queen Jadwiga in Warsaw, University of Paris, University of Paris",
+            "employer": "University of Paris, Sorbonne, Curie Institute",
+            "notable_work": "Treatise on Radioactivity",
+            "award_received": "Nobel Prize in Chemistry, Nobel Prize in Physics, Willard Gibbs Award, honorary doctor of the Jagiellonian University of Krakow, John Scott Award, Elliott Cresson Medal, Davy Medal, Matteucci Medal, Actonian Prize, Albert Medal, prix Gegner, Benjamin Franklin Medal, Order of the White Eagle, Cameron Prize of the University of Edinburgh, Knight of the Legion of Honour, Honorary Fellow of the Royal Society Te Ap\u0101rangi, 72 scientist women names on the Eiffel tower",
+            "citizenship": "Second Polish Republic, France, Russian Empire"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q1035",
+        "name": "Charles Darwin",
+        "sitelinks": 278,
+        "facts": {
+            "date_of_birth": "1809",
+            "birthplace": "The Mount, Shrewsbury",
+            "occupation": "geologist, explorer, travel writer, ethologist, naturalist, philosopher, writer, botanist, botanical collector, scientific collector, biologist",
+            "field_of_work": "biology, natural history, zoology",
+            "educated_at": "Christ's College, University of Edinburgh Medical School, Shrewsbury School, University of Cambridge, University of Edinburgh",
+            "employer": "Royal Geographical Society",
+            "notable_work": "On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection, On the Origin of Species, The Voyage of the Beagle, The Descent of Man, and Selection in Relation to Sex, The Expression of the Emotions in Man and Animals, Insectivorous Plants, The Power of Movement in Plants, The Formation of Vegetable Mould through the Action of Worms",
+            "award_received": "Royal Medal, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Pour le M\u00e9rite, Fellow of the Linnean Society of London, Fellow of the Royal Geographical Society, Fellow of the Royal Society, Baly Medal, Fellow of the Geological Society of London, Bressa Prize, Honorary doctor of Leiden University, Wollaston Medal, Honorary Fellow of the Royal Society Te Ap\u0101rangi, Darwin Medal",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q307",
+        "name": "Galileo Galilei",
+        "sitelinks": 269,
+        "facts": {
+            "date_of_birth": "1564",
+            "birthplace": "Pisa",
+            "occupation": "astronomer, philosopher, mathematician, physicist, inventor, astrologer, university teacher, scientist, engineer, philosopher, politician",
+            "field_of_work": "astronomy, physics, mechanics, philosophy, mathematics",
+            "educated_at": "University of Pisa",
+            "employer": "University of Padua, University of Pisa",
+            "notable_work": "Galilean transformation, equations for a falling body",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Duchy of Florence, Grand Duchy of Tuscany"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q9036",
+        "name": "Nikola Tesla",
+        "sitelinks": 217,
+        "facts": {
+            "date_of_birth": "1856",
+            "birthplace": "Smiljan",
+            "occupation": "inventor, electrical engineer, physicist, electrician, mechanical engineer, futurist",
+            "field_of_work": "electrical engineering, mechanical engineering, physicist, mechanics, inventor",
+            "educated_at": "Karlovac Gymnasium, Graz University of Technology, Charles University",
+            "employer": "Tesla Electric Light & Manufacturing, Westinghouse Electric Corporation",
+            "award_received": "Edison Medal, IEEE Fellow, Knight Grand Cross of the Order of the White Eagle, Elliott Cresson Medal, John Scott Award, Knight Grand Cross of the Order of Saint Sava, National Inventors Hall of Fame, Honorary doctor of the University of Zagreb, Grand cross of the Order of the White Lion, Fellow of the American Association for the Advancement of Science, Honorary doctor of the Technical University of Graz, Order of St. Sava, Order of the White Eagle, Order of the Crown, Order of Prince Danilo I, doctor honoris causa from the University of Paris, Order of the White Lion",
+            "citizenship": "Austrian Empire, Hungary, United States, Croatia"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q7251",
+        "name": "Alan Turing",
+        "sitelinks": 189,
+        "facts": {
+            "date_of_birth": "1912",
+            "birthplace": "Maida Vale, Warrington Lodge",
+            "occupation": "computer scientist, mathematician, university teacher, cryptographer, logician, statistician, marathon runner, artificial intelligence researcher",
+            "field_of_work": "cryptanalysis, computer science, mathematics, logic, cryptography",
+            "educated_at": "Hazlehurst Community Primary School, Sherborne School, King's College, Princeton University",
+            "employer": "Victoria University of Manchester, Government Communications Headquarters, University of Cambridge, National Physical Laboratory",
+            "notable_work": "On Computable Numbers, with an Application to the Entscheidungsproblem, Computing Machinery and Intelligence, Intelligent Machinery, halting problem, Turing machine, Turing test, Turing completeness, Church\u2013Turing thesis, universal Turing machine, Symmetric Turing machine, non-deterministic Turing machine, Bombe, probabilistic Turing machine, Turing degree, Delilah project",
+            "award_received": "Fellow of the Royal Society, Officer of the Order of the British Empire, Smith's Prize, Order of the British Empire",
+            "citizenship": "United Kingdom"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q7259",
+        "name": "Ada Lovelace",
+        "sitelinks": 132,
+        "facts": {
+            "date_of_birth": "1815",
+            "birthplace": "London",
+            "occupation": "mathematician, programmer, poet, computer scientist, inventor, translator, writer, engineer",
+            "field_of_work": "mathematics, computing",
+            "employer": "University of Cambridge",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q529",
+        "name": "Louis Pasteur",
+        "sitelinks": 210,
+        "facts": {
+            "date_of_birth": "1822",
+            "birthplace": "Dole",
+            "occupation": "microbiologist, chemist, university teacher, biochemist, agronomist, biologist, lithographer, botanist, portrait painter",
+            "field_of_work": "chemistry, microbiology",
+            "educated_at": "\u00c9cole Normale Sup\u00e9rieure, Lyc\u00e9e Saint-Louis, University of Paris, Conservatoire national des Arts et M\u00e9tiers",
+            "employer": "University of Strasbourg, University of Lille, \u00c9cole Normale Sup\u00e9rieure, \u00c9cole Centrale de Lille, Pasteur Institute",
+            "notable_work": "rabies vaccine, Pasteur Institute",
+            "award_received": "Grand Cross of the Legion of Honour, Leeuwenhoek Medal, Copley Medal, Rumford Medal, Knight of the Order of Agricultural Merit, Order of Saint Anna, 1st class, National Inventors Hall of Fame, Imperial Order of the Rose, Jecker Prize, Albert Medal, Concours g\u00e9n\u00e9ral, Order of the Medjidie, Order of Saint Anna, 1st class with diamonds, Foreign Member of the Royal Society, Bressa Prize, Cameron Prize of the University of Edinburgh, Knight of the Legion of Honour, Officer of the Legion of Honour, Commander of the Legion of Honour, Grand Officer of the Legion of Honour, Jean Reynaud Prize, Honorary doctor of the University of Li\u00e8ge",
+            "citizenship": "France"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q9106",
+        "name": "Dmitri Mendeleev",
+        "sitelinks": 179,
+        "facts": {
+            "date_of_birth": "1834, 1834, 1834, 1834",
+            "birthplace": "Tobolsk, Verkhnie Aremzyani",
+            "occupation": "chemist, physicist, university teacher, economist",
+            "field_of_work": "chemistry, physics, economics, geology, metrology, chemical element, periodic table",
+            "educated_at": "Main Pedagogical Institute, Saint Petersburg State University, Saint Petersburg State Institute of Technology",
+            "employer": "Imperial St. Petersburg University, Richelieu Lyceum, St. Petersburg Practical Institute of Technology, Saint Petersburg State University",
+            "notable_work": "periodic table",
+            "award_received": "Knight of the Order of St. Alexander Nevsky, Copley Medal, Faraday Lectureship Prize, Demidov Prize, Order of Saint Anna, 1st class, Order of Saint Anna, 2nd class, Order of the White Eagle, Order of Saint Stanislaus, 1st class, Order of St. Vladimir, 2nd class, Order of St. Vladimir, 1st class, Knight of the Legion of Honour, Davy Medal, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Russian Empire"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q40904",
+        "name": "Werner Heisenberg",
+        "sitelinks": 139,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "W\u00fcrzburg",
+            "occupation": "theoretical physicist, mountaineer, non-fiction writer, university teacher, mathematician, physicist, nuclear physicist",
+            "field_of_work": "theoretical physics, mathematics",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Maximiliansgymnasium M\u00fcnchen",
+            "employer": "University of G\u00f6ttingen, University of Copenhagen, Leipzig University, Humboldt-Universit\u00e4t zu Berlin, University of St Andrews, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Max Planck Institute for Physics, German nuclear program during World War II",
+            "notable_work": "uncertainty principle, Kramers\u2013Heisenberg formula, Heisenberg group, isospin",
+            "award_received": "Pour le M\u00e9rite for Sciences and Arts order, Bavarian Order of Merit, Niels Bohr International Gold Medal, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, Nobel Prize in Physics, Max Planck Medal, Matteucci Medal, Sigmund Freud Prize, Hall of Fame of German Research, Honorary doctor of the University of Zagreb, honorary doctorate of the Karlsruhe Institute of Technology, Foreign Member of the Royal Society, Grand Cross of the Civil Order of Alfonso X the Wise, Pour le M\u00e9rite, Romano Guardini award, honorary golden medal of the state capital Munich",
+            "citizenship": "German Empire, Weimar Republic, Nazi Germany, West Germany"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q7085",
+        "name": "Niels Bohr",
+        "sitelinks": 186,
+        "facts": {
+            "date_of_birth": "1885, 1885",
+            "birthplace": "Copenhagen",
+            "occupation": "university teacher, nuclear physicist, philosopher of science, association football player, chemist",
+            "field_of_work": "atomic physics, theoretical physics",
+            "educated_at": "University of Copenhagen, Trinity College, University of Cambridge",
+            "employer": "University of Copenhagen, Victoria University of Manchester, University of Cambridge, University of Copenhagen Niels Bohr Institute",
+            "notable_work": "Bohr model, correspondence principle",
+            "award_received": "Nobel Prize in Physics, Franklin Medal, Order of the Elephant, Atoms for Peace Award, Pour le M\u00e9rite for Sciences and Arts order, Niels Bohr International Gold Medal, Copley Medal, Faraday Lectureship Prize, Max Planck Medal, Knight Grand Cross of the Order of the Falcon, Hughes Medal, Helmholtz Medal, Matteucci Medal, Honorary doctor of the University of Zagreb, honorary doctorate of Technion, honorary doctor of the Technical University of Denmark, Guthrie Lecture, Foreign Member of the Royal Society, Order of the Dannebrog, Order of the Falcon, Knight First Class of the Order of St. Olav\u200e, Officer of the Legion of Honour, Silliman Memorial Lectures, honorary doctor of the University of Warsaw, Honorary Fellow of the Royal Society Te Ap\u0101rangi, doctor honoris causa from the University of Paris, Sonning Prize, Knight of the Order of the Dannebrog, Decoration of the Cross of Honour of the Dannebrog, commander of the Order of the Dannebrog, Knight Grand Officer of the Order of the Dannebrog, Grand Cross of the Order of the Dannebrog",
+            "citizenship": "Kingdom of Denmark"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q9021",
+        "name": "Max Planck",
+        "sitelinks": 181,
+        "facts": {
+            "date_of_birth": "1858",
+            "birthplace": "Kiel",
+            "occupation": "theoretical physicist, university teacher, physicist, philosopher",
+            "field_of_work": "theoretical physics, physics, thermodynamics, philosophy, quantum theory",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Maximiliansgymnasium M\u00fcnchen, Frederick William University Berlin",
+            "employer": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Kiel University, Frederick William University Berlin, Humboldt-Universit\u00e4t zu Berlin",
+            "notable_work": "Planck's law, Planck constant",
+            "award_received": "Nobel Prize in Physics, Adlerschild des Deutschen Reiches, Max Planck Medal, Goethe Prize of the City of Frankfurt, Copley Medal, Pour le M\u00e9rite for Sciences and Arts order, Lorentz Medal, Harnack medal, Helmholtz Medal, Bavarian Maximilian Order for Science and Art, Liebig Medal, Franklin Medal, honorary doctor of the University of Athens, honorary doctorate from the University of Cambridge, honorary doctorate of the University of Glasgow, Honorary doctor of the Technical University of Berlin, Guthrie Lecture, Goethe Medal for Art and Science, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "German Reich"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q9130",
+        "name": "Erwin Schr\u00f6dinger",
+        "sitelinks": 162,
+        "facts": {
+            "date_of_birth": "1887",
+            "birthplace": "Vienna",
+            "occupation": "physicist, theoretical physicist, non-fiction writer, mathematician, university teacher",
+            "field_of_work": "theoretical physics",
+            "educated_at": "University of Oxford, University of Vienna, Akademisches Gymnasium",
+            "employer": "University of Vienna, University of Stuttgart, University of Jena, University of Zurich, University of Graz, Frederick William University Berlin, University of Wroc\u0142aw, Humboldt-Universit\u00e4t zu Berlin, University of Oxford, Ghent University, Dublin Institute for Advanced Studies",
+            "notable_work": "Schr\u00f6dinger equation, Schr\u00f6dinger's cat",
+            "award_received": "Matteucci Medal, Max Planck Medal, Nobel Prize in Physics, Erwin Schr\u00f6dinger Prize, Pour le M\u00e9rite for Sciences and Arts order, Haitinger Prize, Prix Paul Doistau-\u00c9mile Blutet de l\u2019Information Scientifique, Fellow of the American Physical Society, Austrian Decoration for Science and Art, Prize of the City of Vienna for Natural Sciences, Foreign Member of the Royal Society, Pour le M\u00e9rite",
+            "citizenship": "Cisleithania, Germany, Nazi Germany"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q39246",
+        "name": "Richard Feynman",
+        "sitelinks": 157,
+        "facts": {
+            "date_of_birth": "1918",
+            "birthplace": "Queens, Far Rockaway",
+            "occupation": "physicist, quantum physicist, inventor, writer, university teacher, percussionist, theoretical physicist, science communicator, politician",
+            "field_of_work": "quantum electrodynamics, particle physics, physics",
+            "educated_at": "Far Rockaway High School, Massachusetts Institute of Technology, Princeton University",
+            "employer": "Cornell University, California Institute of Technology, Manhattan Project",
+            "notable_work": "\u201cSurely You're Joking, Mr. Feynman!\u201d, The Feynman Lectures on Physics, Feynman diagram, Feynman\u2013Kac formula, Hellmann\u2013Feynman theorem, Cargo Cult Science, The Character of Physical Law, Bethe\u2013Feynman formula, Feynman checkerboard, Feynman parametrization, Feynman point, Feynman slash notation, reverse sprinkler, Feynman-Stueckelberg interpretation, Wheeler\u2013Feynman absorber theory",
+            "award_received": "Nobel Prize in Physics, Oersted Medal, Niels Bohr International Gold Medal, Albert Einstein Award, Foreign Member of the Royal Society, National Medal of Science, Fellow of the American Physical Society, Ernest Orlando Lawrence Award, Putnam Fellow",
+            "citizenship": "United States"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q17714",
+        "name": "Stephen Hawking",
+        "sitelinks": 200,
+        "facts": {
+            "date_of_birth": "1942",
+            "birthplace": "Oxford, United Kingdom",
+            "occupation": "theoretical physicist, cosmologist, astrophysicist, mathematician, pedagogue, science writer, university teacher, writer, physicist, non-fiction writer, astronomer, television actor, autobiographer, science fiction writer, Trekkie, scientist",
+            "field_of_work": "general relativity, quantum gravity, theoretical physics, cosmology, applied mathematics, universe, black hole",
+            "educated_at": "University College, Oxford, Trinity Hall, St Albans School, University of Cambridge, St Albans High School for Girls, Byron House School",
+            "employer": "Gonville and Caius College, Faculty of Mathematics, University of Cambridge, Perimeter Institute for Theoretical Physics, University of Cambridge, California Institute of Technology",
+            "notable_work": "A Brief History of Time, Black Holes and Baby Universes and Other Essays, The Universe in a Nutshell, On the Shoulders of Giants, God Created the Integers, The Dreams That Stuff Is Made of: The Most Astounding Papers of Quantum Physics and How They Shook the Scientific World, My Brief History",
+            "award_received": "Albert Einstein Medal, Wolf Prize in Physics, Copley Medal, Presidential Medal of Freedom, Special Breakthrough Prize in Fundamental Physics, Companion of Honour, Eddington Medal, Gold Medal of the Royal Astronomical Society, Commander of the Order of the British Empire, Naylor Prize and Lectureship, Oskar Klein Medal, Hughes Medal, Royal Society Science Books Prize, Albert Medal, Michelson\u2013Morley Award, Fonseca Prize, Pius XI Medal, Maxwell Medal and Prize, IOP Dirac Medal, Adams Prize, Andrew Gemant Award, The James Smithson Bicentennial Medal, NSS Robert A. Heinlein Memorial Award, Princess of Asturias Award for Concord, honorary doctor of Harvard University, Honorary doctor of the University of Oxford, Marcel Grossmann Award, Franklin Medal, BBVA Foundation Frontiers of Knowledge Award, Bodley Medal, Gold medal of the Spanish National Research Council, Albert Einstein Award, Fellow of the Royal Society of Arts, honorary doctorate from Princeton University, honorary doctorate from the University of Cambridge, Dannie Heineman Prize for Mathematical Physics, Lilienfeld Prize, Princess of Asturias Awards, Special Breakthrough Prize in Fundamental Physics, Fellow of the Royal Society, Order of the British Empire, Order of the Companions of Honour",
+            "citizenship": "United Kingdom"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q9095",
+        "name": "James Clerk Maxwell",
+        "sitelinks": 161,
+        "facts": {
+            "date_of_birth": "1831",
+            "birthplace": "Edinburgh",
+            "occupation": "physicist, mathematician, inventor, photographer, university teacher, theoretical physicist, teacher, thermodynamicist, scientist",
+            "field_of_work": "physics, mechanics, mathematics, electromagnetic field, electricity, magnetism, color photography, kinetic theory",
+            "educated_at": "University of Edinburgh, Peterhouse, Edinburgh Academy, Trinity College, University of Cambridge",
+            "employer": "King's College London, University of Aberdeen, University of Cambridge, Marischal College",
+            "notable_work": "A Dynamical Theory of the Electromagnetic Field, Maxwell's equations, Maxwell\u2013Boltzmann statistics, Maxwell's demon",
+            "award_received": "Fellow of the Royal Society, Rumford Medal, Royal Society Bakerian Medal, Keith Medal, Adams Prize, Fellow of the Royal Society of Edinburgh, Scottish Engineering Hall of Fame, Smith's Prize",
+            "citizenship": "United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q8750",
+        "name": "Michael Faraday",
+        "sitelinks": 179,
+        "facts": {
+            "date_of_birth": "1791, 1791",
+            "birthplace": "Newington Butts, London",
+            "occupation": "physicist, chemist, inventor, writer, university teacher",
+            "field_of_work": "physics, chemistry, electromagnetism, discoveries and inventions",
+            "employer": "Royal Institution, George Riebau",
+            "award_received": "Pour le M\u00e9rite for Sciences and Arts order, Fellow of the Royal Society, Copley Medal, Copley Medal, Royal Medal, Rumford Medal, Albert Medal, Royal Society Bakerian Medal, Fellow of the American Academy of Arts and Sciences, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "United Kingdom of Great Britain and Ireland, Kingdom of Great Britain"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q8963",
+        "name": "Johannes Kepler",
+        "sitelinks": 184,
+        "facts": {
+            "date_of_birth": "1571, 1571",
+            "birthplace": "Weil der Stadt",
+            "occupation": "naturalist, astrologer, Protestant theologian, mathematician, astronomer, musicologist, physicist, cosmologist, music theorist, philosopher, writer, teacher, inventor",
+            "field_of_work": "optics, astronomy, mathematics, mechanics",
+            "educated_at": "University of T\u00fcbingen, Evangelical Seminaries of Maulbronn and Blaubeuren, T\u00fcbinger Stift",
+            "employer": "University of Graz, Emperor Rudolf II, Linz",
+            "notable_work": "Astronomia nova, Harmonices Mundi, Epitome Astronomiae Copernicanae, De Cometis Libelli Tres, Rudolphine Tables",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Duchy of W\u00fcrttemberg, Holy Roman Empire"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q619",
+        "name": "Nicolaus Copernicus",
+        "sitelinks": 214,
+        "facts": {
+            "date_of_birth": "1473, 1473",
+            "birthplace": "Toru\u0144",
+            "occupation": "astronomer, jurist, economist, mathematician, legal scholar, physicist, philosopher, translator, physician, diplomat, writer, canon, canon",
+            "field_of_work": "astronomy, mathematics, mechanics, economics",
+            "educated_at": "Jagiellonian University, University of Padua, University of Bologna, University of Ferrara",
+            "employer": "University of Padua, Jagiellonian University",
+            "notable_work": "Commentariolus, De revolutionibus orbium coelestium",
+            "award_received": "International Space Hall of Fame",
+            "citizenship": "Kingdom of Poland, statelessness, Royal Prussia, Germany, Poland"
+        },
+        "tier": "High"
+    },
+    {
+        "id": "Q47480",
+        "name": "Paul Dirac",
+        "sitelinks": 123,
+        "facts": {
+            "date_of_birth": "1902",
+            "birthplace": "Bristol",
+            "occupation": "mathematician, theoretical physicist, professor, physicist, scientist, academic, educator, teacher, engineer",
+            "field_of_work": "theoretical physics, mathematics, quantum mechanics, quantum electrodynamics",
+            "educated_at": "University of Bristol, University of Cambridge, Cotham School",
+            "employer": "University of Miami, Florida State University, University of Cambridge, St John's College",
+            "notable_work": "Dirac equation, Dirac delta function, Fermi\u2013Dirac statistics, Dirac fermion, Dirac comb, reduced Planck constant, Dirac operator, Dirac adjoint, Abraham-Lorentz-Dirac force, Dirac sea, Dirac measure, Dirac spinor, Dirac large numbers hypothesis, Complete Fermi\u2013Dirac integral, Kapitsa\u2013Dirac effect, Dirac bracket",
+            "award_received": "Nobel Prize in Physics, Fellow of the Royal Society, Copley Medal, Royal Medal, Max Planck Medal, Helmholtz Medal, J. Robert Oppenheimer Memorial Prize, Royal Society Bakerian Medal, Order of Merit, Royal Society Bakerian Medal, doctor honoris causa from the University of Paris",
+            "citizenship": "United Kingdom, Switzerland"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q65989",
+        "name": "Wolfgang Pauli",
+        "sitelinks": 105,
+        "facts": {
+            "date_of_birth": "1900",
+            "birthplace": "Vienna",
+            "occupation": "theoretical physicist, university teacher, chemist, physicist",
+            "field_of_work": "quantum mechanics, particle physics",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Bundesgymnasium D\u00f6bling",
+            "employer": "University of Hamburg, University of G\u00f6ttingen, ETH Zurich, University of Copenhagen Niels Bohr Institute, Purdue University, University of Michigan, Princeton University, ETH Zurich",
+            "notable_work": "Pauli exclusion principle, Pauli matrices, Pauli equation, Pauli effect, Pauli\u2013Villars regularization, Pauli group, Pauli\u2013Lubanski pseudovector",
+            "award_received": "Lorentz Medal, Nobel Prize in Physics, Max Planck Medal, Matteucci Medal, Franklin Medal, honorary doctor of the University of Vienna, Foreign Member of the Royal Society, professor, honorary doctor of the University of Hamburg",
+            "citizenship": "United States, Switzerland, Austria"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q8753",
+        "name": "Enrico Fermi",
+        "sitelinks": 171,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "Rome",
+            "occupation": "physicist, theoretical physicist, nuclear physicist, university teacher, inventor",
+            "field_of_work": "nuclear physics, quantum mechanics, statistical mechanics, physics, nuclear reaction, quantum theory, particle physics, theoretical physics, experimental physics",
+            "educated_at": "University of Pisa, Scuola Normale Superiore. Classe di Scienze, Leiden University, University of G\u00f6ttingen",
+            "employer": "University of Florence, Sapienza University of Rome, Columbia University, University of Chicago, University of G\u00f6ttingen, Leiden University, Enrico Fermi Institute",
+            "notable_work": "Fermi\u2013Dirac statistics, Fermi's golden rule, Fermi paradox, Thomas\u2013Fermi model, Fermi problem, Fermi's interaction, Fermi contact interaction, Fermi\u2013Pasta\u2013Ulam\u2013Tsingou problem",
+            "award_received": "Nobel Prize in Physics, Max Planck Medal, Rumford Prize, Matteucci Medal, Franklin Medal, Hughes Medal, Henry Norris Russell Lectureship, National Inventors Hall of Fame, Silliman Memorial Lectures, Barnard Medal for Meritorious Service to Science, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society",
+            "citizenship": "Kingdom of Italy, Italy, United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q58978",
+        "name": "Max Born",
+        "sitelinks": 120,
+        "facts": {
+            "date_of_birth": "1882",
+            "birthplace": "Wroc\u0142aw",
+            "occupation": "physicist, mathematician, university teacher, theoretical physicist, scientist",
+            "field_of_work": "theoretical physics, physics, quantum mechanics",
+            "educated_at": "University of G\u00f6ttingen, Heidelberg University, University of Wroc\u0142aw, University of Zurich, Gonville and Caius College",
+            "employer": "Goethe University Frankfurt, University of G\u00f6ttingen, Humboldt-Universit\u00e4t zu Berlin, University of Edinburgh, University of G\u00f6ttingen, Artillery Testing Commission",
+            "notable_work": "probability amplitude, Born-Oppenheimer approximation",
+            "award_received": "Fellow of the Royal Society, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, Nobel Prize in Physics, Max Planck Medal, Hughes Medal, Fellow of the Royal Society of Edinburgh, Guthrie Lecture, Makdougall Brisbane Prize, honorary doctor of the University of Bordeaux, honorary member of the Physics Association (Frankfurt am Main, Germany), Gunning Victoria Jubilee Prize",
+            "citizenship": "German Reich, United Kingdom, United Kingdom of Great Britain and Ireland"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q56189",
+        "name": "Lise Meitner",
+        "sitelinks": 94,
+        "facts": {
+            "date_of_birth": "1878, 1878, 1878",
+            "birthplace": "Vienna",
+            "occupation": "nuclear physicist, university teacher, chemist, physicist",
+            "field_of_work": "physics",
+            "educated_at": "University of Vienna, Akademisches Gymnasium",
+            "employer": "Frederick William University Berlin, Royal Institute of Technology, Humboldt-Universit\u00e4t zu Berlin, University of Vienna, The Catholic University of America, Royal Institute of Technology",
+            "notable_work": "discovery, discovery of nuclear fission",
+            "award_received": "Silver Leibniz medal, Lieben Prize, Prize of the City of Vienna for Natural Sciences, Max Planck Medal, Enrico Fermi Award, Austrian Decoration for Science and Art, Pour le M\u00e9rite for Sciences and Arts order, Otto Hahn Prize for Chemistry and Physics, Foreign Member of the Royal Society, Honorary doctor of the Free University of Berlin, Wilhelm Exner Medal, Fellow of the American Academy of Arts and Sciences, Pour le M\u00e9rite",
+            "citizenship": "Cisleithania, Austria, Sweden"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q9123",
+        "name": "Ernest Rutherford",
+        "sitelinks": 172,
+        "facts": {
+            "date_of_birth": "1871",
+            "birthplace": "Nelson, Spring Grove, Brightwater",
+            "occupation": "nuclear physicist, chemist, physicist, professor, politician, university teacher",
+            "field_of_work": "physics, nuclear physics, chemistry, radioactivity",
+            "educated_at": "University of Canterbury, University of Cambridge, Trinity College, Nelson College",
+            "employer": "Victoria University of Manchester, McGill University, Cavendish Laboratory, University of Manchester",
+            "award_received": "Hector Medal, Nobel Prize in Chemistry, Matteucci Medal, Copley Medal, Franklin Medal, Elliott Cresson Medal, Fellow of the Royal Society, Faraday Lectureship Prize, Wilhelm Exner Medal, Faraday Medal, Rumford Medal, Albert Medal, Royal Society Bakerian Medal, Honorary Fellow of the Royal Society Te Ap\u0101rangi, Honorary Fellow of the Royal Society of Edinburgh, Guthrie Lecture, T. K. Sidey Medal, Bressa Prize, Knight Bachelor, Order of Merit, Silliman Memorial Lectures, Barnard Medal for Meritorious Service to Science, IET Kelvin Lecture, Faraday Medal and Prize, Echegaray Medal, Dalton Medal, doctor honoris causa from the University of Paris, honorary doctor of the University of New Zealand, Person of National Historic Significance",
+            "citizenship": "New Zealand"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q132537",
+        "name": "J. Robert Oppenheimer",
+        "sitelinks": 129,
+        "facts": {
+            "date_of_birth": "1904",
+            "birthplace": "New York City, Manhattan",
+            "occupation": "theoretical physicist, engineer, nuclear physicist, art collector, university teacher, science administrator, physicist, scientist",
+            "field_of_work": "applied physics, theoretical physics, nuclear physics",
+            "educated_at": "Harvard University, Cavendish Laboratory, Ethical Culture Fieldston School, Jesus College, Harvard College, University of Cambridge, University of G\u00f6ttingen",
+            "employer": "University of California, Berkeley, University of Cambridge, California Institute of Technology, Manhattan Project, Institute for Advanced Study",
+            "notable_work": "nuclear bomb",
+            "award_received": "Enrico Fermi Award, Knight of the Legion of Honour, Medal for Merit, Three Physicists Prize, Nessim-Habif Award, honorary doctorate from Princeton University, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society, honorary doctor of the University of Calcutta, Messenger Lectures, Officer of the Legion of Honour",
+            "citizenship": "United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q48983",
+        "name": "Linus Pauling",
+        "sitelinks": 112,
+        "facts": {
+            "date_of_birth": "1901",
+            "birthplace": "Portland",
+            "occupation": "chemist, physicist, Esperantist, university teacher, biochemist, peace activist, crystallographer, biophysicist, activist shareholder",
+            "field_of_work": "quantum chemistry, biochemistry, physical chemistry",
+            "educated_at": "California Institute of Technology, Oregon State University, Washington High School",
+            "employer": "California Institute of Technology, Linus Pauling Institute, University of California, San Diego, Stanford University, Oregon State University",
+            "award_received": "Guggenheim Fellowship, ACS Award in Pure Chemistry, Irving Langmuir Award in Chemical Physics, William H. Nichols Medal, Silliman Memorial Lectures, Willard Gibbs Award, Davy Medal, Liversidge Award, Foreign Member of the Royal Society, doctor honoris causa from the University of Paris, Medal for Merit, honorary doctor of the University of Toulouse, Nobel Prize in Chemistry, honorary doctorate of the University of Montpellier, Humanist of the Year, Nobel Peace Prize, Gandhi Peace Award, Guggenheim Fellowship, Linus Pauling Award, Roebling Medal, Lenin Peace Prize, National Medal of Science, Lomonosov Gold Medal, NAS Award in Chemical Sciences, Priestley Medal, Lavoisier Medal, George C. Pimentel Award in Chemical Education, Tolman Award, California Hall of Fame, Fellow of the American Academy of Arts and Sciences, Fellow of the American Physical Society, Fellow of the Royal Society of Edinburgh, Chemical Pioneer Award",
+            "citizenship": "United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q7474",
+        "name": "Rosalind Franklin",
+        "sitelinks": 114,
+        "facts": {
+            "date_of_birth": "1920",
+            "birthplace": "Notting Hill",
+            "occupation": "chemist, molecular biologist, physicist, biochemist, biophysicist, crystallographer, university teacher, geneticist",
+            "field_of_work": "X-ray crystallography",
+            "educated_at": "University of Cambridge, St Paul's Girls' School, Newnham College, Norland Place School",
+            "employer": "King's College London, Birkbeck, University of London",
+            "award_received": "Louisa Gross Horwitz Prize, 72 scientist women names on the Eiffel tower",
+            "citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q9047",
+        "name": "Gottfried Wilhelm Leibniz",
+        "sitelinks": 204,
+        "facts": {
+            "date_of_birth": "1646",
+            "birthplace": "Leipzig",
+            "occupation": "mathematician, jurist, physicist, philosopher, diplomat, historian, librarian, musicologist, translator, music theorist, writer, diplomatician, poet, engineer, zoologist, archivist, geologist, policy advisor, philosopher of law, logician, polymath",
+            "field_of_work": "mathematical analysis, Christian apologetics",
+            "educated_at": "University of Altdorf, Leipzig University, University of Jena, Alte Nikolaischule (Leipzig), Thomasschule zu Leipzig",
+            "employer": "Leipzig University",
+            "notable_work": "Discourse on Metaphysics, Th\u00e9odic\u00e9e, integral calculus, Stepped Reckoner, Syst\u00e8me nouveau de la nature, Monadology, Leibniz's notation, calculus ratiocinator, New Essays on Human Understanding, Nova Methodus pro Maximis et Minimis",
+            "award_received": "Fellow of the Royal Society",
+            "citizenship": "Electorate of Saxony"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q17455",
+        "name": "John von Neumann",
+        "sitelinks": 122,
+        "facts": {
+            "date_of_birth": "1903",
+            "birthplace": "Budapest",
+            "occupation": "mathematician, computer scientist, physicist, economist, university teacher, consultant, Manhattan Project",
+            "field_of_work": "functional analysis, operator theory, mathematics, physics, game theory, cellular automaton, set theory, quantum physics, nuclear bomb, informatics",
+            "educated_at": "Fasori Gimn\u00e1zium, Frederick William University Berlin, ETH Zurich, E\u00f6tv\u00f6s Lor\u00e1nd University, University of G\u00f6ttingen",
+            "employer": "Princeton University, Frederick William University Berlin, United States Atomic Energy Commission, University of Hamburg, Institute for Advanced Study, Armed Forces Special Weapons Project, Ballistic Research Laboratory, Naval Ordnance Laboratory, Los Alamos National Laboratory",
+            "notable_work": "von Neumann cellular automaton, Von Neumann neighborhood, von Neumann universal constructor, von Neumann architecture, von Neumann algebra, von Neumann\u2013Morgenstern utility theorem, von Neumann regular ring, Von Neumann\u2013Bernays\u2013G\u00f6del set theory, von Neumann universe, von Neumann conjecture, von Neumann entropy, Von Neumann stability analysis, abelian von Neumann algebra, von Neumann ordinal, Von Neumann equation, von Neumann bicommutant theorem, Weyl\u2013von Neumann theorem, minimax theorem, First draft of a report on the EDVAC",
+            "award_received": "Medal of Freedom, Carl-Gustaf Rossby Research Medal, B\u00f4cher Memorial Prize, Enrico Fermi Award, Josiah Willard Gibbs Lectureship, Silliman Memorial Lectures, Medal for Merit, Albert Einstein Award, Financial Times Person of the Year, Fellow of the Institute of Mathematical Statistics, Fellow of the Econometric Society",
+            "citizenship": "Hungary, United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q39607",
+        "name": "Antoine Lavoisier",
+        "sitelinks": 129,
+        "facts": {
+            "date_of_birth": "1743",
+            "birthplace": "Paris",
+            "occupation": "chemist, economist, biologist, physicist, academic, lawyer, astronomer, writer, administrator, jurist",
+            "field_of_work": "chemistry",
+            "educated_at": "Paris Law Faculty",
+            "employer": "Ferme g\u00e9n\u00e9rale",
+            "notable_work": "Trait\u00e9 \u00c9l\u00e9mentaire de Chimie, M\u00e9thode de nomenclature chimique, conservation of mass",
+            "award_received": "Fellow of the Royal Society, gold medal, Hommes illustres, 72 names on the Eiffel Tower, Concours g\u00e9n\u00e9ral",
+            "citizenship": "France"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q43393",
+        "name": "Robert Boyle",
+        "sitelinks": 114,
+        "facts": {
+            "date_of_birth": "1627, 1626",
+            "birthplace": "Lismore, Lismore Castle",
+            "occupation": "physicist, chemist, philosopher, naturalist",
+            "field_of_work": "physics, chemistry, philosophy",
+            "educated_at": "Eton College",
+            "employer": "University of Oxford",
+            "notable_work": "Boyle's law, New Experiments Physico-Mechanicall, Touching the Spring of the Air and its Effects, The Sceptical Chymist",
+            "award_received": "Fellow of the Royal Society",
+            "citizenship": "Kingdom of England"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q41257",
+        "name": "Heinrich Hertz",
+        "sitelinks": 112,
+        "facts": {
+            "date_of_birth": "1857",
+            "birthplace": "Hamburg",
+            "occupation": "physicist, philosopher, inventor, university teacher",
+            "field_of_work": "physics, electrical engineering, acoustics, electromagnetic wave",
+            "educated_at": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Frederick William University Berlin, Technical University of Munich, TU Dresden, Gelehrtenschule des Johanneums",
+            "employer": "University of Bonn, Kiel University, TH Karlsruhe, Humboldt-Universit\u00e4t zu Berlin Institut f\u00fcr Physik",
+            "award_received": "Rumford Medal, Matteucci Medal, La Caze Prize of the Academy of Sciences, Bressa Prize, CQ Amateur Radio Hall of Fame, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Hamburg"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q84296",
+        "name": "Ludwig Boltzmann",
+        "sitelinks": 89,
+        "facts": {
+            "date_of_birth": "1844",
+            "birthplace": "Vienna",
+            "occupation": "physicist, chemist, university teacher, mathematician, philosopher, theoretical physicist, thermodynamicist",
+            "field_of_work": "theoretical physics",
+            "educated_at": "University of Vienna",
+            "employer": "University of Vienna, Leipzig University, University of Graz, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, University of Graz, University of Vienna, University of Vienna",
+            "notable_work": "Boltzmann constant, Stefan-Boltzmann law, Stefan-Boltzmann constant, Boltzmann equation, Boltzmann distribution, Boltzmann's entropy formula, list of things named after Ludwig Boltzmann",
+            "award_received": "Bavarian Maximilian Order for Science and Art, honorary doctorate of the University of Oslo, Honorary doctor of the University of Oxford, Foreign Member of the Royal Society, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Austria\u2013Hungary"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q153243",
+        "name": "Josiah Willard Gibbs",
+        "sitelinks": 75,
+        "facts": {
+            "date_of_birth": "1839",
+            "birthplace": "New Haven",
+            "occupation": "mathematician, physicist, chemist, university teacher, theoretical physicist, engineer, thermodynamicist, statistical physicist",
+            "field_of_work": "mathematical analysis",
+            "educated_at": "Yale College, Heidelberg University, Yale School of Engineering and Applied Science, Yale University, Hopkins School, Sheffield Scientific School, University of Paris, Frederick William University Berlin",
+            "employer": "Yale University, Yale University",
+            "notable_work": "Gibbs free energy, Gibbs\u2013Donnan effect, Gibbs paradox, Gibbs algorithm, Gibbs distribution, Gibbs' inequality, Gibbs isotherm, Gibbs phenomenon, Gibbs lemma, Gibbs measure, Gibbs state, Gibbs\u2013Duhem equation, Gibbs\u2013Duhem potential, Gibbs\u2013Helmholtz equation, Gibbs\u2013Thomson equation, Elementary Principles in Statistical Mechanics, Gibbs sampling, Gibbs' phase rule, Vector Analysis",
+            "award_received": "Copley Medal, Rumford Prize, Foreign Member of the Royal Society",
+            "citizenship": "United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q41688",
+        "name": "Hendrik Lorentz",
+        "sitelinks": 117,
+        "facts": {
+            "date_of_birth": "1853",
+            "birthplace": "Arnhem",
+            "occupation": "theoretical physicist, physicist, mathematician, botanist, university teacher, curator",
+            "field_of_work": "theoretical physics",
+            "educated_at": "Leiden University",
+            "employer": "Leiden University, Leiden University, Teylers Museum",
+            "notable_work": "Lorentz covariance, Lorentz ether theory, Lorentz factor, Lorentz force, Lorentz group, Lorentz oscillator, Lorentz transformation, length contraction, Lorentz\u2013Lorenz equation, Abraham\u2013Lorentz force, Lorentz-Drude model, Tauc\u2013Lorentz model, Lorentz\u2013Heaviside units",
+            "award_received": "Nobel Prize in Physics, Pour le M\u00e9rite for Sciences and Arts order, Copley Medal, Rumford Medal, Franklin Medal, Foreign Member of the Royal Society, Commander of the Order of Orange-Nassau, Honorary doctor of Leiden University, Echegaray Medal, Knight of the Legion of Honour, Knight of the Order of the Netherlands Lion, doctor honoris causa from the University of Paris, honorary member of the Physics Association (Frankfurt am Main, Germany)",
+            "citizenship": "Kingdom of the Netherlands"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q37463",
+        "name": "Pierre Curie",
+        "sitelinks": 130,
+        "facts": {
+            "date_of_birth": "1859",
+            "birthplace": "Paris",
+            "occupation": "physicist, chemist, university teacher, nuclear physicist",
+            "field_of_work": "physics, chemistry, crystallography, magnetism, piezoelectricity, radioactivity",
+            "educated_at": "Science Faculty of Paris, Sorbonne, homeschooling",
+            "employer": "University of Paris",
+            "notable_work": "radioactivity, piezoelectricity",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Benjamin Franklin Medal, Davy Medal, Matteucci Medal, La Caze Prize of the Academy of Sciences, Jean Reynaud Prize",
+            "citizenship": "France"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q177681",
+        "name": "Thomas Hunt Morgan",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1866",
+            "birthplace": "Lexington",
+            "occupation": "evolutionary biologist, geneticist, zoologist, physician, university teacher, physiologist, biologist",
+            "field_of_work": "genetics",
+            "educated_at": "Johns Hopkins University, University of Kentucky, Columbia University",
+            "employer": "Bryn Mawr College, California Institute of Technology, Columbia University",
+            "award_received": "Nobel Prize in Physiology or Medicine, Copley Medal, Darwin Medal, Croonian Medal and Lecture, Foreign Member of the Royal Society, Silliman Memorial Lectures, doctor honoris causa from the University of Paris",
+            "citizenship": "United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q949",
+        "name": "John Bardeen",
+        "sitelinks": 95,
+        "facts": {
+            "date_of_birth": "1908",
+            "birthplace": "Madison",
+            "occupation": "physicist, inventor, university teacher, electrical engineer",
+            "field_of_work": "physics",
+            "educated_at": "Princeton University, University of Wisconsin\u2013Madison, Madison Central High School, University of Wisconsin High School",
+            "employer": "University of Illinois Urbana-Champaign, University of Minnesota",
+            "award_received": "Nobel Prize in Physics, Nobel Prize in Physics, Stuart Ballantine Medal, Harold Pender Award, Lomonosov Gold Medal, Oliver E. Buckley Condensed Matter Prize, IEEE Medal of Honor, Fritz London Award, National Medal of Science, National Inventors Hall of Fame, Presidential Medal of Freedom, Franklin Medal, Fellow of the American Physical Society, Foreign Member of the Royal Society, James Madison Medal, John Scott Award",
+            "citizenship": "United States"
+        },
+        "tier": "Medium"
+    },
+    {
+        "id": "Q163415",
+        "name": "William Shockley",
+        "sitelinks": 93,
+        "facts": {
+            "date_of_birth": "1910",
+            "birthplace": "London",
+            "occupation": "physicist, inventor, university teacher",
+            "field_of_work": "semiconductor physics",
+            "educated_at": "California Institute of Technology, Massachusetts Institute of Technology",
+            "employer": "Bell Labs, Stanford University, Shockley Semiconductor Laboratory",
+            "award_received": "Nobel Prize in Physics, Oliver E. Buckley Condensed Matter Prize, IEEE Medal of Honor, Wilhelm Exner Medal, National Inventors Hall of Fame, IEEE Morris N. Liebmann Memorial Award, Holley Medal, Fellow of the American Physical Society, Comstock Prize in Physics, Time Person of the Year",
+            "citizenship": "United Kingdom, United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q182031",
+        "name": "Jack Kilby",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1923",
+            "birthplace": "Jefferson City",
+            "occupation": "inventor, university teacher, computer scientist, photographer, engineer, physicist, electronic engineer",
+            "field_of_work": "physics, electrical engineering",
+            "educated_at": "University of Illinois Urbana-Champaign, University of Wisconsin\u2013Milwaukee, University of Wisconsin\u2013Madison, Great Bend High School",
+            "employer": "Texas Instruments",
+            "notable_work": "integrated circuit",
+            "award_received": "IEEE Cledo Brunetti Award, National Medal of Technology and Innovation, Nobel Prize in Physics, Stuart Ballantine Medal, Charles Stark Draper Prize, Harold Pender Award, IEEE David Sarnoff Award, IEEE Medal of Honor, National Medal of Science, National Inventors Hall of Fame, Kyoto Prize in Advanced Technology, Holley Medal, IEEE Fellow, honorary doctor of the University of Miami, Holley Medal, Washington Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q186497",
+        "name": "Willis Lamb",
+        "sitelinks": 74,
+        "facts": {
+            "date_of_birth": "1913",
+            "birthplace": "Los Angeles",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics, laser, optics, hydrogen",
+            "educated_at": "University of California, Berkeley, Los Angeles High School",
+            "employer": "Harvard University, University of Arizona, Columbia University, Yale University",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, National Medal of Science, Rumford Prize, Einstein Prize for Laser Science, Fellow of the American Physical Society, Fellow of the Optical Society, Guthrie Lecture, Fellow of the American Academy of Arts and Sciences, honorary doctor of Yeshiva University, honorary doctorate from Columbia University, honorary doctor of Ulm University, honorary doctor of the University of Pennsylvania",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q184571",
+        "name": "Polykarp Kusch",
+        "sitelinks": 70,
+        "facts": {
+            "date_of_birth": "1911",
+            "birthplace": "Blankenburg",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics",
+            "educated_at": "University of Illinois Chicago, University of Illinois Urbana-Champaign, Case Western Reserve University",
+            "employer": "Columbia University, University of Texas at Dallas",
+            "award_received": "Nobel Prize in Physics, honorary doctor of the Ohio State University, Fellow of the American Physical Society",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q80905",
+        "name": "Donald Arthur Glaser",
+        "sitelinks": 80,
+        "facts": {
+            "date_of_birth": "1926",
+            "birthplace": "Cleveland",
+            "occupation": "physicist, neuroscientist, university teacher, inventor, neurobiologist, molecular biologist",
+            "field_of_work": "physics",
+            "educated_at": "California Institute of Technology, Case Western Reserve University, Cleveland Heights High School",
+            "employer": "University of California, Berkeley, University of Michigan",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Fellow of the American Physical Society, Guggenheim Fellowship",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q178344",
+        "name": "Luis Walter Alvarez",
+        "sitelinks": 83,
+        "facts": {
+            "date_of_birth": "1911",
+            "birthplace": "San Francisco",
+            "occupation": "physicist, nuclear physicist, university teacher, inventor, astronomer",
+            "field_of_work": "physics",
+            "educated_at": "University of Chicago, San Francisco Polytechnic High School",
+            "employer": "University of California, Berkeley",
+            "award_received": "Nobel Prize in Physics, National Medal of Science, Collier Trophy, Medal for Merit, California Scientist of the Year, Albert Einstein Award, Michelson\u2013Morley Award, honorary doctor of the University of Chicago, honorary doctor of Carnegie-Mellon University, National Inventors Hall of Fame, Fellow of the American Physical Society, John Scott Award, Enrico Fermi Award, Fellow of the American Academy of Arts and Sciences, honorary doctorate of the Autonomous University of Madrid, Golden Plate Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q172840",
+        "name": "Murray Gell-Mann",
+        "sitelinks": 92,
+        "facts": {
+            "date_of_birth": "1929",
+            "birthplace": "Lower Manhattan",
+            "occupation": "non-fiction writer, theoretical physicist, physicist",
+            "field_of_work": "particle physics, physics",
+            "educated_at": "Yale College, Massachusetts Institute of Technology, Yale University, Columbia Grammar & Preparatory School, Jonathan Edwards College",
+            "employer": "University of Chicago, California Institute of Technology",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, Humanist of the Year, William Procter Prize for Scientific Achievement, Helmholtz Medal, John J. Carty Award for the Advancement of Science, Franklin Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Dannie Heineman Prize for Mathematical Physics, Albert Einstein Medal, Fellow of the Pakistan Academy of Sciences, Fellow of the Committee for Skeptical Inquiry, Fellow of the American Academy of Arts and Sciences, Foreign Member of the Royal Society, Ernest Orlando Lawrence Award, Honorary doctorate of the University of Florida, honorary doctorate from the University of Cambridge, honorary doctorate from Columbia University, Honorary doctor of the University of Oxford, honorary doctor of the University of Chicago, honorary doctor of Yale University, Golden Plate Award",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q173028",
+        "name": "Emilio G. Segr\u00e8",
+        "sitelinks": 79,
+        "facts": {
+            "date_of_birth": "1905, 1905",
+            "birthplace": "Tivoli",
+            "occupation": "physicist, university teacher, nuclear physicist, writer",
+            "field_of_work": "physics",
+            "educated_at": "Sapienza University of Rome",
+            "employer": "University of California, Berkeley, University of Palermo, Sapienza University of Rome, Federal University of Rio de Janeiro",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, August Wilhelm von Hofmann Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society",
+            "citizenship": "United States, Kingdom of Italy"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q183655",
+        "name": "Owen Chamberlain",
+        "sitelinks": 71,
+        "facts": {
+            "date_of_birth": "1920",
+            "birthplace": "San Francisco",
+            "occupation": "physicist, university teacher",
+            "field_of_work": "physics",
+            "educated_at": "Dartmouth College, University of Chicago, Germantown Friends School",
+            "employer": "Harvard University, University of California, Berkeley",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, Fellow of the American Physical Society",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q130113",
+        "name": "Robert Hofstadter",
+        "sitelinks": 71,
+        "facts": {
+            "date_of_birth": "1915",
+            "birthplace": "New York City",
+            "occupation": "physicist, nuclear physicist, university teacher, astrophysicist",
+            "field_of_work": "physics",
+            "educated_at": "Princeton University, City College of New York, DeWitt Clinton High School",
+            "employer": "Stanford University",
+            "award_received": "Guggenheim Fellowship, Nobel Prize in Physics, National Medal of Science, Dirac Medal for the Advancement of Physics, Humboldt Research Fellowship, Humboldt Prize, honorary doctorate of the Universit\u00e9 de Clermont-Ferrand",
+            "citizenship": "United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q44286",
+        "name": "Rudolf Ludwig M\u00f6ssbauer",
+        "sitelinks": 75,
+        "facts": {
+            "date_of_birth": "1929",
+            "birthplace": "Munich",
+            "occupation": "physicist, university teacher, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "Technische Universit\u00e4t Berlin, Technical University of Munich",
+            "employer": "Technical University of Munich, Technische Universit\u00e4t Berlin, California Institute of Technology, Institut Laue\u2013Langevin",
+            "award_received": "Nobel Prize in Physics, Elliott Cresson Medal, Rontgen-Preis, Bavarian Order of Merit, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany, honorary doctorate from University of Lille-I, honorary doctorate from Joseph Fourier University, Guthrie Medal and Prize, Lomonosov Gold Medal, Bavarian Maximilian Order for Science and Art, Albert Einstein Medal, Urania Medal, Pour le M\u00e9rite, Pour le M\u00e9rite for Sciences and Arts order, Legion of Honour, Fellow of the American Physical Society",
+            "citizenship": "Germany"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q133267",
+        "name": "Lev Landau",
+        "sitelinks": 99,
+        "facts": {
+            "date_of_birth": "1908, 1908",
+            "birthplace": "Baku",
+            "occupation": "physicist, inventor, non-fiction writer, university teacher, theoretical physicist, mathematician",
+            "field_of_work": "theoretical physics",
+            "educated_at": "Faculty of Physics and Mathematics of the Saint Petersburg University, Baku State University, Baku Polytechnicum",
+            "employer": "National University of Kharkiv, Kharkiv Institute of Physics and Technology, P.L. Kapitza Institute for Physical Problems RAS, Ioffe Institute, Lomonosov Moscow State University, Moscow Institute of Physics and Technology",
+            "notable_work": "Course of Theoretical Physics, Landau theory, Landau damping, Landau distribution, Landau pole, Landau quantization, Landau\u2013Squire jet, Landau\u2013Levich problem, Landau\u2013Hopf theory of turbulence, Ginzburg\u2013Landau\u2013Abrikosov\u2013Gor'kov theory, Darrieus\u2013Landau instability, Landau\u2013Lifshitz model, Landau\u2013Lifshitz\u2013Gilbert equation, Landau\u2013Zener formula, Landau\u2013Pomeranchuk\u2013Migdal effect, Landau\u2013Yang theorem",
+            "award_received": "Nobel Prize in Physics, Stalin Prize, Order of Lenin, Hero of Socialist Labour, Order of the Badge of Honour, Max Planck Medal, Order of the Red Banner of Labour, Fritz London Award, Order of Lenin, Lenin Prize, Foreign Member of the Royal Society, Stalin Prize, 2nd degree, State Stalin Prize, 1st degree",
+            "citizenship": "Russian Empire, Azerbaijan Democratic Republic, Soviet Union"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q155790",
+        "name": "Eugene Paul Wigner",
+        "sitelinks": 98,
+        "facts": {
+            "date_of_birth": "1902",
+            "birthplace": "Budapest",
+            "occupation": "mathematician, physicist, university teacher, theoretical physicist, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "Fasori Gimn\u00e1zium, Technische Universit\u00e4t Berlin",
+            "employer": "Princeton University, Technische Universit\u00e4t Berlin, University of Wisconsin\u2013Madison, University of G\u00f6ttingen, Leiden University, Princeton University, Manhattan Project, Princeton University, Oak Ridge National Laboratory",
+            "notable_work": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences, Wigner's theorem",
+            "award_received": "Nobel Prize in Physics, Max Planck Medal, Enrico Fermi Award, Albert Einstein Award, National Medal of Science, Wigner Medal, Josiah Willard Gibbs Lectureship, Franklin Medal, Richtmyer Memorial Lecture Award, Fellow of the American Physical Society, Foreign Member of the Royal Society, John von Neumann Prize, Medal for Merit, Atoms for Peace Award",
+            "citizenship": "Hungary, United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q57100",
+        "name": "Maria G\u00f6ppert Mayer",
+        "sitelinks": 102,
+        "facts": {
+            "date_of_birth": "1906, 1906",
+            "birthplace": "Katowice",
+            "occupation": "physicist, nuclear physicist, university teacher, scientist",
+            "field_of_work": "physics, nuclear physics, radioactivity, quantum mechanics, theoretical physics, physical chemistry, photochemistry, statistical mechanics",
+            "educated_at": "University of G\u00f6ttingen",
+            "employer": "Johns Hopkins University, University of California, San Diego, Columbia University, Sarah Lawrence College, Los Alamos National Laboratory, Argonne National Laboratory",
+            "notable_work": "nuclear shell model",
+            "award_received": "Nobel Prize in Physics, National Women's Hall of Fame, Fellow of the American Physical Society, Fellow of the American Academy of Arts and Sciences, Golden Plate Award",
+            "citizenship": "Germany, United States"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q76797",
+        "name": "Johannes Hans Daniel Jensen",
+        "sitelinks": 77,
+        "facts": {
+            "date_of_birth": "1907, 1907",
+            "birthplace": "Hamburg",
+            "occupation": "physicist, university teacher, nuclear physicist",
+            "field_of_work": "physics",
+            "educated_at": "University of Hamburg, Kiel University",
+            "employer": "Heidelberg University, Leibniz University Hannover",
+            "award_received": "Nobel Prize in Physics, Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany",
+            "citizenship": "West Germany, German Reich"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q83552",
+        "name": "Alexander Prokhorov",
+        "sitelinks": 78,
+        "facts": {
+            "date_of_birth": "1916",
+            "birthplace": "Atherton",
+            "occupation": "physicist, university teacher, editor",
+            "field_of_work": "physics, quantum electronics, laser, maser",
+            "educated_at": "Faculty of Physics, State University of Saint Petersbourg, Lebedev Physical Institute, Saint Petersburg State University",
+            "employer": "Moscow Institute of Physics and Technology, Lomonosov Moscow State University, Lebedev Physical Institute, Prokhorov General Physics Institute, SINP MSU, Laser Physics",
+            "award_received": "USSR State Prize, Order of Lenin, Medal \"For the Victory over Germany in the Great Patriotic War 1941\u20131945\", Hero of Socialist Labour, Order of the Patriotic War, 1st class, Nobel Prize in Physics, Order \"For Merit to the Fatherland\", 2nd class, Lenin Prize, Medal \"For Courage\", Medal \"Veteran of Labour\", Lomonosov Gold Medal, Medal \"In Commemoration of the 850th Anniversary of Moscow\", Helmholtz Medal, Frederic Ives Medal, Medal \"For Valiant Labour in the Great Patriotic War 1941\u20131945\", Council of Ministers of the Soviet Union Prize, Demidov Prize, Russian government prize for science and technology, Order of Lenin, \"Hammer and Sickle\" gold medal, Order of Lenin, Order of Lenin, Order of Lenin, Hero of Socialist Labour, \"Hammer and Sickle\" gold medal, Order of Cyril and Methodius, State Prize of the Russian Federation, Council of Ministers of the Soviet Union Prize, Jubilee Medal \"In Commemoration of the 100th Anniversary of the Birth of Vladimir Ilyich Lenin\", Jubilee Medal \"Twenty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"Thirty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"Forty Years of Victory in the Great Patriotic War 1941\u20131945\", Jubilee Medal \"50 Years of the Armed Forces of the USSR\", Medal \"In Commemoration of the 800th Anniversary of Moscow\", Russian Federation Presidential Certificate of Gratitude, Lomonosov Gold Medal",
+            "citizenship": "Soviet Union, Russia"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q1043",
+        "name": "Carl Linnaeus",
+        "sitelinks": 213,
+        "facts": {
+            "date_of_birth": "1707",
+            "birthplace": "R\u00e5shult",
+            "occupation": "botanist, physician, autobiographer, biologist, mycologist, pteridologist, bryologist, zoologist, entomologist, ornithologist, naturalist, arachnologist, mineralogist, taxonomist, scientific collector, university teacher",
+            "field_of_work": "medicine, natural history, botany, natural science",
+            "educated_at": "University of Harderwijk, Lund University, Uppsala University",
+            "employer": "Uppsala University",
+            "notable_work": "Systema Naturae, Species Plantarum, Genera Plantarum, Fundamenta Botanica, Critica Botanica, Bibliotheca Botanica, Amoenitates Academicae, Hortus Cliffortianus, Musa Cliffortiana, Methodus, Praeludia Sponsaliorum Plantarum",
+            "award_received": "Knight of the Order of the Polar Star",
+            "citizenship": "Sweden"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q37610",
+        "name": "David Ben-Gurion",
+        "sitelinks": 134,
+        "facts": {
+            "date_of_birth": "1886",
+            "birthplace": "P\u0142o\u0144sk",
+            "occupation": "politician, trade unionist, Zionist",
+            "field_of_work": "politics, Zionism",
+            "educated_at": "Istanbul University Faculty of Law, University of Warsaw, Istanbul University",
+            "notable_work": "Declaration of the Establishment of the State of Israel",
+            "award_received": "Bialik Prize, honorary doctor of Tel Aviv University, honorary citizen of Jerusalem",
+            "citizenship": "Russian Empire, Ottoman Empire, Mandatory Palestine, Israel"
+        },
+        "tier": "Low"
+    },
+    {
+        "id": "Q9344",
+        "name": "Google Docs",
+        "sitelinks": 52,
+        "facts": {},
+        "tier": "Low"
+    },
+    {
+        "id": "Q92771",
+        "name": "Janus Friis",
+        "sitelinks": 19,
+        "facts": {
+            "date_of_birth": "1976",
+            "birthplace": "Copenhagen",
+            "occupation": "entrepreneur, computer scientist",
+            "citizenship": "Kingdom of Denmark"
+        },
+        "tier": "Low"
+    }
+]

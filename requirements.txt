@@ -1,0 +1,10 @@
+SPARQLWrapper
+requests
+openai
+transformers
+torch
+pandas
+tqdm
+openpyxl
+matplotlib
+seaborn
