@@ -1,6 +1,12 @@
 # Knowledge-Graph-Based Hallucination Detection in LLMs
 
 <a href="https://colab.research.google.com/github/omrusman/KGHallucinate/blob/main/Pipeline_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+## 🤝 Colab Quickstart
+
+Don't want to set up the local pipeline? You can instantly run the pipeline using Google Colab. Just open the provided `Pipeline_Colab.ipynb` notebook (click the Colab badge at the top).
+Recommendation: The repository already contains the downloaded Wikidata ground truth facts (`data/entities.json`). For testing the project start directly at **Step 2** in the notebook to jump straight into the LLM Generation pipeline! If you want to customize the dataset and query new people, you can run Step 1.
+
+---
 
 This repository contains the full codebase and dataset for evaluating hallucination rates in Large Language Models (LLMs) across different entities, segmented by their popularity.
 
@@ -134,11 +140,5 @@ All generated outputs and raw statistics are stored in the `data/` and `results/
 - `data/verified.json`: The final JSON containing the atomic claims, the truth values, and the NLI confidence scores.
 - `results/hallucination_results.xlsx`: Contains full statistical breakdowns and raw claim-level verdicts in a readable spreadsheet.
 - `results/figures/`: Contains the generated matplotlib charts.
-
-## 🤝 Colab Quickstart
-
-Don't want to set up the local pipeline? You can instantly run the pipeline using Google Colab. Just open the provided `Pipeline_Colab.ipynb` notebook (click the Colab badge at the top).
-
-**Recommendation:** The repository already contains the downloaded Wikidata ground truth facts (`data/entities.json`). I recommend that users testing the project start directly at **Step 2** in the notebook to jump straight into the LLM Generation pipeline! If you want to customize the dataset and query new people, you can run Step 1.
 
 
